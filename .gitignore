@@ -7,3 +7,6 @@ inst/doc
 .DS_Store
 .quarto
 inst/extdata/registry.yml.*.bak
+
+# Ignore built pkgdown site
+metahub/docs/
