@@ -22,5 +22,5 @@ Suggests:
     rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/mahmood789/repo100, https://mahmood789.github.io/repo100
-BugReports: https://github.com/mahmood789/repo100/issues
+URL: https://mahmood789.github.io/repo100/ https://github.com/mahmood789/repo100, https://mahmood789.github.io/repo100
+BugReports: https://github.com/mahmood789/repo100/issues https://github.com/mahmood789/repo100/issues
