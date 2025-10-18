@@ -7,16 +7,15 @@
 
 #' Load the dataset registry
 #' @return List of registry records
-#' @export
 registry_load <- function() {
   path <- .registry_path()
   if (!nzchar(path)) stop("Registry not found in inst/extdata/registry.yml")
   yaml::read_yaml(path)
 }
 
-#' List available datasets from the registry
-#' @param pattern Optional regex to filter by id or title
-#' @export
+#' @noRd
+#' @noRd
+#' @noRd
 list_datasets_legacy <- function(pattern = NULL) {
   reg <- registry_load()
   tib <- tibble::tibble(
