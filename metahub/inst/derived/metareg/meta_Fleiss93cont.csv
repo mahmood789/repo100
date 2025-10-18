@@ -1,0 +1,6 @@
+"dataset_id","source_pkg","object","title","slab","yi","vi","measure","year"
+"meta_Fleiss93cont","meta","Fleiss93cont","Mental Health Treatment",1,-0.33987608706701,0.156067610664615,"SMD",1973
+"meta_Fleiss93cont","meta","Fleiss93cont","Mental Health Treatment",2,-0.565889664491664,0.0553347777856989,"SMD",1971
+"meta_Fleiss93cont","meta","Fleiss93cont","Mental Health Treatment",3,-0.299908862924967,0.0577853237575782,"SMD",1975
+"meta_Fleiss93cont","meta","Fleiss93cont","Mental Health Treatment",4,0.1250235914109,0.100195386230116,"SMD",1975
+"meta_Fleiss93cont","meta","Fleiss93cont","Mental Health Treatment",5,-0.734444111690334,0.266856504787394,"SMD",1977

@@ -1,0 +1,21 @@
+"dataset_id","source_pkg","object","title","slab","yi","vi","measure","trt","arms"
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",1,0.46,0.013924,"from_dataset","BMT",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",2,0.25,0.005476,"from_dataset","CMO",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",3,0.5,0.01,"from_dataset","BMT",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",4,0.23,0.004489,"from_dataset","CMO",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",5,0.47,0.016641,"from_dataset","BMT",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",6,0.42,0.007396,"from_dataset","CMO",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",7,0.7,0.0529,"from_dataset","BMT",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",8,0.48,0.027889,"from_dataset","CMO",2
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",9,0.46,0.006561,"from_dataset","BMT",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",10,0.43,0.001156,"from_dataset","BMT",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",11,0.49,0.007744,"from_dataset","BMT",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",12,0.53,0.006241,"from_dataset","BMT",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",13,0.21,0.002601,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",14,0.32,0.001521,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",15,0.48,0.008836,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",16,0.26,0.002116,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",17,0.33,0.000841,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",18,0.38,0.001089,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",19,0.24,0.007056,"from_dataset","CMO",1
+"metadat_dat.begg1989","metadat","dat.begg1989","Studies on Bone-Marrow Transplantation versus Chemotherapy for the Treatment of Leukemia",20,0.53,0.007056,"from_dataset","CMO",1

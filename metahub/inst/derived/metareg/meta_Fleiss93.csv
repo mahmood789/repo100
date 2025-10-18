@@ -1,0 +1,8 @@
+"dataset_id","source_pkg","object","title","slab","yi","vi","measure","year"
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",1,-0.298344220717429,0.0321049560369078,"RR",1974
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",2,-0.357688461520453,0.0357359946523332,"RR",1976
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",3,-0.189905185004053,0.015362035839977,"RR",1979
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",4,-0.197410753906194,0.0511749693864995,"RR",1979
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",5,-0.199273550155863,0.0272978530246955,"RR",1980
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",6,0.111838932425869,0.00774707307799698,"RR",1980
+"meta_Fleiss93","meta","Fleiss93","Aspirin after Myocardial Infarction",7,-0.0897358998960307,0.000985603847672581,"RR",1988

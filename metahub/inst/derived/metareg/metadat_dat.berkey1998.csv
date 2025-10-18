@@ -1,0 +1,11 @@
+"dataset_id","source_pkg","object","title","slab","yi","vi","measure","year","v1i","v2i"
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Pihlstrom et al. 1983",0.47,0.0075,"from_dataset",1983,0.0075,0.003
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Pihlstrom et al. 1983",-0.32,0.0077,"from_dataset",1983,0.003,0.0077
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Lindhe et al. 1982",0.2,0.0057,"from_dataset",1982,0.0057,9e-04
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Lindhe et al. 1982",-0.6,8e-04,"from_dataset",1982,9e-04,8e-04
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Knowles et al. 1979",0.4,0.0021,"from_dataset",1979,0.0021,7e-04
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Knowles et al. 1979",-0.12,0.0014,"from_dataset",1979,7e-04,0.0014
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Ramfjord et al. 1987",0.26,0.0029,"from_dataset",1987,0.0029,9e-04
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Ramfjord et al. 1987",-0.31,0.0015,"from_dataset",1987,9e-04,0.0015
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Becker et al. 1988",0.56,0.0148,"from_dataset",1988,0.0148,0.0072
+"metadat_dat.berkey1998","metadat","dat.berkey1998","Studies on Treatments for Periodontal Disease","Becker et al. 1988",-0.39,0.0304,"from_dataset",1988,0.0072,0.0304

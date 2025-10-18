@@ -1,0 +1,71 @@
+"dataset_id","source_pkg","object","title","slab","yi","vi","measure","year"
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Fletcher 1959",-1.47330573810952,1.07575757575758,"RR",1959
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Dewar 1963",-0.559615787935423,0.297619047619048,"RR",1963
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Lippschutz 1965",-0.201778728816513,0.261877751667882,"RR",1965
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","European 1 1969",0.299658263498497,0.0927137119908204,"RR",1969
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","European 2 1971",-0.353030915536921,0.0196489658998965,"RR",1971
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Heikinheimo 1971",0.201476172750968,0.0948809469462519,"RR",1971
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Italian 1971",0.0104465987943851,0.0957201467757219,"RR",1971
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Australian 1 1973",-0.25019897919704,0.0619710905036992,"RR",1973
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Frankfurt 2 1973",-0.782928386667836,0.0919865293597545,"RR",1973
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Gormsen 1973",-0.405465108108164,0.69047619047619,"RR",1973
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","NHLBI SMIT 1974",0.865989993399356,0.438804033143656,"RR",1974
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Brochier 1975",-1.38629436111989,0.591666666666667,"RR",1975
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Euro Collab 1975",0.171646237748149,0.0644183120356706,"RR",1975
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Frank 1975",-0.0370412716803488,0.296283590623213,"RR",1975
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Valere 1975",0.0465200156348931,0.157802514945372,"RR",1975
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Klein 1976",0.944461608840852,1.06746031746032,"RR",1976
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","UK-Collab 1976",-0.0815477027453531,0.0445915619122621,"RR",1976
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Austrian 1977",-0.497511389459615,0.0369111588526482,"RR",1977
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Australian 2 1977",-0.354466900527457,0.0547821888227926,"RR",1977
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Lasierra 1977",-1.26566637333128,1.16550116550117,"RR",1977
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","N Ger Collab 1977",0.186917640543048,0.0273495684157941,"RR",1977
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Witchitz 1977",-0.207639364778245,0.330288461538462,"RR",1977
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","European 3 1979",-0.491777428795296,0.0761893243025318,"RR",1979
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Anderson 1983",-0.836248024200619,0.619871794871795,"RR",1983
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Kennedy 1983",-1.09976105387198,0.26083970070074,"RR",1983
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Khaja 1983",-1.38629436111989,1.15,"RR",1983
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Theroux 1983",0.0645385211375712,0.358333333333333,"RR",1983
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Kolibash 1984",-0.524524468124153,0.322660098522167,"RR",1984
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Leiboff 1984",0.492476485097794,0.648989898989899,"RR",1984
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Rentrop 1984",0.74092902601526,0.211323285093777,"RR",1984
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Been 1985",-1.6094379124341,2.28235294117647,"RR",1985
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Raizner 1985",0.881199412062885,0.686945812807882,"RR",1985
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Verstraete 1985",-1.37079017458393,1.21899038461538,"RR",1985
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Kersschot 1986",-2.14398006281741,1.06041666666667,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","ISAM 1986",-0.127727545804722,0.0320936031895619,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Netherlands 1986",-0.600683821905243,0.0745379927464129,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","GISSI-1 1986",-0.189509339605216,0.00257008768762546,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Olson 1986",-0.847297860387203,1.42261904761905,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Ikarm 1986",-0.376746135759153,0.316000617983314,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Baroffio 1986",-2.53215953463855,2.08825475599669,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Schreiber 1986",-1.09861228866811,1.2280701754386,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Cribeir 1986",0.0909717782057267,1.90890269151139,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Sainsous 1986",-0.693147180559945,0.459183673469388,"RR",1986
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Leizorovicz 1987",-0.105360515657826,2.55833333333333,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Buchalter 1987",-2.35344351022754,2.09288537549407,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Julian 1987",-1.94591014905531,1.0984126984127,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Bossaert 1987",0.485507815781701,0.703525641025641,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Croydon 1987",-0.441832752279039,0.521428571428571,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Guerci 1987",-0.31015492830384,0.420959595959596,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Durand 1987",-0.69887785526893,0.470279146141215,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","White 1987",-1.74608943239487,0.565058967512239,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Topol 1987",-0.693147180559945,0.78,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Timmis 1987",0.485507815781701,1.36057692307692,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Bassand 1987",-0.503526321284379,0.355444555444555,"RR",1987
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Vlay 1988",-0.773189888233482,1.33974358974359,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Van de Werf 1988",-0.446408528164359,0.084489172330636,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","O'Rourke 1988",-0.0413852161628543,0.472401979444233,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Kennedy 1988",-0.424430389741016,0.131271543136733,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Meinertz 1988",-0.817530900247681,0.150947333996015,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","ISIS-2 1988",-0.262695666998092,0.00200330575124539,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","AIMS 1988",-0.645137961373585,0.0436593788779309,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Wisenberg 1988",-1.41098697371026,0.635609756097561,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","NHF-ACTG 1988",0.819518296280128,0.448407339011236,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Brunelli 1988",-0.954161005929565,0.431661925082978,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","ASSET 1988",-0.305633133102644,0.00877788026455109,"RR",1988
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","APSIM 1989",0.214775301643693,0.2921918767507,"RR",1989
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Armstrong 1989",-0.795112107216633,0.44138418079096,"RR",1989
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","TEAHAT 1990",-0.0898644459720361,0.132203352203352,"RR",1990
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Cassagnes 1990",0.060624621816435,0.268382352941176,"RR",1990
+"meta_Olkin95","meta","Olkin95","Thrombolytic Therapy after Acute Myocardial Infarction","Bonaduce 1990",0,0.9,"RR",1990
