@@ -19,3 +19,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/<user>/metahub, https://<user>.github.io/metahub
+BugReports: https://github.com/<user>/metahub/issues
