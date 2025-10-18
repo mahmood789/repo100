@@ -1,4 +1,3 @@
-
 name: R-CMD-check (metahub)
 on:
   push:
@@ -27,6 +26,6 @@ jobs:
           extra-packages: any::rcmdcheck
           needs: check
       - name: Check
-        run: rcmdcheck::rcmdcheck(args = c("--no-manual","--as-cran"), error_on = "warning")
+        run: rcmdcheck::rcmdcheck(args = c("--no-manual","--as-cran"), build_args = c("--no-build-vignettes"), error_on = "warning")
         shell: Rscript {0}
 

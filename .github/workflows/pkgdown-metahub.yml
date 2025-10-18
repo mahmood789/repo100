@@ -1,5 +1,5 @@
-
 name: pkgdown (metahub)
+
 on:
   push:
     branches: [ master ]
@@ -7,13 +7,16 @@ on:
       - "metahub/**"
       - ".github/workflows/pkgdown-metahub.yml"
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: true
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -29,7 +32,7 @@ jobs:
           extra-packages: any::pkgdown
           needs: website
       - name: Build site
-        run: pkgdown::build_site(preview = false)
+        run: pkgdown::build_site(preview = FALSE)
         shell: Rscript {0}
       - name: Configure Pages
         uses: actions/configure-pages@v5
