@@ -17,7 +17,7 @@ registry_load <- function() {
 #' List available datasets from the registry
 #' @param pattern Optional regex to filter by id or title
 #' @export
-list_datasets <- function(pattern = NULL) {
+list_datasets_legacy <- function(pattern = NULL) {
   reg <- registry_load()
   tib <- tibble::tibble(
     id          = vapply(reg, `[[`, "", "id"),
