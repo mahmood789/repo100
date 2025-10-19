@@ -10,5 +10,4 @@ inst/extdata/registry.yml.*.bak
 
 # Ignore built pkgdown site
 metahub/docs/
-
 bcg_*.png
