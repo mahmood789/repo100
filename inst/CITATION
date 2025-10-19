@@ -1,11 +1,9 @@
+citHeader("To cite repo100 in publications use:")
 bibentry(
-  bibtype = "Article",
-  title = ,
-  author = ,
-  journal = ,
-  year = ,
-  volume = ,
-  number = ,
-  pages = ,
-  doi =
+  bibtype = "Manual",
+  title   = "repo100: Meta-regression datasets and helpers",
+  author  = person("Mahmood", "Ahmad", email = "mahmood.ahmad2@nhs.net", role = c("aut","cre")),
+  year    = "2025",
+  note    = "R package version 0.1.0",
+  url     = "https://mahmood789.github.io/repo100/"
 )
