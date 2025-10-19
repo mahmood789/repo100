@@ -2,53 +2,44 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
-
 # repo100
 
-<!-- badges: start -->
-<!-- badges: end -->
+**A curated collection of meta-regression–ready datasets** (currently **137** sets).
 
-The goal of repo100 is to ...
+Each dataset is a CSV with `yi`, `vi`, `measure`, and harmonized moderators in `inst/extdata/metareg/`.
+See `_manifest.csv` for a summary and provenance.
 
-## Installation
+## Install
 
-You can install the development version of repo100 like so:
-
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```r
+remotes::install_github('mahmood789/repo100')
 ```
 
-## Example
+## Quick start
 
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-library(repo100)
-## basic example code
+```r
+# helper functions are installed with the package
+m <- metareg_manifest()
+head(m[, c("dataset_id","k","measure","n_mods")])
+ids <- metareg_datasets()
+d  <- metareg_read(ids[1])
+str(d[, c("slab","yi","vi","measure")])
+metafor::rma(yi, vi, data = d)  # simple random-effects model
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+## Methods (brief)
 
-```{r cars}
-summary(cars)
-```
+- Included if: at least one non-constant moderator; effect sizes available as (`yi`,`vi`) or derivable;
+  and `k ≥ 8` (primary pass) or `k ≥ 10` (strict pass).
+- Datasets sourced from CRAN packages, MetaPsy, selected GitHub orgs, targeted code search, and local whitelists.
+- Deduplication via a content signature on sorted rounded `(yi,vi)` pairs.
+- Manifest records source package/object/title and repo license when available.
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this.
+## Licensing
 
-You can also embed plots, for example:
+- Package code: MIT.
+- Datasets: CC-BY-4.0 unless otherwise indicated in `_manifest.csv` (`repo_license`).
 
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
+## Citation
 
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
+If you use this package, please cite the package and the original data sources listed in the manifest.

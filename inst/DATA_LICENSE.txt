@@ -1,0 +1,7 @@
+Data license for files in inst/extdata/metareg/
+
+Unless otherwise noted in the manifest’s `repo_license` column,
+the curated datasets shipped here are provided under CC-BY-4.0.
+
+Please attribute the original authors/data sources as listed in
+`inst/extdata/metareg/_manifest.csv` (columns: source, source_pkg/object/title, repo, repo_license).
