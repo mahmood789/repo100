@@ -18,5 +18,9 @@ helpers at your local export folder via:
 m <- metareg_manifest()
 head(m)
 \dontshow{\}) # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
+m <- metareg_manifest()
+head(m)
+\dontshow{\}) # examplesIf}
 }
 \keyword{data}
