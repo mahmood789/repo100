@@ -12,3 +12,4 @@ inst/extdata/registry.yml.*.bak
 metahub/docs/
 bcg_*.png
 README.html
+*.bak

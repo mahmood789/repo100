@@ -10,6 +10,9 @@
 #' 
 #' @keywords data
 #' @name metareg-helpers
+#' @examplesIf FALSE
+#' m <- metareg_manifest()
+#' head(m)
 NULL
 
 # internal: safe file name mapping used by the harvester

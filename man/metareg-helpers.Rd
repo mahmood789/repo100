@@ -13,4 +13,10 @@ helpers at your local export folder via:
 
 \dontrun{options(metahub.metareg_dir = "metahub/inst/derived/metareg")}
 }
+\examples{
+\dontshow{if (FALSE) withAutoprint(\{ # examplesIf}
+m <- metareg_manifest()
+head(m)
+\dontshow{\}) # examplesIf}
+}
 \keyword{data}
