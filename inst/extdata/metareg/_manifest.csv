@@ -136,3 +136,8 @@
 "gh_PATH-AI-Initiative_RwandaBenchmarking_output_art_anova_posthoc_interactions_evaluationLanguage_responder.csv","GitHub","PATH-AI-Initiative","output/art_anova/posthoc/interactions/evaluationLanguage_responder.csv","PATH-AI-Initiative / RwandaBenchmarking / output/art_anova/posthoc/interactions/evaluationLanguage_responder.csv","RwandaBenchmarking","main",NA,91,"estimate",6,"contrast|estimate|tratio|pvalue|precision|abs_yi","a097858e258ce552"
 "gh_gsbDBI_infodemic-replication_figures_figure3_source.csv","GitHub","gsbDBI","figures/figure3_source.csv","gsbDBI / infodemic-replication / figures/figure3_source.csv","infodemic-replication","main",NA,15,"estimate",5,"estimate|covariate|leaf|precision|abs_yi","7766ecd64f64d10a"
 "gh_lnalborczyk_IBSM2023__imsb_data-raw_meta.csv","GitHub","lnalborczyk","_imsb/data-raw/meta.csv","lnalborczyk / IBSM2023 / _imsb/data-raw/meta.csv","IBSM2023","main","MIT",32,"from_dataset",3,"experiment|precision|abs_yi","f0b1f1b06932d16c"
+"meta_Fleiss93","GitHub",NA,NA,NA,NA,NA,NA,7,"RR",NA,NA,NA
+"meta_Fleiss93cont","GitHub",NA,NA,NA,NA,NA,NA,5,"SMD",NA,NA,NA
+"metadat_dat.colditz1994","GitHub",NA,NA,NA,NA,NA,NA,13,"RR",NA,NA,NA
+"metadat_dat.lim2014","GitHub",NA,NA,NA,NA,NA,NA,357,"ZCOR",NA,NA,NA
+"netmeta_Senn2013","GitHub",NA,NA,NA,NA,NA,NA,28,"te",NA,NA,NA
