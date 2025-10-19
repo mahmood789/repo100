@@ -17,9 +17,8 @@ A data.frame with columns including \code{yi}, \code{vi}, \code{measure}
 Read a specific meta-regression dataset by id
 }
 \examples{
-\dontrun{
-  ids <- metareg_datasets()
+#'   ids <- metareg_datasets()
   dat <- metareg_read(ids[1])
   str(dat)
-}
+
 }

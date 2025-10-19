@@ -6,7 +6,7 @@
 #' During development (without installing the package), you can point these
 #' helpers at your local export folder via:
 #'
-#' \dontrun{options(metahub.metareg_dir = "metahub/inst/derived/metareg")}
+#' options(metahub.metareg_dir = "metahub/inst/derived/metareg")
 #' 
 #' @keywords data
 #' @name metareg-helpers
@@ -66,12 +66,12 @@ metareg_datasets <- function() {
 #' @return A data.frame with columns including \code{yi}, \code{vi}, \code{measure}
 #'   and the available moderators.
 #' @examples
-#' \dontrun{
-#'   ids <- metareg_datasets()
+#' #'   ids <- metareg_datasets()
 #'   dat <- metareg_read(ids[1])
 #'   str(dat)
-#' }
+#'
 #' @export
+#' Meta-regression dataset helpers
 metareg_read <- function(id) {
   stopifnot(length(id) == 1, nchar(id) > 0)
   root <- .metareg_root()

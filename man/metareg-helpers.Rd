@@ -11,7 +11,7 @@ datasets shipped with this package (CSV files in `inst/extdata/metareg/`).
 During development (without installing the package), you can point these
 helpers at your local export folder via:
 
-\dontrun{options(metahub.metareg_dir = "metahub/inst/derived/metareg")}
+options(metahub.metareg_dir = "metahub/inst/derived/metareg")
 }
 \examples{
 \dontshow{if (FALSE) withAutoprint(\{ # examplesIf}

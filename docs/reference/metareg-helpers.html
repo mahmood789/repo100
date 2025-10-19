@@ -49,7 +49,7 @@ datasets shipped with this package (CSV files in `inst/extdata/metareg/`).</p>
     <h2 id="details">Details<a class="anchor" aria-label="anchor" href="#details"></a></h2>
     <p>During development (without installing the package), you can point these
 helpers at your local export folder via:</p>
-<p></p>
+<p>options(metahub.metareg_dir = "metahub/inst/derived/metareg")</p>
     </div>
 
     <div class="section level2">
@@ -58,6 +58,43 @@ helpers at your local export folder via:</p>
 <span class="r-in"><span><span class="va">m</span> <span class="op">&lt;-</span> <span class="fu"><a href="metareg_manifest.html">metareg_manifest</a></span><span class="op">(</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">m</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="op">}</span></span></span>
+<span class="r-in"><span><span class="va">m</span> <span class="op">&lt;-</span> <span class="fu"><a href="metareg_manifest.html">metareg_manifest</a></span><span class="op">(</span><span class="op">)</span></span></span>
+<span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">m</span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>                      dataset_id source  source_pkg     source_object</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1       metadat_dat.lehmann2018   CRAN     metadat   dat.lehmann2018</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2       metadat_dat.mccurdy2020   CRAN     metadat   dat.mccurdy2020</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3 psymetadata_stasielowicz2019b   CRAN psymetadata stasielowicz2019b</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4 psymetadata_stasielowicz2019a   CRAN psymetadata stasielowicz2019a</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5  psymetadata_stasielowicz2020   CRAN psymetadata  stasielowicz2020</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6        metadat_dat.curtis1998   CRAN     metadat    dat.curtis1998</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>                                                                     source_title</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1                                  The Effect of Red on Perceived Attractiveness</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2                                               Studies on the Generation Effect</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3 Studies on the association between goal orientation and performance adaptation</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4 Studies on the association between goal orientation and performance adaptation</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5       Studies on the importance of cognitive ability in performance adaptation</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6              Studies on the Effects of Elevated CO2 Levels on Woody Plant Mass</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>   repo branch repo_license    k      measure n_mods</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1 &lt;NA&gt;   &lt;NA&gt;         CRAN   81 from_dataset     47</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2 &lt;NA&gt;   &lt;NA&gt;         CRAN 1653 from_dataset     25</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3 &lt;NA&gt;   &lt;NA&gt;         CRAN   86 from_dataset     22</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4 &lt;NA&gt;   &lt;NA&gt;         CRAN   76 from_dataset     21</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5 &lt;NA&gt;   &lt;NA&gt;         CRAN  133 from_dataset     21</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6 &lt;NA&gt;   &lt;NA&gt;         CRAN  102          SMD     20</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 moderators</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1 short_title|full_citation|year|prpublication|source_type|preregistered|gender|color_contrast|color_form|photo_type|photo_similarity|dv_type|dv_items|dv_scale|dv_scalebottom|dv_scaletop|location|continent|participants|participant_notes|design|eth_majority|eth_majority_detail|eth_stim|eth_match|red_age|control_age|color_red|color_control|red_original|color_match|presentation_control|stimuli_presentation|red_n|red_m|red_sd|control_n|control_m|control_sd|sd_diff|rm_r|control_attractiveness|notes|totalsamplesize|pooled|precision|abs_yi</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2                                                                                                                                                                                                                                                                                 article|experiment|sample|pairing|ni|stimuli|condition|gen_difficulty|manip_type|present_style|word_status|memory_test|memory_type|gen_constraint|learning_type|stimuli_relation|gen_mode|gen_task|attention|pacing|filler_task|age_grp|retention_delay|precision|abs_yi</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3                                                                                                                                                                                                                                                                                                                           study_id|es_id|author|pub_year|pub_type|peer_review|pgo_type|adapt_measures|adapt_method|adapt_method_specific|go_measure|financ_support|age|age_imputed|sex|perc_men|country|sample|level|complexity_dynamic|precision|abs_yi</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4                                                                                                                                                                                                                                                                                                                                    study_id|es_id|author|pub_year|pub_type|peer_review|adapt_measures|adapt_method|adapt_method_specific|go_measure|financ_support|age|age_imputed|sex|perc_men|country|sample|level|complexity_dynamic|precision|abs_yi</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5                                                                                                                                                                                                                                                                                         effect_id|author|pub_year|pub_type|peer_review|adapt_measures|adapt_method|adapt_method_specific|subj_adapt_definition|cog_abil_measure|ca_measure|financ_support|sex|men_prop|country|sample|task|complexity_component|complexity_coordinative|precision|abs_yi</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6                                                                                                                                                                                                                                                                                                                                                                                                          paper|genus|species|fungrp|co2ambi|co2elev|units|time|pot|method|stock|xtrt|level|n_ratio|sd_ratio|mean_ctrl|ntotal|log_ntotal|precision|abs_yi</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>          signature</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1 702e9bb2ca3a0247</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2 68c825d12beede6f</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3 23f03a8d8c2fc60a</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4 a36c3e28d1b33b84</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5 8e0550e6663727c8</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6 0675efb555cfaf8d</span>
 </code></pre></div>
     </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
