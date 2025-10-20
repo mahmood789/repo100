@@ -1,0 +1,172 @@
+Study_ID;Short_citation;Year;Growth_Habit;Species_Status;Mechanism;Disturbance_type;Ln_Overall;Ln_Overall_Var;Ln_Abundance;Ln_Abundance_Var;Ln_Biomass;Ln_Biomass_Var;Ln_Reproduction;Ln_Reproduction_Var;Ln_Richness;Ln_Richness_Var;Ln_Survival;Ln_Survival_Var;Ln_Damage;Ln_Damage_Var;Ln_HerbLoad;Ln_HerbLoad_Var;ETP;Latitude_Abs;Precipitation;Temperature
+206;Ayala et al. ;2012;Grass;Exotic;Disturbance;Fire;-0.65;0.27;-0.65;0.27;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2095;28;559;21.9
+207;Barbosa et al. ;2010;Mixed;Exotic;Disturbance;Anthropogenic;1.37;0.75;3.12;0.7893;NA;NA;NA;NA;1.64;0.72;NA;NA;NA;NA;NA;NA;1338;19;500;19.1
+212;Bellingham & Coomes;2003;Shrub;Invasive;Disturbance;Plant Removal;0.05;0.05;-0.1;0.05;0.2;0.05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1139;43;1680;8
+214;Belote et al. ;2012;Mixed;Exotic;Disturbance;Plant Removal;0.18;0.05;NA;NA;NA;NA;NA;NA;0.18;0.05;NA;NA;NA;NA;NA;NA;1232;36;1207;12.3
+214;Belote et al. ;2012;Mixed;Exotic;Disturbance;Anthropogenic;0.47;0.11;NA;NA;NA;NA;NA;NA;0.47;0.11;NA;NA;NA;NA;NA;NA;1232;36;1207;12.3
+215;Besaw et al. ;2011;Forb;Exotic;Disturbance;Fire;0.76;1.08;0.76;1.08;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1241;46;445;4.9
+216;Blair et al. ;2010;Mixed;Exotic;Disturbance;Anthropogenic;0.66;0.07;NA;NA;NA;NA;NA;NA;0.66;0.07;NA;NA;NA;NA;NA;NA;1337;37;841;12.9
+217;Bossard;1991;Shrub;Exotic;Disturbance;Plant Removal;0.28;2.06;0.28;2.06;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1568;38;1420;6.8
+220;Buckley et al. ;2003;Mixed;Exotic;Disturbance;Anthropogenic;0.61;0.41;NA;NA;NA;NA;NA;NA;0.61;0.41;NA;NA;NA;NA;NA;NA;888;46;834;3.9
+225;Cook et al. ;2008;Mixed;Exotic;Disturbance;Fire;2.46;0.48;2.46;0.48;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;959;45;783;5.7
+225;Cook et al. ;2008;Forb;Exotic;Disturbance;Fire;2.56;0.28;2.56;0.28;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;959;45;783;5.7
+227;Davies et al. ;2008;Grass;Invasive;Disturbance;Fire;-1.22;0.34;-1.22;0.34;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1422;23;292;6.6
+230;De Villalobos et al. ;2011;Mixed;Invasive;Disturbance;Grazing;1.08;0.01;1.08;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1611;38;800;14
+230;De Villalobos et al. ;2011;Tree;Invasive;Disturbance;Grazing;4.05;12.64;NA;NA;NA;NA;0.79;0.096;NA;NA;7.32;25.18;NA;NA;NA;NA;1411;38;800;14
+233;Edward et al.;2009;Tree;Exotic;Disturbance;Anthropogenic;0.83;0.0004;0.83;0.0004;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1501;5;1900;20.6
+233;Edward et al.;2009;Tree;Exotic;Disturbance;Mixed ;0.985;0.03;1.44;0.004;NA;NA;NA;NA;0.53;0.06;NA;NA;NA;NA;NA;NA;1501;5;1900;20.6
+236;Fleishman et al.;2006;Mixed;Exotic;Disturbance;Mixed ;1.06;3.24;1.83;5.37;NA;NA;NA;NA;0.29;1.12;NA;NA;NA;NA;NA;NA;2611;36;167;15.5
+238;Flory & Clay;2006;Shrub;Invasive;Disturbance;Mixed ;1.43;0.1;1.43;0.1;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1205;39;1084;11.7
+241;Gelbard & Belnap;2003;Grass;Exotic;Disturbance;Anthropogenic;-0.12;0.04;-0.12;0.04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1892;38;216;12.1
+241;Gelbard & Belnap;2003;Forb;Exotic;Disturbance;Anthropogenic;1.28;0.96;1.28;0.96;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1892;38;216;12.1
+241;Gelbard & Belnap;2003;Forb;Exotic;Disturbance;Anthropogenic;1.72;1.25;1.72;1.25;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1892;38;216;12.1
+241;Gelbard & Belnap;2003;Forb;Exotic;Disturbance;Anthropogenic;2.12;0.81;2.12;0.81;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1892;38;216;12.1
+241;Gelbard & Belnap;2003;Forb;Exotic;Disturbance;Anthropogenic;4.17;7.61;4.17;7.61;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1892;38;216;12.1
+241;Gelbard & Belnap;2003;Forb;Exotic;Disturbance;Anthropogenic;4.44;9.24;4.44;9.24;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1892;38;216;12.1
+243;Gerhardt & Collinge;2003;Mixed;Exotic;Disturbance;Anthropogenic;-0.35;0.006;-0.48;0.003;NA;NA;NA;NA;-0.22;0.008;NA;NA;NA;NA;NA;NA;1765;38;580;15.4
+243;Gerhardt & Collinge;2003;Mixed;Exotic;Disturbance;Fire;0.15;0.003;0.0271;0.0036;NA;NA;NA;NA;0.29;0.0036;NA;NA;NA;NA;NA;NA;1765;38;580;15.4
+245;Góme-Gónzalez et al. ;2011;Mixed;Exotic;Disturbance;Fire;0.05;0.02;-0.11;0.33;NA;NA;NA;NA;0.22;0.02;NA;NA;NA;NA;NA;NA;1412;33;561;14.1
+246;Gonzales & Clements;2010;Forb;Exotic;Disturbance;Grazing;0.12;0.15;NA;NA;0.12;0.15;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;883;48;1083;9.1
+246;Gonzales & Clements;2010;Grass;Exotic;Disturbance;Plant Removal;-0.35;0.48;NA;NA;-0.35;0.48;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;883;48;1083;9.1
+246;Gonzales & Clements;2010;Grass;Exotic;Disturbance;Grazing;0.005;0.245;NA;NA;0.005;0.245;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;883;48;1083;9.1
+246;Gonzales & Clements;2010;Forb;Exotic;Disturbance;Plant Removal;0.07;0.54;NA;NA;0.07;0.54;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;883;48;1083;9.1
+247;Gosper et al.;2011;Grass;Invasive;Disturbance;Fire;-0.46;0.04;-0.46;0.04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1946;33;354;16.5
+249;Cushman et al. ;2004;Forb;Exotic;Disturbance;Soil Disturbance;0.83;0.98;NA;NA;0.83;0.98;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1167;38;1000;12
+249;Cushman et al. ;2004;Grass;Exotic;Disturbance;Soil Disturbance;-0.245;1.26;NA;NA;-0.54;0.4;NA;NA;0.05;2.12;NA;NA;NA;NA;NA;NA;1167;38;1000;12
+249;Cushman et al. ;2004;Mixed;Exotic;Disturbance;Soil Disturbance;0.36;0.03;NA;NA;NA;NA;NA;NA;0.36;0.03;NA;NA;NA;NA;NA;NA;1167;38;1000;12
+250;Hansen & Clevenger;2005;Mixed;Exotic;Disturbance;Anthropogenic;9.55;0.43;9.55;0.43;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;854;51;645;-3.3
+251;Hester & Hobbs;1992;Mixed;Exotic;Disturbance;Fire;-2.03;0.45;-2.03;0.45;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2208;31;334;17.7
+252;Hobbs & Atkins;1988;Grass;Exotic;Disturbance;Soil Disturbance;1.78;4.48;1.41;0.51;2.15;8.46;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2226;31;350;17.4
+252;Hobbs & Atkins;1988;Forb;Exotic;Disturbance;Soil Disturbance;4.52;33.62;6.89;57.45;2.16;9.8;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2226;31;350;17.4
+253;Jesson et al. ;2000;Forb;Exotic;Disturbance;Anthropogenic;0.19;0.0098;NA;NA;NA;NA;NA;NA;NA;NA;0.19;0.0098;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Grass;Exotic;Disturbance;Soil Disturbance;-0.26;0.02;NA;NA;NA;NA;NA;NA;NA;NA;-0.26;0.02;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Grass;Exotic;Disturbance;Soil Disturbance;-0.04;0.02;NA;NA;NA;NA;NA;NA;NA;NA;-0.04;0.02;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Grass;Exotic;Disturbance;Soil Disturbance;-0.76;0.03;NA;NA;NA;NA;NA;NA;NA;NA;-0.76;0.03;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Forb;Exotic;Disturbance;Soil Disturbance;0.07;0.11;NA;NA;NA;NA;NA;NA;NA;NA;0.07;0.11;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Forb;Exotic;Disturbance;Soil Disturbance;-0.02;0.12;NA;NA;NA;NA;NA;NA;NA;NA;-0.02;0.12;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Grass;Exotic;Disturbance;Anthropogenic;-0.05;0.16;NA;NA;NA;NA;NA;NA;NA;NA;-0.05;0.16;NA;NA;NA;NA;1099;42;4000;5.4
+253;Jesson et al. ;2000;Forb;Exotic;Disturbance;Soil Disturbance;-0.77;0.35;NA;NA;NA;NA;NA;NA;NA;NA;-0.77;0.35;NA;NA;NA;NA;1099;42;4000;5.4
+258;Kotanen;1997;Mixed;Exotic;Disturbance;Soil Disturbance;-1.01;1.03;-1.01;1.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1200;39;1561;10.8
+258;Kotanen;1997;Grass;Exotic;Disturbance;Soil Disturbance;-1.36;1.85;-1.36;1.85;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1200;39;1561;10.8
+261;Lee & Thompson ;2012;Shrub;Exotic;Disturbance;Anthropogenic;4;1.69;4;1.69;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1113;43;1107;8.1
+263;Li et al. ;2009;Forb;Exotic;Disturbance;Soil Disturbance;2.07;0.11;2.43;0.22;NA;NA;1.72;0.01;NA;NA;NA;NA;NA;NA;NA;NA;885;37;560;1.6
+264;Loydi et al. ;2010;Mixed;Exotic;Disturbance;Grazing;0.68;0.17;1.02;0.21;NA;NA;NA;NA;0.35;0.12;NA;NA;NA;NA;NA;NA;1547;38;800;13
+265;MacDougall & Turkington ;2005;Mixed;Exotic;Disturbance;Plant Removal;1.31;0.48;1.31;0.48;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;901;48;950;9.1
+266;Maron et al. ;2013;Forb;Exotic;Disturbance;Soil Disturbance;0.61;0.25;0.61;0.25;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1248;46;386;6.4
+267;Maron et al. ;2014;Mixed;Exotic;Disturbance;Plant Removal;0.45;0.21;0.45;0.21;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1248;38;1151;13.7
+267;Maron et al. ;2014;Mixed;Exotic;Disturbance;Plant Removal;1.42;2.42;1.42;2.42;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1597;46;405;4.7
+267;Maron et al. ;2014;Mixed;Exotic;Disturbance;Plant Removal;0.46;9.59;0.46;9.59;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;867;51;497;8.9
+268;Masocha et al. ;2011;Mixed;Exotic;Disturbance;Fire;1.22;0.15;1.13;0.25;NA;NA;NA;NA;1.32;0.06;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Mixed;Exotic;Disturbance;Fire;1.09;0.21;1.09;0.21;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Tree;Exotic;Disturbance;Fire;8.82;0.58;8.82;0.58;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Forb;Exotic;Disturbance;Fire;2.33;1.29;2.33;1.29;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Forb;Exotic;Disturbance;Fire;2.48;1.29;2.48;1.29;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Forb;Exotic;Disturbance;Fire;2.82;1.39;2.82;1.39;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Forb;Exotic;Disturbance;Fire;1.98;1.48;1.98;1.48;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Forb;Exotic;Disturbance;Fire;2.15;1.64;2.15;1.64;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+268;Masocha et al. ;2011;Mixed;Exotic;Disturbance;Fire;2.99;4.92;2.99;4.92;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1805;18;885;17
+269;Mazia et al. ;2001;Tree;Invasive;Disturbance;Soil Disturbance;0.58;0.39;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1534;36;300;15.4
+269;Mazia et al. ;2001;Tree;Invasive;Disturbance;Plant Removal;2.48;0.75;2.48;0.75;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1534;36;300;15.4
+269;Mazia et al. ;2001;Tree;Invasive;Disturbance;Soil Disturbance;-1.39;1.54;-1.39;1.54;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1534;36;300;15.4
+276;Kyle et al. ;2008;Grass;Exotic;Disturbance;Soil Disturbance;0.61;0.04;0.61;0.04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1330;48;300;4.5
+276;Kyle et al. ;2008;Grass;Exotic;Disturbance;Soil Disturbance;0;0.05;0;0.05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1330;48;300;4.5
+276;Kyle et al. ;2008;Forb;Exotic;Disturbance;Soil Disturbance;0.98;0.18;0.98;0.18;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1330;48;300;4.5
+284;Quiroz et al. ;2011;Forb;Exotic;Disturbance;Anthropogenic;0.36;0.44;-0.27;0.32;NA;NA;NA;NA;NA;NA;0.99;0.57;NA;NA;NA;NA;1149;33;900;1.9
+284;Quiroz et al. ;2011;Forb;Exotic;Disturbance;Soil Disturbance;0.17;0.53;-0.16;0.31;NA;NA;NA;NA;NA;NA;0.5;0.76;NA;NA;NA;NA;1149;33;900;1.9
+285;Radford et al. ;2010;Grass;Exotic;Disturbance;Grazing;1.55;9.24;1.55;9.24;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;969;44;2384;7.9
+285;Radford et al. ;2010;Forb;Exotic;Disturbance;Grazing;3.69;0.24;3.69;0.24;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;969;44;2384;7.9
+285;Radford et al. ;2010;Forb;Exotic;Disturbance;Grazing;0.68;5.15;2.22;9.76;-0.86;0.54;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;969;44;2384;7.9
+290;Seabloom et al. ;2003;Mixed;Exotic;Disturbance;Soil Disturbance;-0.42;0.49;-0.19;0.18;-0.65;0.81;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1876;34;492;15.1
+297;Suazo et al. ;2012;Forb;Exotic;Disturbance;Soil Disturbance;0.38;0.22;0.27;0.27;NA;NA;0.5;0.18;NA;NA;NA;NA;NA;NA;NA;NA;2829;36;100;21
+299;Taylor et al.;2015;Grass;Invasive;Disturbance;Soil Disturbance;-0.01;0.1;-0.01;0.1;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1141;45;1436;11.4
+300;te Beest et al. ;2015;Shrub;Invasive;Disturbance;Soil Disturbance;0.53;0.07;NA;NA;0.53;0.07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1602;28;1002;19.9
+300;te Beest et al. ;2015;Shrub;Invasive;Disturbance;Fire;-0.75;0.07;NA;NA;-0.75;0.07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1602;28;1002;19.9
+300;te Beest et al. ;2015;Shrub;Invasive;Disturbance;Plant Removal;0.39;0.1;NA;NA;0.39;0.1;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1602;28;1002;19.9
+302;Torres-Díaz et al.;2012;Forb;Exotic;Disturbance;Soil Disturbance;1.59;0.56;1.92;0.57;1.37;0.25;1.5;0.87;NA;NA;NA;NA;NA;NA;NA;NA;1411;33;370;15
+304;Vikane et al.;2013;Tree;Exotic;Disturbance;Plant Removal;0.11;2.77;0.11;2.77;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;743;60;1890;7.7
+304;Vikane et al.;2013;Tree;Exotic;Disturbance;Plant Removal;-0.56;4.13;-0.56;4.13;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;743;60;1890;7.7
+306;Whitehead et al. ;2014;Grass;Exotic;Disturbance;Grazing;0.59;0.0001;0.66;0.0001;NA;NA;NA;NA;0.53;0.0001;NA;NA;NA;NA;NA;NA;1139;43;865;8
+306;Whitehead et al. ;2014;Shrub;Exotic;Disturbance;Grazing;0.95;0.95;0.285;0.65;NA;NA;NA;NA;1.25;0.27;NA;NA;NA;NA;NA;NA;1139;43;865;8
+307;Williams et al.;2010;Forb;Exotic;Disturbance;Soil Disturbance;2.04;1.03;1.6;0.84;NA;NA;NA;NA;NA;NA;2;1.23;NA;NA;NA;NA;1060;47;647;2.3
+22;Agrawal & Kotanen;2003;Mixed;Exotic;Enemy Release;NA;-0.35;0.05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.35;0.05;NA;NA;928;44;795;6.6
+23;Agrawal et al. ;2005;Mixed;Exotic;Enemy Release;NA;0.25;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.25;0.01;NA;NA;928;44;795;6.6
+26;Ando et al.;2010;Forb;Exotic;Enemy Release;NA;-0.65;9.52;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.65;9.52;1163;35;1582;15.6
+28;Ashton & Lerdau;2008;Vines;Invasive;Enemy Release;NA;0.05;0.06;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.05;0.06;1206;40;1147;10.9
+29;Avanesyan & Culley;2015;Grass;Exotic;Enemy Release;NA;-1.65;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-1.65;0.01;NA;NA;1206;39;985;11.5
+29;Avanesyan & Culley;2015;Grass;Exotic;Enemy Release;NA;-1.72;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-1.72;0.01;NA;NA;1237;39;1045;11.6
+35;Blaney & Kotanen;2001;Mixed;Exotic;Enemy Release;NA;-0.07;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.07;0.03;NA;NA;899;44;1166;10.2
+41;Carpenter & Capuccino;2001;Forb;Exotic;Enemy Release;NA;0.53;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.53;0.03;NA;NA;942;45;866;5.9
+43;Cincotta et al.;2009;Tree;Exotic;Enemy Release;NA;1.21;0.44;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.21;0.44;NA;NA;1200;40;1173;10.9
+43;Cincotta et al.;2009;Tree;Exotic;Enemy Release;NA;0.86;0.07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.86;0.07;NA;NA;1227;39;1119;12.2
+43;Cincotta et al.;2009;Tree;Exotic;Enemy Release;NA;0.77;0.19;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.77;0.19;NA;NA;1289;40;1119;12.2
+43;Cincotta et al.;2009;Tree;Exotic;Enemy Release;NA;1.39;0.67;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.39;0.67;NA;NA;1214;40;1264;10.2
+43;Cincotta et al.;2009;Tree;Exotic;Enemy Release;NA;0.31;0.52;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.31;0.52;NA;NA;1156;40;1270;10.4
+43;Cincotta et al.;2009;Tree;Exotic;Enemy Release;NA;1.15;0.08;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.15;0.08;NA;NA;1289;41;1252;9.7
+49;Dawson et al. ;2014;Forb;Invasive;Enemy Release;NA;1.07;0.28;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.07;0.28;NA;NA;911;46;912;8.8
+58;Engelkes et al. ;2012;Forb;Exotic;Enemy Release;NA;0.23;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.23;0.01;796;51;762;9.6
+59;Engelkes et al. ;2016;Forb;Exotic;Enemy Release;NA;0.04;0.07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.04;0.07;NA;NA;801;51;777;9.4
+62;Ferreras & Galetto;2010;Tree;Invasive;Enemy Release;NA;-0.86;0.42;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.86;0.42;NA;NA;1751;31;825;16
+67;Han et al. ;2008;Forb;Invasive;Enemy Release;NA;0.6;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.6;0.01;NA;NA;1481;39;805;11.4
+67;Han et al. ;2008;Forb;Invasive;Enemy Release;NA;1.03;0.04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.03;0.04;NA;NA;1481;39;805;11.4
+67;Han et al. ;2008;Grass;Invasive;Enemy Release;NA;0.89;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.89;0.01;NA;NA;1481;39;805;11.4
+69;Hartley et al. ;2010;Tree;Invasive;Enemy Release;NA;1.17;1.84;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2;1.84;0.34;1.84;1621;29;1154;20.6
+72;Hawkes et al.;2010;Forb;Exotic;Enemy Release;NA;1;1.25;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2;1.76;0;0.74;767;53;621;9.3
+72;Hawkes et al.;2010;Forb;Exotic;Enemy Release;NA;2.18;0.48;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;0.72;1.24;0.23;767;53;621;9.3
+74;Hill & Kotanen ;2010;Forb;Exotic;Enemy Release;NA;0.65;2;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.65;2;NA;NA;897;44;810;6.5
+84;Leger et al. ;2007;Shrub;Invasive;Enemy Release;NA;0.13;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.13;0.01;NA;NA;1192;40;1139;10.6
+84;Leger et al. ;2007;Shrub;Invasive;Enemy Release;NA;-0.54;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.54;0.01;NA;NA;1192;40;1139;10.6
+84;Leger et al. ;2007;Shrub;Invasive;Enemy Release;NA;0.37;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.37;0.01;NA;NA;1206;40;1147;10.9
+84;Leger et al. ;2007;Shrub;Invasive;Enemy Release;NA;-0.18;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.18;0.01;NA;NA;1206;40;1147;10.9
+84;Leger et al. ;2007;Tree;Invasive;Enemy Release;NA;-0.52;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.52;0.02;NA;NA;1192;40;1139;10.6
+84;Leger et al. ;2007;Tree;Invasive;Enemy Release;NA;-0.26;0.08;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.26;0.08;NA;NA;1206;40;1147;10.9
+84;Leger et al. ;2007;Vine;Invasive;Enemy Release;NA;-0.32;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.32;0.03;NA;NA;1192;40;1139;10.6
+84;Leger et al. ;2007;Vine;Invasive;Enemy Release;NA;-0.55;0.04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.55;0.04;NA;NA;1192;40;1139;10.6
+84;Leger et al. ;2007;Vine;Invasive;Enemy Release;NA;-0.02;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.02;0.03;NA;NA;1206;40;1147;10.9
+84;Leger et al. ;2007;Vine;Invasive;Enemy Release;NA;-0.34;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.34;0.02;NA;NA;1206;40;1147;10.9
+90;Lieurance & Cipollini;2013;Shrub;Exotic;Enemy Release;NA;1.76;0.53;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.76;0.53;NA;NA;1163;40;950;101
+92;Liu et al.;2007;Shrub;Invasive;Enemy Release;NA;1.09;0.34;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.09;0.34;NA;NA;1915;26;1508;24
+94;Schierenbeck et al.;1994;Vine;Exotic;Enemy Release;NA;0.36;0.26;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.36;0.26;NA;NA;1568;33;1180;17.3
+502;Schulteis et al.;2015;Mixed;Invasive;Enemy Release;NA;-1.03;0.22;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-1.03;0.22;NA;NA;1088;42;912;8.8
+503;Schutzenhofer et al. ;2009;Forb;Invasive;Enemy Release;NA;2.32;0.06;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2.32;0.06;NA;NA;1348;38;992;12.6
+505;Siemann & Rogers;2003;Tree;Invasive;Enemy Release;NA;0.75;0.21;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.75;0.21;NA;NA;1621;29;1070;20.6
+505;Siemann & Rogers;2003;Tree;Invasive;Enemy Release;NA;0.93;0.14;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.93;0.14;NA;NA;1733;29;1410;20.1
+505;Siemann & Rogers;2003;Tree;Invasive;Enemy Release;NA;0.29;0.14;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.29;0.14;NA;NA;1522;30;1420;19.2
+506;Siemann & Rogers;2006;Tree;Invasive;Enemy Release;NA;0.64;0.05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.64;0.05;NA;NA;1621;29;1154;20.6
+514;Van del Colff et al.;2015;Tree;Invasive;Enemy Release;NA;0.32;0.0003;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.32;0.0003;1415;33;994;15.9
+524;White et al. ;2008;Forb;Exotic;Enemy Release;NA;0.65;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.65;0.01;NA;NA;1528;28;1046;15.9
+524;White et al. ;2008;Forb;Exotic;Enemy Release;NA;0.66;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.66;0.02;NA;NA;1601;28;1813;16.8
+529;Zas et al. 2014;2011;Tree;Exotic;Enemy Release;NA;-0.24;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.24;0.01;NA;NA;1062;42;1149;13.3
+530;Zheng et al.;2012;Forb;Invasive;Enemy Release;NA;1;0.44;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1;0.44;NA;NA;1270;25;929;16.2
+531;Zuefle & Tallami;2008;Tree;Exotic;Enemy Release;NA;-0.03;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.03;0.01;1316;39;1112;11.8
+606;Matter et al. ;2012;Mixed;Exotic;Enemy Release;NA;0.45;0.19;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0.45;0.19;NA;NA;1221;39;1052;12
+608;Meijer et al. ;2008;Mixed;Exotic;Enemy Release;NA;1.1;0.11;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.06;0.1;1.15;0.11;720;53;788;8.7
+608;Meijer et al. ;2008;Mixed;Exotic;Enemy Release;NA;0.94;0.16;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.28;0.16;0.6;0.28;1084;38;1262;12.3
+613;Norghauer et al. ;2011;Tree;Exotic;Enemy Release;NA;1.52;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1.52;0.02;NA;NA;1813;15;2458;24.4
+615;Parker & Gilbert;2007;Forb;Invasive;Enemy Release;NA;-0.62;0.12;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.62;0.12;NA;NA;1249;38;1015;12.8
+617;Pirk & Farji-Brener;2012;Forb;Exotic;Enemy Release;NA;-0.28;0.11;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;-0.28;0.11;NA;NA;1329;41;861;8.6
+1;Badano et al. ;2007;Forb;Exotic;Facilitation;NA;0.18;0.02;0.42;0.02;-0.06;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;954;33;900;3
+1;Badano et al. ;2007;Forb;Exotic;Facilitation;NA;0.95;0.13;1.18;0.15;0.72;0.12;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;954;33;900;1.78
+1;Badano et al. ;2007;Forb;Exotic;Facilitation;NA;1.19;0.25;1.05;0.19;1.33;0.31;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;954;33;900;0.56
+1;Badano et al. ;2007;Forb;Exotic;Facilitation;NA;2.05;0.13;2.1;0.17;2.01;0.1;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;954;33;900;3
+1;Badano et al. ;2007;Forb;Exotic;Facilitation;NA;4.07;0.27;4.11;0.31;4.03;0.23;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;954;33;900;1.78
+1;Badano et al. ;2007;Forb;Exotic;Facilitation;NA;7.78;0.05;8.81;0.05;6.76;0.05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;954;33;900;0.56
+2;Badano et al.;2015;Forb;Exotic;Facilitation;NA;1.17;0.06;1.17;0.06;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1098;33;900;0.4
+3;Becerra & Bustamante;2011;Tree;Exotic;Facilitation;NA;-0.02;0.28;NA;NA;NA;NA;0.87;0.42;NA;NA;-0.91;0.14;NA;NA;NA;NA;1662;33;347;15
+3;Becerra & Bustamante;2011;Tree;Exotic;Facilitation;NA;-0.39;0.69;NA;NA;NA;NA;0.76;0.62;NA;NA;-1.54;0.76;NA;NA;NA;NA;1662;33;347;15
+7;Cavieres et al.;2005;Forb;Exotic;Facilitation;NA;0.47;0.03;0.47;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1172;33;943;3.1
+8;Cavieres et al.;2008;Forb;Invasive;Facilitation;NA;0.41;0.31;0.8;0.62;NA;NA;0.03;0.0002;NA;NA;NA;NA;NA;NA;NA;NA;1172;33;943;3.1
+9;Cushman et al. ;2011;Grass;Invasive;Facilitation;NA;1.06;0.6;NA;NA;0.89;0.66;1.23;0.54;NA;NA;NA;NA;NA;NA;NA;NA;1258;38;1001;12.8
+10;Griffith;2010;Grass;Invasive;Facilitation;NA;0.43;0.06;0.22;0.004;NA;NA;0.64;0.11;NA;NA;NA;NA;NA;NA;NA;NA;1837;37;405;6.5
+11;Kleinhesselink et al.;2014;Grass;Invasive;Facilitation;NA;0.91;0.37;NA;NA;0.16;0.01;NA;NA;NA;NA;1.67;0.74;NA;NA;NA;NA;NA;38;998;12.8
+12;Lenz & Facelli;2003;Forb;Invasive;Facilitation;NA;0.74;0.37;NA;NA;NA;NA;0.73;0.62;NA;NA;0.75;0.11;NA;NA;NA;NA;2526;32;275;18.5
+13;Madrigal-González et al. ;2013;Forb;Exotic;Facilitation;NA;1.23;0.01;NA;NA;1.23;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1299;29;40;14.7
+14;Maron & Connors;1996;Forb;Exotic;Facilitation;NA;0.61;0.001;NA;NA;0.61;0.001;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2728;38;1012;12.7
+17;Rodríguez-Buriticá & Miriti;2009;Grass;Invasive;Facilitation;NA;0.1;0.17;0.26;0.32;-0.06;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1167;33;119;17.7
+18;Saccone et al. ;2010;Tree;Exotic;Facilitation;NA;0.63;1.66;NA;NA;NA;NA;NA;NA;NA;NA;0.63;1.66;NA;NA;NA;NA;1230;45;799;12.3
+452;Del Fabbro et al. ;2013;Forb;Invasive;Novel Weapons;NA;0.08;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;929;46;888;9.1
+452;Del Fabbro et al. ;2013;Forb;Invasive;Novel Weapons;NA;0.35;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;929;46;888;9.1
+452;Del Fabbro et al. ;2013;Forb;Invasive;Novel Weapons;NA;0.09;0.03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;929;46;888;9.1
+455;Siemens & Blossey;2007;Forb;Invasive;Novel Weapons;NA;-0.99;3.42;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;995;42;908;7.1
+456;Thelen et al. ;2005;Forb;Invasive;Novel Weapons;NA;-0.57;2.00;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1232;46;354;6.4
+457;Thorpe et al. ;2009;Forb;Invasive;Novel Weapons;NA;-1.00;2.00;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1232;46;354;6.4
+458;Tian et al. ;2007;Forb;Invasive;Novel Weapons;NA;-0.28;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;1414;22;1625;18.9

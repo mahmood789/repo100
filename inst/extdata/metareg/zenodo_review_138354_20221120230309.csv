@@ -1,0 +1,555 @@
+Covidence #,Study ID,Title,Reviewer Name,Study title,Authors,Author contact details,Aim of the study,Trial design,"Trial size, N",Country,Publication year,Demographics data:,Male VC,Male F2F,Male N or %,Female VC,Female F2F,Female N or %,Age VC,Age F2F,Age N or %,Depression VC,Depression F2F,Depression N or %,PTSD VC,PTSD F2F,PTSD N or %,OCD VC,OCD F2F,OCD N or %,Personality disorder VC,Personality disorder F2F,Personality disorder N or %,Other disorder VC,Other disorder F2F,Other disorder N or %,Settings,Number of sessions/consultations,Duration of consultation (minutes),Interval beetween sessions (weeks),Study (Follow up) durration,Therapy type,Bandwidth,Outcomes,Test,Dropout:,VC Baseline(n),VC Post treatment(n),VC Dropout (%),F2F Baseline(n),F2F Post treatment(n),F2F Dropout (%),intention-to-treat (ITT) or per-protocol analysis (PP) data,Test/instrument used for assessing psychopathology,Psychopathology :,VC Baseline Mean...57,VC Baseline SD...58,VC Post treatment Mean...59,VC Post treatment n...60,VC Post treatment SD...61,F2F Baseline Mean...62,F2F Baseline SD...63,F2F Post treatment Mean...64,F2F Post treatment n...65,F2F Post treatment SD...66,Follow up period in number of weeks...67,"Psychopathology_VC: (p-VALUE, Upper conf. int, Lower Conf int)OR (Standard Error)","Psychopathology_F2F: (p-VALUE, Upper conf. int, Lower Conf int)OR (Standard Error)",Satisfaction (CSQ-8):,VC Baseline Mean...71,VC Baseline SD...72,VC Post treatment Mean...73,VC Post treatment n...74,VC Post treatment SD...75,F2F Baseline Mean...76,F2F Baseline SD...77,F2F Post treatment Mean...78,F2F Post treatment n...79,F2F Post treatment SD...80,Follow up period in number of weeks...81,"CSQ8_VC: (p-VALUE, Upper conf. int, Lower Conf int)OR (Standard Error)","CSQ8_F2F: (p-VALUE, Upper conf. int, Lower Conf int)OR (Standard Error)",Type of WAI inventory,WAI:,VC Baseline Mean...86,VC Baseline SD...87,VC Post treatment Mean...88,VC Post Treatment n,VC Post Treatment SD,F2F Baseline Mean...91,F2F Baseline SD...92,F2F Post treatment Mean...93,F2F Post Treatment n,F2F Post Treatment SD,Follow up period in number of weeks...96,"WAI_VC: (p-VALUE, Upper conf. int, Lower Conf int)OR (Standard Error)","WAI_F2F: (p-VALUE, Upper conf. int, Lower Conf int)OR (Standard Error)",Assessed outcome,Assessed outcome supporting text,Domain 1: Risk of bias arising from the randomization process,Domain 1: Risk of bias arising from the randomization process supporting text,Domain 2: Risk of bias due to deviations from the intended interventions,Domain 2: Risk of bias due to deviations from the intended interventions supporting text,Domain 3: Risk of bias due to missing outcome data,Domain 3: Risk of bias due to missing outcome data supporting text,Domain 4: Risk of bias in measurement of the outcome,Domain 4: Risk of bias in measurement of the outcome supporting text,Domain 5: Risk of bias in selection of the reported result,Domain 5: Risk of bias in selection of the reported result supporting text,Overall risk of bias judgement,Overall risk of bias judgement supporting text
+7120,Peterson 2022,"In-office, in-home, and telehealth cognitive processing therapy for posttraumatic stress disorder in veterans: A randomized clinical trial",Consensus,"In-office, in-home, and telehealth cognitive 
+processing therapy for posttraumatic stress 
+disorder in veterans: a randomized clinical trial","Alan L. Peterson, Jim Mintz, John C. Moring, Casey L. Straud, Stacey Young‑McCaughan, Cindy A. McGeary, Donald D. McGeary, Brett T. Litz, Dawn I. Velligan, Alexandra Macdonald,  Emma Mata‑Galan, Stephen L. Holliday, Kirsten H. Dillon, John D. Roache, Lindsay M. Bira,  Paul S. Nabity, Elisa M. Medellin, Willie J. Hale and Patricia A. Resick","petersona3@uthscsa.edu
+Department of Psychiatry and Behavioral Sciences, University of Texas 
+Health Science Center at San Antonio, 7703 Floyd Curl Dr, San Antonio, 
+TX 78229, USA","The objective of this study was to determine if cognitive processing therapy (CPT ) for PTSD among active duty military personnel and veterans would result  in increased acceptability, fewer dropouts, and better outcomes when delivered In‑Home or by Telehealth as compared to In‑Office treatment.",RCT,120,USA,2022,NA,36 (82%),42,78 (88.6),8 (18%),2,10 (11.4),41.4 (SD8.6),38.5 (SD11.8),39.95 (10.3683),NA,NA,NA,44 (100%),44,88 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,12,60,2 per week (6 week),6 months,CPT,"Telehealth CPT was conducted through a 
+computer-based video link connection from the therapist’s office to the participant’s home. Participants who did not have adequate computer resources were loaned telehealth equipment.","Psychopathology, attrition","PCL-5, CAPS-5, (BDI-II).",NA,44,25,19 (43.18),44,26,18 (41%),ITT,PCL-5,NA,49.7,14.5,23.1 (change: -26.6),29,sqrt(13.78^2+14.5^2),48.5,In-Office: 12.8,In-Office: 30.9 (change: -17.6),In-Office: 27,sqrt(13.71^2+12.8^2),NA,"Change from Baseline to posttreatment: −26.6 (stdErr2.56), t=-10.41n n=25","Change from Baseline to posttreatment: −17.6 (stdErr2.64) , t=-6.69, n=26",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,High risk,"1.1: PN (""If eligible,  participants were given the choice to be randomized to  1 of the 3 treatment arms using 1:1:1 randomization or  to opt out of 1 treatment arm and be randomized 1:1 to either of the other 2"" ""More than half of the participants (n = 69/120;   57%) opted out of 1 of the treatment arms, which resulted in a final randomization of fewer participants into the In-Home arm (n=32) compared to the In-Office (n=44) and Telehealth (n=44) arms. This occurred because In-Home treatment was the modality most often declined by participants"")
+1.2: N (same as above)
+1.3: N (none of the difference tests are significant in table 1)",High risk,"2.1: Y
+2.2: Y
+2.3: Y (""More than half of the participants (n = 69/120;   57%) opted out of 1 of the treatment arms, which resulted in a final randomization of fewer participants into the In-Home arm (n=32) compared to the In-Office (n=44) and Telehealth (n=44) arms. This occurred because In-Home treatment was the modality most often declined by participants. The acceptability of the 3 treatment options differed significantly (χ2=14.2,  df=2, p=0.0008). Among those opting out of 1 delivery modality, most refused In-Home treatment (37/69; 54%) followed by In-Office (20/69; 29%) and Telehealth (12/69; 17%)."")
+2.4: PY (""The proportions dropping out were lowest for In-Home (8/32; 25%), intermediate for Telehealth (15/44; 34%), and greatest for In-Office (19/44; 43%). However, these differences were not statistically significant (log-rank χ2=2.69, df=2, p=.26)."" - The fact that so many opted out of potentially being allocated to in-home treatment can probably explain why this intervention has the lowest dropout)
+2.5: N (""Among those opting out of 1 delivery modality, most refused In-Home treatment (37/69; 54%) followed by In-Office (20/69; 29%) and Telehealth (12/69; 17%)"")
+2.6: PY (""Intent-to-treat (ITT) analyses were used and included all data without regard to engagement in treatment or study participation. The equipoise randomization design 
+allowed participants to opt out of any 1 of the 3 treatment formats, resulting in the 4 equipoise strata summarized in Table 2. The proportions opting out of each arm were compared (1-way chi-square tests). Attrition was analyzed using survival analysis of sessions to all-cause discontinuation (see Supplemental Fig. 1), and a contingency table analyzed dropout operationalized as 
+attending fewer than 75% (9/12) of the sessions."" ""Symptom outcomes were analyzed in 2 ways. One analysis used data from all participants (full sample) without regard for randomization. Referring to Table 2, for example, the full-sample analyses of the In-Home arm used data from strata A, B, and C. A planned contrast was used for an omnibus test of the differences in slopes among the 3 treatment arms with follow-up pairwise contrasts by t test. The full-sample analyses included separate intercepts for the 3 treatment arms because the samples were not fully randomized."")",Low risk,"3.1: N (""A total of 42 patients (35%) dropped out of treatment, including 11 who never began"" 11 = 9%)
+3.2: PY (""Supplemental Table 2 presents the PCL-5 results from those who opted out of one treatment. The only notable 
+change from the full-sample analyses is that the p value 
+for the difference between Telehealth and In-Office increased from .015 to .075. As in the full-sample analyses, improvements were large and significant in all 3 treatment arms, and In-Home and Telehealth arms did not differ."")",Low risk,"4.1: N (PCL-5 is a known reliable and valid scale)
+4.2 & 4.3: PN (""All clinical evaluators completed 
+extensive training, certification, and repeated calibration 
+training to ensure the fidelity of the assessments [27] and were blinded to participant treatment condition"")",High risk,"5.1: 
+5.2: PN (It should be noted that the protocol states that CAPS-5 will be the primary PTSD outcome, whereas in the article it is PCL-5. However, this is not considered an issue, as values from both are reported)
+5.3: PY (The data analytic plan in the protocol is significantly shorter and different from the one in the article, indicating that many changes were done to the analytic plan after receiving the data)",High risk,NA
+5325,Acierno 2021,A randomized clinical trial of in-person vs. home-based telemedicine delivery of Prolonged Exposure for PTSD in military sexual trauma survivors,Consensus,A randomized clinical trial of in person vs. home-based telemedicine delivery of Prolonged Exposure for PTSD in military sexual trauma survivors,"Ron Acierno, Anna E. Jaffe, Amanda K. Gilmore, Anna Birks, Carol Denier, Wendy Muzzy, Cristina M. Lopez, Peter Tuerk, Anouk L. Grubaugh","Corresponding author at: Faillace Department of Psychiatry, University of Texas Health Science Center at Houston, 1941 East Rd, BBSB 3rd Floor, Houston, TX 77054, United States. 
+E-mail address: ronald.acierno@uth.tmc.edu (R. Acierno).",The current study fills a significant gap in the literature with respect to potential advantages for MST-related PTSD in women specific to the HBT medium by testing the effectiveness of delivering Prolonged Exposure (PE) for PTSD in-person versus via HBT for women veterans with MST-related PTSD using a randomized clinical trial.,RCT,136,U.S.A.,2021,NA,NA,NA,NA,69 (50.74%),67 (49.26%),136 (100%),M = 41.55 (SD = 12.10),45.31 (SD: 10.63),M = 43.40 (SD = 11.51),NA,NA,NA,69 (50.74%),67 (49.26%),136 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,Unspecified,14,90 minute,once per week,9.5 month (6 month follow up),Prolonged Exposure (PE),NA,Pyschopathology,"PCL-5, BDI-II, Charleston Psychiatric Outpatient Satisfaction Scale (CPOSS) 
+",NA,69 (50.74%),46 (33.82%),23 (16.91%),67 (49.26%),49 (36.03%),18 (13.26%),ITT,PCL-5,NA,52.90,12.91,34.02,69,22.14,52.30,12.42,28.80,67,22.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Low risk,"1.1: Y (Eligible veterans were randomized by the project coordinator using REDCap 1:1 to HBT or in-person PE, and REDCap generated assignments were saved as they were made and reviewed by the study statistician, thereby assuring no modification or skipping of assignments was possible.)
+1.2: Y 
+1.3: N (There were no statistically significant differences between treatment conditions on age, race, wthnicity, theatre, service branch, or baseline PTSD and depression severity at baseline)",Low risk,"2.1: Y
+2.2: Y
+2.3: PN (dose received did not differ between HBT and in-person delivery of PE)
+2.6: Y (ITT analyses considering all participants, regardless of treatment completion or missing follow-up data were considered.)",High risk,"3.1: N (More than 5% dropout in both conditions)
+3.2: PY (The difference in dose by treatment condition were evaluated with a t-test, t(134) = -.71, p = .481. A dummy code was created to represent the pattern of missing any assessment after treatment, and all fixed effects were allowed to vary between these patterns (i.e., interaction terms were created). models were estimated with maximum likelihood and compared using likelihood ratio tests, which revealed non-significant differences)
+3.3: Y (two of the reasons for dropout includes ""treatment produced excessive distress"" and ""suicidal ideation cuasing removal"", last one only present in in-person condition)
+3.4: PY (Differences in proportions of missing data (38 & 43), reported reasons for missing outcome data differ between intervetions, and cirsumstances of trial make it likely that missingness in the outcome depends on its true value).",Low risk,"4.1: N
+4.2: N (Assessments for both conditions took place in-person for baseline and post-treatment, and by telephone at 3- and 6-months follow-up)
+4.3: N (Study assessment personnel were blinded to treatment condition)",High risk,"5.1: Y (Statistical plan described in ClinicalTrials.gov Identifier: NCT02417025)
+5.2: N
+5.3: Y (Models were estimated with maximum likelihood and compared using likelihood ratio tests, which revealed non-significant differences. Thus, the more parsimonious models without such missingness patterns included are represented)",High risk,NA
+5216,O'Reilly 2007,Is telepsychiatry equivalent to face-to-face psychiatry? Results from a randomized controlled equivalence trial,Consensus,Is Telepsychiatry Equivalent to Face-to-Face Psychiatry? Results From a Randomized Controlled Equivalence Trial,"Richard O'Reilly, Joan Bishop, Karen Maddox, Lois Hutchinson, Michal Fishman, Jattinder Takhar",Richard O'Reilly: richard.o'reilly@sjhc.london.on.ca,"This study compared a variety of clinical outcomes after psychiatric consultation and, where needed, brief follow-up for outpatients referred to a psychiatric clinic in Canada who were randomly assigned to be examined face to face or by telepsychiatry.",RCT,495,Canada,2007,NA,89 (37%),94 (37%),183(37%),152 (63%),160 (63%),312 (63%),"18-24: 30 (12%)
+25-34: 65(27%)
+35-44:84 (35%)
+45-54: 38(16%)
+55-65: 24(10%)","18-24: 47 (19%)
+25-34: 55 (22%)
+35-44: 88 (35%)
+45-54: 48 (19%)
+55-65: 16 (6%)","18-24: 77 (15.55%)
+25-34: 120(24.24%)
+35-44: 172 (34.74%)
+45-54: 86(17.37%)
+55-65: 40(8%%)",138 (57%),138(54%),f30: 276(55.75%),"adjustment disorder(12, 5%)
+
+other anxiety disorder(16, 7%)
+
+ptsd( 4, 2%)
+
+OCD: (3, 1%)
+
+Phobic disorder:(3, 1%)
+
+f40: (36, 16%)","adjustment disorder(21, 8%)
+
+other anxiety disorder(20, 8%)
+
+ptsd( 7, 3%)
+
+OCD: (1, <1%)
+
+Phobic disorder:(3, 1%)
+
+f40: (52, 20%)","f40: 88, 18%",NA,NA,NA,NA,3 (1%),NA,"Bipolar: 22 (9%)
+
+Missing: 17 (7%)","Bipolar: 24 (9%)
+
+Missing: 8 (3%)","Bipolar: 46 (9.3%)
+
+Missing: 25 (5.05%)
+
+
+others: 13%",Remote/rural area,Up to four,uunspecified,4 weeks,4 month,"Treatment recommendations included medication management, psychoeducation, supportive counseling, and triage to other local services.",The interactive videoconference equip-ment consisted of a Polycom 512View Station and a Sony Trinitron68.5-centimeter diagonal screen. Theconnection was made by using threeISDN lines delivering a bandwidth of 384 kilobits per second.,Psychopathology,"BSI (GSI), SF-36, CSQ-8",NA,224,138,86 (38.40%),246,148,98 (39.8%),PP,GSI,NA,56.9,10.2,49.7,138,12.6,56.5,10.1,49.7,148,13.3,NA,NA,NA,NA,NA,NA,22.7,125,6,NA,NA,23,129,5.7,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Some concerns,NA,High risk,"2.1: NI /PY
+2.2: Y (Each psychiatrist was assigned an equal number of participants in each arm of the study)
+2.3: PN
+2.6: N (As a result [of large dropout rates] we were able to do only a per-protocol analysis on these outcomes)
+2.7: PY (42% dropout)",Some concerns,"3.1: N (42% dropout)
+3.2: N
+3.3: Y
+3.4: PN (Completers and noncompleters in the two groups were similar, except that more completers in both groups were married and noncompleters in the face-to-face group used more hospital days than completers, whereas in the telepsychiatry group, the opposite was true. These differences would not challenge our hypothesis. + similar rates of dropout in both groups)",High risk,"4.1: N
+4.2: PY (we did not limit psychiatric care protocols to a carefully defined, diagnosis-specific, therapeutic intervention. Data on services provided suggests that similar are was actually provided to both groups. However, it is still possible that there may have been subtle differences in the way patients in each group were managed)",Low risk,"5.1: Y
+5.2: N
+5.3: N",High risk,NA
+4941,Bishop 2002,Client satisfaction in a feasibility study comparing face-to-face interviews with telepsychiatry,Consensus,NA,NA,NA,NA,RCT,24,Canada,NA,NA,3,3,6(29%),8,8,15 (71%),NA,NA,18-49 (81 %),6,7,13 (62%),NA,NA,NA,NA,NA,NA,NA,NA,NA,"n=4
+Bipolar: 2
+Adjustment disorder: 2","n=4
+Bipolar: 1
+Schizophrenia: 1
+Subst. abuse: 1
+ADD: 1",8(38%),Remote/rural area,8  sessions,unspecified,NA,4 month,Not provided,128 kbit/s,Satisfaction,CSQ-8,NA,10,8,20,11,9,18,PP,Not assessed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21.6,8,2.5,NA,NA,25.3,9,3.5,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Satisfaction (CSQ-8),NA,Low risk,"1.1 Was the allocation sequence random?
+Yes. A random numbers table was use
+
+1.2 Was the allocation sequence concealed until participants were enrolled and assigned to interventions
+
+No information
+
+1.3 1.3 Did baseline differences between intervention groups suggest a problem with the randomisation process?
+
+No",Some concerns,People were aware of treatment condition. Same psychiatrist gave both interventions,Some concerns,Missing data from 7 of 24 randomized. Dropout =29%. No information comparing dropouts to completors,Some concerns,Unclear how CSQ-8 collected,Some concerns,"5.1 Were the data that produced this result analysed in accordance with a pre-specified analysis plan that was finalized before unblinded outcome data were available for analysis?
+
+Probably No. No information about statistical plan in the mehtod section.
+
+
+Data calculated on completors only",NA,NA
+4832,Ruskin 2004,Treatment outcomes in depression: comparison of remote treatment through telepsychiatry to in-person treatment,Consensus,Treatment Outcomes in Depression: Comparison of Remote Treatment Through Telepsychiatry to In-Person Treatment,"Paul E. Ruskin, Michele Silver-Aylaian, Mitchel A. Kling, Susan A. Reed, Douglas D. Bradham, J. Richard Hebel, David Barrett, Frederick Knowles, Peter Hauser",NA,The primary objective of this study was to compare treatment outcomes of patients with depressive disorders treated remotely by means of telepsychiatry to outcomes of depressed patients treated in person. Secondary objectives were to determine if patients’ rates of adherence to and satisfaction with treatment were as high with telepsychiatric as with in-person treatment and to compare costs of telepsychiatric treatment to costs of in-person treatment.,RCT,119,U.S.A.,2004,NA,59,60,105 (88.25%),NA,NA,14 (11.76%),NA,NA,M = 49.7 (SD = 12.8),59 (49.58%),60 (50.42%),119 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mix (Rural and Urban),8,20,"Subsequent sessions were scheduled at weeks 1, 3, 7, 11, 15, 19, and 26.",6 months,"Treatment sessions consisted of antidepressant medication management, psychoeducation, and brief supportive counselling.","Remote treatment occurred through the use of personal-computer-based videoconferencing equipment, which consistedof VTEL software (VTEL Corp., Austin, Tex.) and cameras mountedon the monitors. The equipment was connected to integrated ser-vices digital network lines, and transmission usually occurred at arate of 384 kbit/second. 
+
+In either case, the treatment was carriedout with the patient located at the clinic where the patient initiallypresented for care.","Treatment response (psychopathology), treatment adherence, patient satisfaction, psychiatrist
+satisfaction, and resource consumption or “cost effects.”","HAM-D, BDI, Spielberger Trait Anxiety Inventory Scale, Spielberger State Anxiety Scale, GAF, CGI, Medical Outcomes Study 12-item Short-Form Health Survey
+Patient & psychiatrist satisfaction assessed using a scale that was developed for this study.",NA,59,43,16 (27%),60,42,18 (30%),PP,HAM-D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Some concerns,"1.1: NI (Patients who chose to participate were randomly assigned to see a psychiatrist either in person or by means of telepsychiatry)
+1.2: NI
+1.3: N (No significant differences in age, gender, race, marital status, education, income, or employment status were found between the remote and in-person groups)",Some concerns,NA,Low risk,NA,Low risk,NA,High risk,NA,High risk,NA
+4543,Cuevas 2006,Randomized clinical trial of telepsychiatry through videoconference versus face-to-face conventional psychiatric treatment,Consensus,Randomized Clinical Trial of Telepsychiatry through Videoconference versus Face-to-Face Conventiona lPsychiatric Treatment,"CUEVAS, ARREDONDO, CABRERA,  SULZENBACHER,  & MEISE",ccuevas@ull.es,Efficacy of telepsychiatry through videoconference in the treatment of mental disorders bycomparing to face-to-face conventional (F2FC) treatmen,RCT,140,Spain (Canary Islands),2006,NA,22,25,47 (33.6 %),48,45,93 (66.4 %),25-45 years: 37 (52.9 %),25-45 years: 33 (47.1 %),"VC and F2F: 
+25-45 years 70 (50%)",23,25,F3: Mood (affective) disorders 47(33.6%),Anxiety   31,Anxiety  25,"F4:  Neurotic, stress-related and somatoform disorders 56 (40%)",NA,NA,NA,6,8,14(8.6%),"Schizophrenia 5
+Substance abuse 5","Schizophrenia 6
+Substance abuse 6",22(15.7 %),Remote/rural area,8,30,Eight consultations over the 24-week study period,6 month,Psychopharmacotherapy plus CBT,Video at 30 frames per second (fps) at 384 to 768 kilo-bits per second (Kbps).,Psychopathology treatment,Symptom Checklist-90 Revised (SCL-90R) and Clinical Global Impression (CGI),NA,70,66,5.7,70,64,8.5,PP,CGI,NA,4.9,0.3,1.6,66,1,4.8,9.3,1.5,64,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Some concerns,NA,Low risk,"2.1. Were participants aware of their assigned intervention during the trial?
+Yes
+ 
+
+2.2. Were carers and people delivering the interventions aware of participants' assigned intervention during the trial?
+yes. 
+ 
+
+2.3. If Y/PY/NI to 2.1 or 2.2: Were there deviations from the intended intervention that arose because of the trial context?
+No
+ 
+
+2.4 If Y/PY to 2.3: Were these deviations likely to have affected the outcome?
+
+ 
+
+2.5. If Y/PY/NI to 2.4: Were these deviations from intended intervention balanced between groups?
+
+ 
+
+2.6 Was an appropriate analysis used to estimate the effect of assignment to intervention?
+
+ Yes- ITT. 
+
+The evaluation methods included two levels of statistical analysis: the level of the group incomparison with the VCTP treatment group as a whole with the F2FC comparison group, and the level of the individual participants
+",Low risk,Data available for over 90% of participants (no dropout analysis completed),Some concerns,CGI appropriate instrument but not stated if an independent rater completed assessments,Low risk,NA,Some concerns,Psychiatrsit treamtent both conditions and unsure if rater was independent
+4178,Chong 2012,Use of standard Webcam and Internet equipment for telepsychiatry treatment of depression among underserved Hispanics,Consensus,Feasibility and Acceptability of Clinic-Based Telepsychiatryfor Low-Income Hispanic Primary Care Patients,"Jenny Chong, Ph.D., and Francisco Moreno, M.D.",Chong  University of Arizona     jchong@arizona.edu,The feasibility and acceptability of telepsychiatry forlow-income Hispanic patientswith major depression were as-sessed,RCT,167,U.S.A,2012,NA,7 (8.9 %),12 (13.8 %),19 (11.4 %),73 (91.3 %),75 (86.2%),148 (88.6 %),42.8 (SD:12),43.2 (SD: 11.9),NA,80,87,167 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,6 (1 every month),1 hour initial  5- 30 minute sessions,once a month for 6 months,post treatment (6 months),Psychiatrist case management,NA,"acceptability (satisfaction, working alliance, medication adherence)and acceptability (personal health, disability) and psychopathology (depression)","Visit Specific Satisfaction Questionnaire (VSQ-9), Working Alliance Inventory Short Form (WAI-SF),Personal Health Questionnaire 9 (PHQ-9), Sheehan’s Disability Scale (SDS)",NA,80,69,13.75%,87,78,10.34%,PP,PHQ-9,NA,18.3,4.5,4.7,63,5.1,17.3,4.9,6.8,69,6.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,WAI-short form (12 item),NA,51.8,4.5,58.5,63,3.1,47.9,4.9,55.2,69,6.1,NA,NA,NA,Psychopathology,Measures of depression PHQ-9 and working alliance WAI short form,Low risk,"1.1 Was the allocation sequence random?
+Yes.
+Randomizationwas achieved using a computer-generated list. 
+
+1.2 Was the allocation sequence concealed until participants were enrolled and assigned?
+Yes
+The assignment wasunknown to both the recruiter and the patient until the patient hadundergone informed consent procedures and eligibility screening
+
+1.3 Did baseline differences between intervention groups suggest a problem with the randomization process?
+
+No.
+
+No significant differences werefound between the TAU and WEB patients at baseline",Low risk,"2.1. Were participants aware of their assigned intervention during the trial?
+Yes
+ 
+
+2.2. Were carers and people delivering the interventions aware of participants' assigned intervention during the trial?
+Yes
+
+2.3. If Y/PY/NI to 2.1 or 2.2: Were there deviations from the intended intervention that arose because of the trial context?
+
+No-arose because of the intervention/consultation context and not due to trial context
+
+2.6 Was an appropriate analysis used to estimate the effect of assignment to intervention?
+No
+Only participant that completed where reproted in finaly analysis (132 out of 167)
+
+2.7 If N/PN/NI to 2.6: Was there potential for a substantial impact (on the result) of the failure to analyse participants in the group to which they were randomized?
+
+Probably No",Some concerns,Roughly 20% data missing at post treamtent. No analysis of differecnes between dropout and completors,Some concerns,Partipants completed self-report measures,Low risk,"5.1 Were the data that produced this result analysed in accordance with a pre-specified analysis plan that was finalized before unblinded outcome data were available for analysis?
+
+Yes.
+This project was approved by the University of Arizona’sInstitutional Review Board
+
+The translated questionnaires had already beentested on Hispanics in the Tucson area, and the project-specificquestionnaire was reviewed by SEHC personnel
+
+A brief survey was devel-oped (ratings, multiple choice items, and a comments section), and the protocol was approved by the University’s Institutional Review Board to use the questionnaire with all remaining subjects at their6-month follow-up",Some concerns,"Self-report, no analysis of missing data, aware of treatment condition"
+3682,Stubbings 2013,Comparing in-person to videoconference-based cognitive behavioral therapy for mood and anxiety disorders: randomized controlled trial,Consensus,Comparing In-Person to Videoconference-Based Cognitive Behavioral Therapy for Mood and Anxiety Disorders: Randomized Controlled Trial,"Danial R. Stubbings, Clare S. Rees, Lynne D. Roberts, Robert T. Kane",C.Rees@curtin.edu.au,The present study aimed to compare the effectiveness of CBT administered via videoconference to in-person therapy for a mixed diagnostic cohort.,RCT,26,Australia,2013,NA,6 (42.86%),5 (41.67%),11 (42.31%),8 (57.14%),7 (58.33%),15 (57.7%),NA,NA,"18-59: Mean: 20 year, SD:11 year","Axis-I mood disorder (Depression, Dysthymic): 2
+
+Axis-1 anxiety disorder (Panic with and withou agrophopia, OCD, PTSD, GAD, Hypochondria): 11","Axis-I mood disorder (Depression, Dysthymic): 5
+
+Axis-1 anxiety disorder (Panic with and withou agrophopia, OCD, PTSD, GAD, Hypochondria): 7","Axis 1 mood disorder: 7(27%)
+
+Axis-1 anxiety disorder:  18 (69.2%)
+
+adjustment: 1, (3.8%)
+
+i alt: 26 (100%)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Adjust disorder: 1
+
+High comorbidity",NA,"Anxiety disorders (except OCD): 6 (23.08%)
+Adjustment disorder: 1 (3.85%)",Urban,"were offered 12 weekly 1-hour sessions and an additional follow-up session 6 weeks after the12th session
+
+12-13",60,weekly,18 weeks,CBT,"Three Mac computers were used during the course of this study.All three computers were connected via ethernet (100 Mbps/sec)within the same building. The program used to conduct the videoconferencing was iChat, versions 4.0.9 to 5.0.3. When the study was conducted, the interactions via iChat were encrypted,but this feature was removed in Mac OS X 10.7. Therefore iChatmay no longer be suitable for future telepsychology research.",Psychopathology,"DASS, QLES, BDI-II, OCI, HAQ, PSWQ, ASI, WAI-SF, CSQ, Telehealth Satisfaction Questionnaire",NA,14,11,3 (21.5%),12,10,2 (16.6%),PP,"DASS subscales (depression, anxiety & stress)",NA,18.14,10.15,8.46,13,7.62,18.36,10.27,14.2,10,9.59,NA,NA,NA,NA,NA,NA,94.23,13,10.04,NA,NA,93.21,11,6.37,NA,NA,NA,WAI-short form (12 item),NA,NA,NA,6.33,12,0.89,NA,NA,6.14,11,0.45,NA,NA,NA,Psychopathology,NA,Low risk,"1.1: Y (Simple random allocation was used to determine assignment to condition)
+1.2: PY
+1.3: N (The difference between conditions at pretest was not significant on the DASS depression subscale, the anxiety subscale, the stress subscale, or on the QLES)",High risk,"2.7 If N/PN/NI to 2.6: Was there potential for a substantial impact (on the result) of the failure to analyse participants in the group to which they were randomized?
+
+Yes- small sample size",High risk,"3.1: N
+3.2: PN
+3.3: Y
+3.4: PY (2 of the participantswere no longer eligible for inclusion in the study at follow-up:the first, because they required ongoing treatment after the posttreatment data had been collected and the second decidedto begin medication in the final week of treatmen. 1participant was no longer eligible to be included in the study at follow-up because they commenced additional ongoingpsychotherapy treatment after the initial 12-weeks of treatment in the study)
+",Low risk,"4.1: N
+4.2: N
+4.3: Y
+4.4: PN (there was a high risk of bias in the study given that the principal investigator was also responsible for treatment and assessing participants.
+However, clinical supervision was provided regarding both diagnosis and treatment throughout the study, and sessions were recorded and watched by the supervising clinician to temper this potential bias)",High risk,"5.1: N (The analyses were conducted twice: once with only the participants that completed all 12 sessions and once with all participants that completed eight or more sessions. The results of the two analyses provided the same findings, therefore, participants who completed eight or more sessions were included in the final analysis.)
+5.2: Y (Multiple diagnosis specific psychopathology assessments used, but only DASS subscales and QLES is reported)
+5.3: Y",High risk,NA
+3538,Choi 2014,"Six-month postintervention depression and disability outcomes of in-home telehealth problem-solving therapy for depressed, low-income homebound older adults",Consensus,Telehealth Problem-Solving Therapy forDepressed Low-Income Homebound Older adults,"Namkee G. Choi, Ph.D., Mark T. Hegel, Ph.D., C. Nathan Marti, Ph.D.,Mary Lynn Marinucci, M.S.S.W., Leslie Sirrianni, M.S.S.W.,Martha L. Bruce, Ph.D., M.P.H.","Nsmkrr G. Choit
+
+nchoi@austin.utexas.edu","Compare problem solving intervention for telepsychiatry, in person and telephone  (3 arm)",RCT,N=85 (+Telephone condition-36),USA,2014,NA,NA,NA,27 (22.3),NA,NA,94 (77.7),NA,NA,65.21 (SD: 9.22),NA,NA,"Major depressive disorder                      
+81 (67.0)
+
+Depressive disorder, NOS             35 (28.9)
+
+Dystymia                                       5 (4.1)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Unspecified,6,60,NA,7-8,Problem solving,Unknown,Depressive symptoms,Depressive symptoms (24-item HAMD). Treatment Evaluation Inventory (TEI),NA,43,38,11.7,42,35,16,PP,HAMD scores,NA,NA,NA,13.92,34,6.9,NA,NA,14.44,34,7,12 weeks follow up,"Stnd Err. 
+vc: 1.18
+f2f: 1.19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Some concerns,Not clear how randomization occurred,Some concerns,Participants aware of treatment condition,Some concerns,No analysis comparing dropouts to completors although authors stated that ITT analysis was completed,Low risk,"4.4: Could assessment of the outcome have been influenced by knowledge of intervention received?
+
+Probably no
+
+The callers were not trained in any specific psychotherapy. All baseline and follow-up assessments were done in person and six monthly booster sessions were conducted by telephone.",Some concerns,"Data analysis was specified in protocol,  unsure if assessors were blinded.",High risk,Some concerns in 4/5 domains
+3139,Egede 2015,"Psychotherapy for depression in older veterans via telemedicine: Effect on quality of life, satisfaction, treatment credibility, and service delivery perception",Consensus,"Psychotherapy for depression in older veterans via telemedicine: a randomised, open-label, non-inferiority trial","Egede,  Acierno, Knapp, Lejuez,  Hernandez-Tejada, Payne,  & Frueh","Correspondence to:Prof Leonard E Egede, Center for Health Disparities Research, Medical University of South Carolina, Charleston, SC 29425-0593, USAegedel@musc.edu","Non-inferiority study of behavioural activation therapy for major depression delivered via telemedicine to same-room care in largely male, older adult veterans.",RCT,241,U.S.A,2015,NA,116 (97%),119 (98%),235 (98 %),4 (3%),2 (2%),6 (2%),63.5 (SD: 4.4),64.2 (SD: 5.6),63.9 (SD: 5.1),120,121,241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Remote/rural area,8,60,weekly,3 month and 12 month,Behavioural activation,"Used an analogue videophone (KMEA TV500SP; KMEA, CA, USA) that operates via the standard telephone service.",treatment response,"GDS, BDI, and SCID",NA,120,100,17%,121,104,14%,PP,BDI depression,NA,NA,NA,20.82 (PROCENTER,25,NA,NA,NA,28.22(procenter),34,NA,NA,"
+90%  
+14.39-27.28","
+
+90%:
+ 29.79-35.66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Low risk,NA,Some concerns,Subjects not blinded to treatment condition,Low risk,Completed ITT analysis as well,Some concerns,Participants completed self-report questionniare BDI,Low risk,ITT analysis,Some concerns,NA
+3031,Hungerbuehler 2016,Home-Based Psychiatric Outpatient Care Through Videoconferencing for Depression: A Randomized Controlled Follow-Up Trial,Consensus,Home-Based Psychiatric Outpatient Care Through Videoconferencing for Depression: A Randomized Controlled Follow-Up Trial,"Ines Hungerbuehler, Leandro Valiengo, Alexandre A Loch,  Wulf Rössler, Wagner F Gattaz","Ines Hungerbuehler: 
+ines.hungerbuehler@gmail.com",The Objective of this study was to evaluate the effectiveness and feasibility of home-based treatment for mild depression through psychiatric conslutations via videoconferencing.,RCT,107,Brazil,2016,NA,14 (26.4%),17 (31.5%),31 (29%),39 (73.6%),37 (68.5%),76 (71.0%),35.42 (SD: 8.18),35.87 (SD: 8.53),35.64 (8.33),n=53,n=54,N=107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other: Mix,5,20,4,12 month,"Psychoeducation, medication monitoring, and counseling","Videoconferencing consultations were performedusing the software Skype (Microsoft, Redmond, WA)","Satisfaction, psychopathology, therapeutic alliance, reatment adherence and medication adherence","HDRS-17, MHI-38, MMAS-4, CSQ-8, WAI-S",NA,53,50,5.7 %,54,44,18.5 %  (sign. higher p<0.05),PP,HDRS-17,NA,7.92,3.59,4.65,49,4.13,6.19,3.60,3.90,42,3.88,24,NA,NA,NA,27.66,2.82,28.24,50,3.06,28.43,2.61,29.45,44,2.21,24,NA,NA,WAI-short form (12 item),NA,68.9,12.56,63.52,50,8.86,72.11,10.26,64.93,44,8.95,24,NA,NA,Psychopathology,Satisfaction + Alliance,Low risk,"1.1 Was the allocation sequence random?
+Yes.
+
+With an allocation ratio of 1:1,outpatients were individually randomized to 2 different treatmentconditions.
+
+1.2 Was the allocation sequence concealed until participants were enrolled and assigned?
+PY
+
+1.3 Did baseline differences between intervention groups suggest a problem with the randomization process?
+
+PN
+53 vs 54 participant",Low risk,2.1. Were participants aware of their assigned intervention during the trial? Yes 2.2. Were carers and people delivering the interventions aware of participants' assigned intervention during the trial? yes 2.3. If Y/PY/NI to 2.1 or 2.2: Were there deviations from the intended intervention that arose because of the trial context? No,Some concerns,"3.1 Were data for this outcome available for all, or nearly all, participants randomized?
+No, high dropout in F2F group
+ 
+
+3.2 If N/PN/NI to 3.1: Is there evidence that the result was not biased by missing outcome data?
+PY",Low risk,Only the study coordinator was allowed to access and exportthe collected data; the psychiatrists were blind to the ratings,Low risk,NA,Some concerns,NA
+2924,Morland 2015,Quality of life following treatment for PTSD: Comparison of videoconferencing and in-person modalities,Consensus,Telemedicine versus in person delivery of cognitive processing therapy for women,Leslie A. Morland et. al,Leslie.Morland@va.gov,Objectives were to compare clinical and processoutcomes of PTSD treatment delivered via videoteleconferencing (VTC) and in-person (NP) in an ethnically diverse sample of veteran and civilian women withPTSD,RCT,124,U.S.A,2015,NA,NA,NA,NA,61,63,124,46.9 (11.8),46.0 (12.1),46.4 (SD11.9),NA,NA,NA,61,63,124 (100%),NA,NA,NA,NA,NA,NA,Comorbiditet,NA,NA,Remote/rural area,12,90 min,1 week on average,3 month treatment and 6 months follow up,Cognitive reprocessing therapy,Uncpecified,Psychopathology (PTSD severity),"CAPS, Treat-ment Expectancy Questionnaire (TEQ), Therapeutic alliance wasassessed using both the client and therapist versions of the 12-itemWorking Alliance Inventory (WAI) short form,16-item Charleston PsychiatricOutpatient Satisfaction Scale-VA version (CPOSS-VA), 1-item Telemedicine Satisfaction and Acceptance Scale(TSAS)",NA,61,41,20 (33%),63,49,14 (22%),ITT,CAPS,NA,67.6,95% CI: (62.7:72.5),50.5,61,95% CI: (39.9:61),67.3,95% CI: (62.5:72.1),53.6,63,95% CI: (43.9:63.3),NA,"BASELINE: 95% CI: (62.7:72.5)
+POST: 95% CI: (39.9:61)","BASELINE: 95% CI: (62.5:72.1)
+POST: 95% CI: (43.9:63.3)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,WAI-short form (12 item),NA,5.8,"(5.56, 6.04) 95%",5.4,61,NA,6.1,"(5.88, 6.36) 95%",5.5,63,NA,NA,"95% CI (4.72, 6.07)
+
+","95% CI  (4.82, 6.07)",Psychopathology,NA,Low risk,"1.1 Was the allocation sequence random?
+
+A noninferiority-designed randomized clinical trial (RCT) 
+ 
+
+1.2 Was the allocation sequence concealed until participants were enrolled and assigned
+
+ PI
+
+1.3 Did baseline differences between intervention groups suggest a problem with the randomization process?
+
+no",Low risk,"2.1. Were participants aware of their assigned intervention during the trial?
+
+ yes
+
+2.2. Were carers and people delivering the interventions aware of participants' assigned intervention during the trial?
+yes
+ 
+
+2.3. If Y/PY/NI to 2.1 or 2.2: Were there deviations from the intended intervention that arose because of the trial context?
+no
+ 
+
+2.4 If Y/PY to 2.3: Were these deviations likely to have affected the outcome?
+
+ 
+
+2.5. If Y/PY/NI to 2.4: Were these deviations from intended intervention balanced between groups?
+
+ 
+
+2.6 Was an appropriate analysis used to estimate the effect of assignment to intervention?
+yes ITT
+
+Primary analyses were done on an intent-to-treat (ITT) basis. Miss-ingvaluesweremultiplyimputedusingtheMarkovChainMonteCarlomethodviaSASprocedureMI[36]with20datasets.Weusedamixedef-fects modeling (MEM) approach (SAS PROC MIXED)[36]to estimatedifferences in CAPS scores between conditions at posttreatment and 3-and 6-month followups. 
+ 
+
+2.7 If N/PN/NI to 2.6: Was there potential for a substantial impact (on the result) of the failure to analyse participants in the group to which they were randomized?",Low risk,NA,Low risk,Assessment conducted by independent assessor not aware of treatment condition,Low risk,"5.1 Were the data that produced this result analysed in accordance with a pre-specified analysis plan that was finalized before unblinded outcome data were available for analysis?
+
+yes
+
+The trial is registered withclinicialtrials.gov, Identifier NCT02362477.",Low risk,Concerns about missing data and patients aware of treatment condition
+2809,Acierno 2016,BEHAVIORAL ACTIVATION AND THERAPEUTIC EXPOSURE FOR POSTTRAUMATIC STRESS DISORDER: A NONINFERIORITY TRIAL OF TREATMENT DELIVERED IN PERSON VERSUS HOME-BASED TELEHEALTH,Consensus,BEHAVIORAL ACTIVATION AND THERAPEUTICEXPOSURE FOR POSTTRAUMATIC STRESS DISORDER: ANONINFERIORITY TRIAL OF TREATMENT DELIVEREDIN PERSON VERSUS HOME-BASED TELEHEALTH,"Acierno, Gros, Ruggiero, Hernandez-Tejada, Knapp,  Lejuez, Muzzy, Frueh, Egede, & Tuerk","Ron Acierno, Mental Health Service 116,Ralph H. Johnson VAMC, 109 Bee Street, Charleston, SC 29401. E-mail: acierno@musc.edu","Compare relative non-inferiority of evidence-based psychotherapies : Behavioral Activation and Therapeutic Exposure (BA-TE), Home based telehealth (HBT) versus in person, in clinic delivery",RCT,265,U.S.A,2016,NA,105  (94%),114 (94.2 %),219 (94 %),7 (5.4),7 (5.8),14 (6 %),46.9 (SD: 14.5),44.5 (SD: 15.1),45.6 (SD: 14.9),NA,NA,NA,NA,NA,232 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,8,90,Weekly,3 6 12 month follow-up,Behavioural Activation and Therapeutic exposure (BATE),NA,Depression and PTSD symptoms,"PCL-M, CAPS,  and BDI-II",NA,111,91,18,121,93,23.1,PP,PCL-M,NA,57.9,12.7,63,63,NA,58.6,14.0,73,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Low risk,"1.1 Was the allocation sequence random?
+Yes, block randomization-
+
+1.2 Was the allocation sequence concealed until participants were enrolled and assigned
+
+NI
+
+1.3 Did baseline differences between intervention groups suggest a problem with the randomization process?
+
+No",Some concerns,"2.1. Were participants aware of their assigned intervention during the trial?
+Yes
+ 
+
+2.2. Were carers and people delivering the interventions aware of participants' assigned intervention during the trial?
+
+ Yes
+
+2.3. If Y/PY/NI to 2.1 or 2.2: Were there deviations from the intended intervention that arose because of the trial context?
+
+ PN
+
+2.6 Was an appropriate analysis used to estimate the effect of assignment to intervention?
+Yes, ITT
+",Some concerns,"3.1 Were data for this outcome available for all, or nearly all, participants randomized?
+
+No
+
+3.2 If N/PN/NI to 3.1: Is there evidence that the result was not biased by missing outcome data?
+
+No
+
+
+",Some concerns,Assessors were blind to condition but depression was a self-report measure,Low risk,Appropriate analysis undertaken although data analysis defined minimum number of 5 sessions,Some concerns,"2 Domains ""Some concerns"" Participants/therapists not blind to condition, depression based on self-report"
+2500,Luxton 2016,Predicting post treatment client satisfaction between behavioural activation for depression delivered either in-person or via home-based telehealth,Consensus,Home-Based Telebehavioral Health for U.S. Military Personnel and Veterans With Depression: A Randomized Controlled Trial,"David D. Luxton, Larry D. Pruitt, Amy Wagner, Derek J. Smolenski, Michael A. Jenkins-Guarnieri,and Gregory Gahm",ddluxton@uw.edu,"To compare the safety, feasibility, andeffectiveness of  Home-Based Telebehavioral Health  to care provided in the traditional in-office setting among military personnel andveterans.",RCT,121,U.S.A,2016,NA,52(83.87%),47(79.66%),99(81.81%),10(16%),12(20.34%),22 (18.18%),"19–24: 12 (19.35%)     
+
+25–29: 16 (25.81%)     
+
+30–34: 13 (20.97%)     
+
+35–39: 4 (6.45%)      
+
+40–49 : 6  ( 9.68%)      
+
+50–65:  11( 17.74%)","10 (16.95%)
+
+12  (20.34%)
+
+11 (18.64%)
+
+9   (15.25%)
+
+8     (13.56%)
+
+9     (15.25%)","22 (18.8%)
+
+28 (23.14%)
+
+24 (19.83%)
+
+13 (10.74%)
+
+14 (11.57%)
+
+20 (16.52%)",62(51.23%),59(48.76%),121 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,8,50-60-min,1 week,8week+3 moth follow up:  5 month,behavioral activation treatment for depression (BATD),High-speed Internet access at home (384 kB/s minimum),Psychopathology,"The Beck Hopelessness Scale (BHS), Beck Depression Inventory II(BDI-II), SCID-I/P), Beck Anxiety Inventory (BAI), PCL-M, Inventory of Attitudes Toward Seeking Mental Health Ser-vices (IASMH), Client Satisfaction Questionnaire (CSQ-8), Treatment session checklis(Efter hver session)",NA,59,40,19 (32%),56,42,14 (25%),ITT,BDI-II,NA,27.60,10.45,13.82,45,12.02,29.71,11.33,11.74,42,12.08,NA,NA,NA,NA,NA,NA,28.76,45,3.41,NA,NA,29.29,42,3.98,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,Satisfaction,Low risk,"1.1 Was the allocation sequence random?
+
+Yes
+
+A total of 92 participantsmet all inclusion criteria and were randomized at the militarysite and 29 were randomized at the VA site. Participants wererandomized to treatment condition in a 1:1 ratio using permutedblocks of size 10, stratified by baseline major or minor depres-sive disorder diagnosis and study site using Stata 12.1 (Stata-Corps, 2013)
+
+1.2 Was the allocation sequence concealed until participants were enrolled and assigned
+
+PY
+
+1.3 Did baseline differences between intervention groups suggest a problem with the randomization process?
+
+No",Low risk,"2.1. Were participants aware of their assigned intervention during the trial?
+Yes
+ 
+
+2.2. Were carers and people delivering the interventions aware of participants' assigned intervention during the trial?
+PY
+ 
+
+2.3. If Y/PY/NI to 2.1 or 2.2: Were there deviations from the intended intervention that arose because of the trial context?
+No
+ 
+
+2.4 If Y/PY to 2.3: Were these deviations likely to have affected the outcome?
+
+ No
+
+2.5. If Y/PY/NI to 2.4: Were these deviations from intended intervention balanced between groups?
+
+ 
+
+2.6 Was an appropriate analysis used to estimate the effect of assignment to intervention?
+
+ 
+
+2.7 If N/PN/NI to 2.6: Was there potential for a substantial impact (on the result) of the failure to analyse participants in the group to which they were randomized?",Low risk,"3.1 Were data for this outcome available for all, or nearly all, participants randomized?
+No high percentage of dropou in both groups
+ 
+
+3.2 If N/PN/NI to 3.1: Is there evidence that the result was not biased by missing outcome data?
+PN- 
+intend to treat 
+ 
+
+3.3 If N/PN to 3.2: Could missingness in the outcome depend on its true value?
+Yes
+
+Missing data occurred predominantly in amonotonic fashion as a function of treatment withdrawal or loss tofollow-up. The regression models described above allowed us toretain all participants who provided data at baseline irrespective ofdata availability at subsequent assessment times. The assumptionof this modeling strategy is that the data are at least missing atrandom
+ 
+
+3.4 If Y/PY/NI to 3.3: Is it likely that missingness in the outcome depended on its true value?
+
+yes.",Low risk,"4.1 Was the method of measuring the outcome inappropriate?
+PN
+ 
+
+4.2 Could measurement or ascertainment of the outcome have differed between intervention groups?
+pn
+ 
+
+4.3 If N/PN/NI to 4.1 and 4.2: Were outcome assessors aware of the intervention received by study participants?
+
+No.
+
+Clinical assessors were unaware of treatment conditionthroughout the trial.",Low risk,ClinicalTrials.gov Identifier NCT01599585; available online athttps://clinicaltrials.gov/ct2/show/NCT01599585).,Low risk,NA
+2493,Maieritsch 2016,Randomized controlled equivalence trial comparing videoconference and in person delivery of cognitive processing therapy for PTSD,Consensus,Randomized controlled equivalence trial comparing videoconference and in person delivery of cognitive processing therapy for PTSD,"Kelly P Maieritsch, Tracey L Smith, Jonathan D Hessinger, Eileen P Ahearn, Jens C Eickhoff and Qianqian Zhao",kelly.maieritsch@va.gov,The aim of thisrandomized clinical trial was to evaluate equivalence between in person and VTC psychotherapy for PTSD (Iraq/Afganistan not vietnam cohort),RCT,90,U.S.A,2016,NA,NA,NA,84 (93.3 %),NA,NA,6 (6.7 %),Adults,NA,30.93 (SD: 6.05,NA,NA,NA,NA,NA,90 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,at least 10 sessions,50 minutes,weekly (although some twice a week),"aprox. 6 month.
+
+9 or 10 weeks + 3 month follow up.",Cognitive processing therapy,NA,Psychopathology (PTSD),"CAPS PTSD severity,  PTSD checklist (PCL) and Beck depression inventory-II (BDI-II), and working alliance inventory.",NA,45,25,20(45%),45,26,19(42%),ITT,CAPS,NA,81.5,15.7,51.2,25,28.3,78.6,15.1,50.7,26,22.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,WAI-full (36 item),NA,NA,NA,159.2,25,3.4 (SE),NA,NA,161,26,2.8 (SE),NA,SE: 3.4,SE: 2.8,Psychopathology,NA,Low risk,Participants randomized,Low risk,Participants aware of conditions assigned.  Therapists from recruitment sites used for TMH (n=10),Some concerns,Significant dropout reported in both arms (roughly 45%),Some concerns,Unclear if assessment of CAPS was provided by independent assessor,Low risk,Clear description of analysis plan provided,Some concerns,Significant dropout and unclear if assessors were independent
+1557,Yuen 2015,Treatment satisfaction of home-based telehealth versus in-person delivery of prolonged exposure for combat-related PTSD in veterans,Consensus,Randomized Controlled Trial of Home-Based Telehealth Versus In-Person Prolonged Exposure for Combat-Related PTSD in Veterans: Preliminary Results,"Erica K. Yuen, Daniel F. Gros, Matthew Price, Stephanie Zeigler, Peter W. Tuerk, Edna B. Foa, and Ron Acierno",eyuen@ut.edu,The present study is an ongoing randomized controlled trial comparing the effectiveness of prolonged exposure (PE) delivered via in person or home-based video telehealth modalities.,RCT,52,U.S.A.,2015,NA,23 (100%),28 (96.6%),51 (98.08%),0 (0%),1 (3.4%),1 (1.92%),M = 41.2 (SD = 15.4),M = 46.3 (SD = 14.9),M = 43.98 (SD = 15.18),NA,NA,NA,23,29,52,NA,NA,NA,NA,NA,NA,"Comorbidity: Major depr. disorder: 9(39.1%)
+
+Panic disorder:4(17.4%)","Comorbidity: Major depr. disorder: 13(44.8%
+)
+Panic disorder:4 (13.8%)","Comorbidity: Major depr. disorder: 22 (42%)
+
+Panic disorder: 8(15.38%)",Mix (Rural and Urban),8-12 (Mean = 10),90,Weekly,13 weeks (12 sessions no follow up and 1 week for post treatment assessment),Prolongen exposure,"Participants in the home-based telehealth condition had several videoconferencing service
+options. Eight participants who had access to their own computer or tablet and high-speed
+Internet connection used encrypted videoconferencing software (e.g., AK Summit) on their
+home computer or tablet. A total of 12 participants who did not have their own computer and
+high-speed Internet connection were given a tablet for the duration of the study, which allowed
+them to use Jabber, Facetime, or Skype on a 3G or 4G wireless network. Two participants were
+given an analog videophone with a built-in camera and video screen that operated through an
+analogue telephone line",Psychopathology,"CAPS, PCL = Posttrauamtic Stress Disorder
+Checklist; BDI = Beck Depression Inventory; BAI = Beck Anxiety Inventory;  Service Delivery Perceptions Questionnaire (Satisfaction)",NA,NA,23,36.1%,NA,29,23.7%,ITT,CAPS,NA,65.27,11.69,35.91,23,17.66,68.42,14.73,38.33,29,22.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Low risk,"1.1: Y
+1.2: Y
+1.3: N
+
+Supporting text:
+Block random. Clinical assessors were blind to participant condition",Low risk,"2.1: Y
+2.2: Y (Each therapist was randomly assigned to provide treatment to participants in both conditions.)
+2.3: PN (The groups did not differ at pretreatment on the CAPS, PCL, BDI, and BAI)
+2.6: Y (Comparisons between telehealth and in-person conditions at posttreatment were evaluated
+within a noninferiority framework using the per protocol and intent to treat (ITT) sample)",Low risk,"3.1: N
+3.2: PY (Cases with missing data did not differ from those with complete data on any of the outcome variables or demographic factors (ps = 0.12–0.49). There were no significant differences in cases with missing data at posttreatment across the treatment conditions, p = 0.76–0.99. Missing data
+were handled with multiple imputation (MI). MI was used for the repeated measures analyses
+based on 25 imputed datasets. MIs were informed by all available psychopathology measures
+at all time points, PTSD diagnostic status at posttreatment, and military theater. Prevalence of
+PTSD at posttreatment and patient satisfaction scores were compared using chi-squares)
+",Low risk,"4.1: N
+4.2: PN
+4.3: N (Clinical assessors were blind to participant condition.)",Low risk,"5.1: Y
+5.2: N
+5.3: N
+
+Statistical plan described appropiate",Low risk,NA
+976,Haghnia 2019,Telepsychiatry- Based Care for the Treatment Follow-Up of Iranian War Veterans with Post-Traumatic Stress Disorder: A Randomized Controlled Trial,Consensus,Telepsychiatry-Based Care for the Treatment Follow-Up of Iranian War Veterans with Post-Traumatic Stress Disorder: A Randomized Controlled Trial,"Yousef Haghnia, Taha Samad-Soltani, Mahmood Yousefi, Habib Sadr, Peyman Rezaei-Hachesu","Peyman Rezaei-Hachesu, PhD; 
+Health Information Technology, School 
+of Management and Medical Informatics, 
+Road Traffic Injury Research Center, 
+Tabriz University of Medical Sciences, 
+Postal Code:  51666-14711, Tabriz, Iran
+Tel:  +98 914 1023840
+Email: rezaeip@tbzmed.ac.ir","This study was aimed at comparing the efficacy of  telepsychiatry and face-to-face consultation as methods of treating 
+post-traumatic stress disorder (PTSD). The comparison was based on treatment costs, access to health services, completion of therapy sessions, and patient satisfaction as variables.",RCT,71,Iran,2019,NA,37,34,71(100%),NA,NA,NA,51(sd:3),49 (sd:3),"45-50: 1 (1.67%)
+51-55: 20 (33.33%)
+56-60: 39 (65%)",NA,NA,NA,37 (52.11%),34 (47.89%),71 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,Unspecified,Both group recieved 3 face to face consultation then 6 sessions for both groups,20 minutes,1 week,3 months,"The treatment sessions consisted of antidepressant medication management, psychoeducation, and brief supportive counseling.","In the telepsychiatry group, follow-up treatment was provided with the help of a multimedia application (Imo voice calls, text messaging, Telegram, and Skype).",Completion of sessions,"A self-designed questionnaire was used, consisting of: (a) a demographic data section, and (b) questions related to the mental health services delivered by physicians.",NA,33,30,3(9%),32,30,2(6.25%),PP,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Low risk,"1.1: PY (the 71 consenting participants were grouped under 2 types of treatment through simple randomization)
+
+1.2: PY
+
+1.3: N (no significant difference was found between the 2 groups)",High risk,"2.1 & 2.2: Y (The participants and clinicians were not blinded to the intervention assignment)
+2.3: N
+2.6: N (PP - only the 30 participants who completed follow-up were analysed)
+2.7: Y (more than 5% droup-out in both groups)
+",High risk,"3.1: N (pp analysis)
+3.2: N
+3.3: Y (no information about reason for withdrawals) 
+3.4: NI",High risk,NA,High risk,NA,High risk,NA
+265,Liu 2020,Videoconferencing psychotherapy for veterans with PTSD: Results from a randomized controlled non-inferiority trial,Consensus,Videoconferencing psychotherapy for veterans with PTSD: Results from a randomized controlled non-inferiority trial,"Lin Liu, Steven R Thorp, Lucy Moreno, Stephanie Y Wells, Lisa H Glassman, Angela C Busch, Tania Zamora, Carie S Rodgers, Carolyn B Allard, Leslie A Morland, Zia Agha","Lin Liu:
+l2liu@ucsd.edu",To determine if providing psychotherapy for PTSD via videoconference is as effective as in-person psychotherapy.,RCT,207,U.S.A,2020,NA,78 (80.4%),76 (74.5%),154 (77.4%),19 (19.6%),26 (25.5%),45 (22.6%),51.4 (sd: 14.1),45.6(sd:13.5),48.4 (sd: 14.1),NA,NA,NA,103 (49.76%),104 (50.24),207,NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,12 weekly,60,weekly,6 months,Cognitive processing therapy (CPT),NI,PTSD symptoms and severity,"CAPS, PCL-S, PHQ-9",NA,102,80,21.5%,101,74,26.7%,Other: Both,CAPS,NA,71.3,17.4,62.1,80,27.5,72.5,18.4,53.4,74,26.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Other:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Some concerns,The randomisation process was stratified by study therapists (1.1),Low risk,ITT,Low risk,There was no statisticallysignificant  difference  (p¼0.429)  in  dropout  ratesbetween the IP condition (28.2%) and the VC condi-tion (23.1%).,Low risk,NA,Low risk,"ClinicalTrials.gov Identifier: NCT00645047
+",Some concerns,NA
+201,Morland 2020,Home-based delivery of variable length prolonged exposure therapy: A comparison of clinical efficacy between service modalities,Consensus,Home-based delivery of variable length prolonged exposure therapy: A comparison of clinical efficacy between service modalities,"Leslie A. Morland, Margaret-Anne Mackintosh, Lisa H. Glassman, Stephanie Y. Wells, Steven R. Thorp, Sheila A. M. Rauch, Phillippe B. Cunningham, Peter W. Tuerk, Kathleen M. Grubbs, Shahrokh Golshan, Min Ji Sohn, Ron Acierno","Leslie A. Morland, Regional TeleMental Health Program, San Diego VA Health Care System, 3350 La Jolla Village Drive, San Diego, CA 92161.
+Email: leslie.morland@va.gov","This study examined clinical and retention outcomes following variable length prolonged exposure (PE) for posttraumatic stress disorder (PTSD) delivered by one of three treatment modalities (i.e., home‐based telehealth [HBT], office‐based telehealth [OBT], or in‐home‐in‐person [IHIP]).",RCT,175,U.S.A.,2020,NA,"HBT: 44 (75.9%)
+OBT: 46 (78%)
+
+HBT+OBT=90",41 (71.9%),131 (74.9%),"HBT: 14 (24.1%)
+OBT: 13 (22%)
+HBT+OBT=27
+",17 (28.1%),44 (25.1%),"HBT: 47.3 (14.85)
+OBT: 46.5 (14.11)",46.5 (sd: 12.82),46.5 (14.11),NA,NA,NA,"HBT: 58 (33.14%)
+OBT: 59 (33.71%)
+(117, 66.86%)",58 (33.14%),175 (100%),NA,NA,NA,NA,NA,NA,NA,NA,NA,Urban,6-15,90,Wekly,10 month (6 month follow up),Prolongen Exposure,No information,psychopathology (CAPS-5),"CAPS-5, PCL-5, BDI-II, BAI, B-IPF",NA,"HBT: 58
+OBT: 59
+Total: 117","HBT: 38
+OBT: 36
+
+HBT+OBT:=74",n=43(36.75%),58,45,n=13 (22.41%),ITT,CAPS-5,NA,"HBT:41.5
+OBT: 40.6","HBT: 7.93
+OBT: 8.32","HBT: 21.5
+OBT: 21.6","HBT: 58
+OBT: 59","HBT: 14.77
+OBT: 15.10",41.8,6.5,20.6,58,12.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psychopathology,NA,Low risk,"1.1: Y (veterans were randomized to one of the three conditions. Randomization was balanced within therapists, using blocks of decreasing sizes to maintain an approximate balance in the sample sizes for the three arms.)
+1.2: PY
+1.3: N (Before the intervention, treatment groups differed only in that a greater number of Navy veterans were randomized to the IHIP condition
+compared to OBT and HBT)",Low risk,"2.1: Y
+2.2: Y
+2.3: PN
+2.6: Y (All analyses used the intent-to-treat (ITT) sample)",High risk,"3.1: N (Large dropout)
+3.2: N
+3.3: Y (reasons for dropout could be related to outcome, e.g., 'unable to reach' or 'no-show' could be symptom worserning or no effect)
+3.4: Y (46 completed treatment in IHIP vs. 27 in OBT)",Low risk,"4.1: N
+4.2: N
+4.3: All clinician‐administered assessments
+were conducted by masters or doctoral level independent clinical evaluators blinded to the treatment condition and trained to administer the Clinician-Administered PTSD Scale for DSM-5)",Low risk,"5.1: N (Because of the refinement in the definition of early treatment graduation, sensitivity analyses were conducted by assessing differences in the pattern of results based on participants who graduated under the old and new graduation definitions)
+5.2: N
+5.3: N",High risk,NA
+55,Watts 2020,Telepsychotherapy for generalized anxiety disorder: Impact on the working alliance,Consensus,Telepsychotherapy for Generalized Anxiety Disorder: Impact on the Working Alliance,"Stéphanie Watts
+André Marchand
+Stéphane Bouchard
+Patrick Gosselin
+Frédéric Langlois
+Geneviève Belleville
+Michel J. Dugas",stephane.bouchard@uqo.ca,This  study  assesses  the  impact  of  cognitive–behavioral therapy administered via telepsychotherapy or face-to-face on the quality of the working  alliance,RCT,115,Canada,2020,NA,9 (18%),11 (16.92%),20(17.4 %),41 (82%),54 (83.08%),95 (82.6%),43 (SD: 15),40 (SD16),NA,NA,NA,NA,NA,NA,NA,GAD: 50(43.5%),GAD: 65(56.5%),115 (100%),NA,NA,NA,NA,NA,Comorbid: 50.43%,Other: Mix,15,60,1 week,4 month,CBT and psychoeducation,"The technical equipment used consisted of aTandberg MXP 95 codec videoconference sys-tem enabling data transmission between sites at1.544 Mbp/sec through an IP link, a 32-in. TVmonitor, and the MXP 95 video camera on topof  the  monitor.  Videoconference  units  werepermanently  installed  in  the  same  rooms  asthose  used  for  conventional  psychotherapy.The height of the video monitor and the dis-tance  between  the  monitor  and  the  chairwhere  the  participant  sat  were  intended  toreplicate  the  location  of  a  psychotherapistwho  would  have  been  present  face-to-face.The  interface  required  a  dedicated  remotecontrol to call the remote site and adjust thevolume. A telephone and the numbers of theother  sites  were  available  in  all  psychotherapyrooms  so  that  the  psychotherapist  could  contactthe participant in case of major difficulty with thevideoconference system. Finally, a computer con-nected to the Internet was used to assure the trans-mission,  by  the  research  assistant,  of  documentsbetween the client and their remote psychothera-pist in another site/city",Working Alliance,"ADIS-IV, SCID-II, WAI (P and T)",NA,69,52,17 (24.6),79,65,14 (17.72),PP,ADIS-IV,NA,5.4 (N = 50),1,2.96,52,1.90,5.6 (N = 65),.8,3.15,65,1.95,NA,NA,NA,NA,NA,NA,28.32,50,3.78,NA,NA,27.77,65,3.46,NA,NA,NA,WAI-full (36 item),NA,223.38,22.06,240.73,50,16.05,220.4,16.30,233.96,65,13.76,NA,NA,NA,Alliance (WAI),Not necessary for secondary outcome as specified in protocol. Just for primary outcome (Psychopathology),Low risk,"1.1: Y
+1.2: Y
+1.3: N (The  results  showed  that  participants  in  the telepsychotherapy  via  videoconference  condition  did  not  differ  from  those  in  the  conventional  psychotherapy  condition  with  respect  to
+mean  GAD  symptoms  severity,  age,  gender, annual  household  income,  education,  medication  use,  past  psychotherapy  experience  and type  of  comorbidities  presented.  The  average
+severity  of  GAD  symptoms  corresponded  to what is expected from a clinical sample, where the value of 4 is the minimum cut-off score to
+warrant  the  diagnosis  of  GAD.)",High risk,"2.1: Y
+2.2: Y
+2.3: N (There  was  no  significant  difference  in integrity  ratings  between  the  treatment  conditions, t(103) = 1.12, ns, partial eta-squared = .012, or the five centers, F(4, 100) = 1.89, ns, partial  eta-squared = .071.  No  adverse  events were reported by participants, psychotherapists, or  independent  evaluators  rating  treatment  fidelity)
+2.6: N (only included participants who completed treatment + had no missing data)
+2.7: Y (more than 5% of participants missing from analysis)",Low risk,"3.1: N
+3.2: PY (t-tests or nonparametric chi-square tests were also conducted on sociodemographic variables, pretest  GAD  severity,  and  assigned  treatment condition  to  ensure  that  participants  who dropped out of treatment (i.e., attrition) did not differ  from  those  who  completed  treatment)",Low risk,"4.1: N
+
+4.2: N (Across  both  study  conditions,  clients  and psychotherapists  independently assessed  their working alliance after Sessions 1, 3, 5, 7, 9, 11, 13,  and  15.)
+
+4.3: Y (Sixty-five  percent  (n = 17)  of
+psychotherapists treated participants in each of the  two  conditions,  whereas  two  psychotherapists (7.6%) treated participants only in telepsychotherapy via videoconference)
+
+4.4: PN ( A  treatment  rating chart  for  GAD  was  used  to  ensure  that  the provided therapy respected the protocol in both
+treatment condition. A sample of 25% of treatment sessions were chosen at random and analyzed  by  blind,  independent  evaluators  trained in  CBT.  Ratings  of  treatment  integrity  were 94.31%  (SD = 8.33)  in  the  conventional  psychotherapy condition and 92.35 (SD = 9.45) in the telepsychotherapy via videoconference condition)",Low risk,"5.1: Y
+5.2: N
+5.3: N",High risk,NA

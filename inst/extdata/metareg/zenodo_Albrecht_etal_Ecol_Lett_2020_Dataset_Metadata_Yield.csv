@@ -1,0 +1,13 @@
+"Albrecht et al. (2020): The effectiveness of flower strips and hedgerows on pest control, pollination services and crop yield: a quantitative synthesis",...2
+NA,NA
+Metadata yield: data used for analyses of effects of flower strips on crop yield.,NA
+"For addtional information about the dataset and detailed description of methods and analyses see materials and methods section of of Albrecht et al. 2020 and Supporting Tables S1, S2 and S4.",NA
+NA,NA
+studyID,ID of the study
+siteID,"ID of the site (i.e., the focal crop field in which yield was meausured)"
+samplingYear,year in which the data was collected
+plantingType,"focal field with adjacent flower strip (""flowerstrip"") or without floral planting (""control"")"
+fieldDist,"in-field distance (i.e., the distance from the border of the field with or without floral planting); unit: meters [m]"
+flowerstripAge,"age of the flower strip (i.e., the time since the establishment of the flower strip); unit: months [mo]"
+propArable,Landscape-scale percentage of arable crops around the focal field
+yield,standardized crop yield (z-scores)

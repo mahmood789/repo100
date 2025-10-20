@@ -1,0 +1,185 @@
+author,TE,seTE,treat1,treat2,treat1.long,treat2.long,versus
+"Ausbun, 1997",0.09200000000000001,0.195,ind,grp,Individual,Group,ind vs grp
+"Crable, 1986",-0.675,0.35,ind,grp,Individual,Group,ind vs grp
+"Thiede, 2011",-0.10699999999999998,0.198,ind,grp,Individual,Group,ind vs grp
+"Bonertz, 2015",-0.08999999999999997,0.324,ind,grp,Individual,Group,ind vs grp
+"Joy, 2002",-0.135,0.45299999999999996,ind,grp,Individual,Group,ind vs grp
+"Jones, 2013",-0.21699999999999997,0.28900000000000003,ind,grp,Individual,Group,ind vs grp
+"Aaron, 2004",0.10300000000000001,0.401,ind,grp,Individual,Group,ind vs grp
+"Breiman, 2001",-0.085,0.516,ind,gsh,Individual,Guided Self-Help,"Breiman, 2001"
+"Lucero, 2001",-0.052,0.5,ind,gsh,Individual,Guided Self-Help,ind vs gsh
+"Amsberry, 2010",-0.109,0.413,ind,gsh,Individual,Guided Self-Help,ind vs gsh
+"Robinson, 2015",-0.128,0.256,ind,gsh,Individual,Guided Self-Help,ind vs gsh
+"Burgan, 2012",-0.311,0.139,ind,tel,Individual,Telephone,ind vs tel
+"Belk, 1986",-0.177,0.083,ind,tel,Individual,Telephone,ind vs tel
+"Ledbetter, 1984",-0.008,0.231,ind,tel,Individual,Telephone,ind vs tel
+"Narum, 1986",0.039,0.338,ind,tel,Individual,Telephone,ind vs tel
+"Breiman, 2001",-0.75,0.513,ind,wlc,Individual,Waitlist,"Breiman, 2001"
+"Wierenga, 2004",-1.438,0.357,ind,wlc,Individual,Waitlist,ind vs wlc
+"Eisenberg, 1995",-0.509,0.06,ind,wlc,Individual,Waitlist,ind vs wlc
+"Scholer, 2017",-0.965,0.443,ind,wlc,Individual,Waitlist,ind vs wlc
+"Schlaver, 2004",-1.156,0.344,ind,wlc,Individual,Waitlist,ind vs wlc
+"Riley, 2002",-1.402,0.28,ind,wlc,Individual,Waitlist,ind vs wlc
+"Barker, 1997",-0.983,0.179,ind,wlc,Individual,Waitlist,ind vs wlc
+"Dewitt, 1995",-1.207,0.374,ind,wlc,Individual,Waitlist,ind vs wlc
+"De Venecia, 2011",-0.921,0.391,ind,wlc,Individual,Waitlist,ind vs wlc
+"Hiatt, 1985",-0.756,0.102,ind,wlc,Individual,Waitlist,ind vs wlc
+"Congour, 1996",-1.291,0.297,ind,wlc,Individual,Waitlist,ind vs wlc
+"Gruber, 2013",-0.259,0.322,ind,wlc,Individual,Waitlist,ind vs wlc
+"Laird, 2008",-1.436,0.484,ind,wlc,Individual,Waitlist,ind vs wlc
+"Kramer, 2007",-0.997,0.3,ind,wlc,Individual,Waitlist,ind vs wlc
+"Germuska, 1996",-1.314,0.21,ind,wlc,Individual,Waitlist,ind vs wlc
+"Fair, 2003",-1.178,0.175,ind,wlc,Individual,Waitlist,ind vs wlc
+"Mickey, 1989",-0.787,0.239,ind,wlc,Individual,Waitlist,ind vs wlc
+"Shea, 2011",-0.917,0.181,ind,wlc,Individual,Waitlist,ind vs wlc
+"Leach, 2014",-0.96,0.071,ind,cau,Individual,Care As Usual,ind vs cau
+"Koslosky, 1991",-1.2209999999999999,0.151,ind,cau,Individual,Care As Usual,ind vs cau
+"Chambers, 2010",-0.788,0.48,ind,cau,Individual,Care As Usual,ind vs cau
+"Gleave, 2004",-0.24100000000000002,0.323,ind,cau,Individual,Care As Usual,ind vs cau
+"Englund, 2017",-0.5700000000000001,0.228,ind,cau,Individual,Care As Usual,ind vs cau
+"Gilleland, 1989",-0.879,0.46,ind,cau,Individual,Care As Usual,ind vs cau
+"Parker, 2002",-0.7450000000000001,0.224,ind,cau,Individual,Care As Usual,ind vs cau
+"Fergerson, 2014",-0.706,0.335,ind,cau,Individual,Care As Usual,ind vs cau
+"Craft, 2014",-1.054,0.459,ind,cau,Individual,Care As Usual,ind vs cau
+"Horton, 1985",-0.562,0.432,ind,cau,Individual,Care As Usual,ind vs cau
+"Brown, 2017",-0.373,0.076,ind,cau,Individual,Care As Usual,ind vs cau
+"Ancmon, 2001",-0.7350000000000001,0.124,ind,cau,Individual,Care As Usual,ind vs cau
+"Roberts, 1997",-0.938,0.22,ind,cau,Individual,Care As Usual,ind vs cau
+"Erickson, 1998",-0.736,0.29,ind,cau,Individual,Care As Usual,ind vs cau
+"Summerhays, 1987",-0.608,0.315,ind,cau,Individual,Care As Usual,ind vs cau
+"King, 1990",-1.154,0.253,ind,cau,Individual,Care As Usual,ind vs cau
+"Muhlenbruck, 1998",-1.0030000000000001,0.143,ind,cau,Individual,Care As Usual,ind vs cau
+"Murray, 1996",-0.817,0.296,ind,cau,Individual,Care As Usual,ind vs cau
+"Shorb, 1998",-0.966,0.124,ind,cau,Individual,Care As Usual,ind vs cau
+"Fotenos, 1994",-0.529,0.477,ind,cau,Individual,Care As Usual,ind vs cau
+"Pauly, 2003",-0.6040000000000001,0.093,ind,cau,Individual,Care As Usual,ind vs cau
+"Johnson, 1989",-0.9770000000000001,0.164,ind,cau,Individual,Care As Usual,ind vs cau
+"Whitaker, 2017",-0.667,0.199,ind,cau,Individual,Care As Usual,ind vs cau
+"Brown, 1985",-0.663,0.179,ind,cau,Individual,Care As Usual,ind vs cau
+"Ciccone, 1997",-0.621,0.371,ind,cau,Individual,Care As Usual,ind vs cau
+"Martin, 2017",-0.636,0.133,ind,cau,Individual,Care As Usual,ind vs cau
+"White, 2006",-0.069,0.145,ind,cau,Individual,Care As Usual,ind vs cau
+"Silva, 1986",-0.608,0.501,ind,cau,Individual,Care As Usual,ind vs cau
+"Thompson, 1998",-0.223,0.134,ind,cau,Individual,Care As Usual,ind vs cau
+"Snider, 1998",-1.101,0.229,ind,cau,Individual,Care As Usual,ind vs cau
+"Harder, 2005",-0.17300000000000001,0.277,grp,gsh,Group,Guided Self-Help,grp vs gsh
+"Williams, 1989",-0.34900000000000003,0.105,grp,gsh,Group,Guided Self-Help,grp vs gsh
+"Gilstrap, 2015",-0.15600000000000003,0.092,grp,gsh,Group,Guided Self-Help,grp vs gsh
+"Kilgore, 2003",-0.337,0.351,grp,gsh,Group,Guided Self-Help,grp vs gsh
+"Hetherington, 2003",-0.15000000000000002,0.241,grp,gsh,Group,Guided Self-Help,grp vs gsh
+"Austin, 1988",-0.6749999999999999,0.108,grp,ush,Group,Unguided Self-Help,grp vs ush
+"Edwards, 2010",-0.025999999999999912,0.227,grp,wlc,Group,Waitlist,grp vs wlc
+"Sherratt, 2000",0.5730000000000001,0.505,grp,wlc,Group,Waitlist,grp vs wlc
+"Ceurvorst, 2011",-1.043,0.054,grp,wlc,Group,Waitlist,grp vs wlc
+"Graham, 1986",0.673,0.208,grp,wlc,Group,Waitlist,grp vs wlc
+"Hughey, 2012",-1.6380000000000001,0.072,grp,wlc,Group,Waitlist,grp vs wlc
+"Burges, 1993",-0.35599999999999987,0.084,grp,wlc,Group,Waitlist,grp vs wlc
+"Carpenter, 1994",-2.705,0.435,grp,wlc,Group,Waitlist,grp vs wlc
+"Quick, 2006",-1.5479999999999998,0.477,grp,wlc,Group,Waitlist,grp vs wlc
+"Wuertz, 2016",-1.644,0.488,grp,wlc,Group,Waitlist,grp vs wlc
+"Vaclav, 1984",0.21500000000000008,0.303,grp,wlc,Group,Waitlist,grp vs wlc
+"Roberts, 1996",-1.017,0.433,grp,wlc,Group,Waitlist,grp vs wlc
+"Heath, 1998",0.19000000000000006,0.363,grp,wlc,Group,Waitlist,grp vs wlc
+"Dobbs, 2000",-1.603,0.556,grp,wlc,Group,Waitlist,grp vs wlc
+"Carvey, 2008",-0.32699999999999996,0.484,grp,wlc,Group,Waitlist,grp vs wlc
+"Neil, 2015",-1.292,0.116,grp,wlc,Group,Waitlist,grp vs wlc
+"Barrett, 2005",-1.3019999999999998,0.354,grp,wlc,Group,Waitlist,grp vs wlc
+"Edgar, 2015",0.504,0.435,grp,wlc,Group,Waitlist,grp vs wlc
+"Leonard, 2010",0.031000000000000028,0.422,grp,wlc,Group,Waitlist,grp vs wlc
+"Miller, 1989",-0.43000000000000005,0.408,grp,cau,Group,Care As Usual,grp vs cau
+"Clear, 1989",-0.6559999999999999,0.466,grp,cau,Group,Care As Usual,grp vs cau
+"Plewe, 1991",-0.708,0.16,grp,cau,Group,Care As Usual,grp vs cau
+"Hayko, 1999",-0.0010000000000000009,0.429,grp,cau,Group,Care As Usual,grp vs cau
+"Knickerbocker, 1987",-0.633,0.245,grp,cau,Group,Care As Usual,grp vs cau
+"Kurth, 1992",-0.20799999999999996,0.231,grp,cau,Group,Care As Usual,grp vs cau
+"Menzies, 2003",-0.8049999999999999,0.285,grp,cau,Group,Care As Usual,grp vs cau
+"Mcmahon, 1998",-0.32699999999999996,0.408,grp,cau,Group,Care As Usual,grp vs cau
+"Isles, 2003",-0.389,0.211,grp,cau,Group,Care As Usual,grp vs cau
+"Santistevan-Gettel, 2012",0.581,0.233,grp,cau,Group,Care As Usual,grp vs cau
+"Frenzel, 2006",-0.7010000000000001,0.152,grp,cau,Group,Care As Usual,grp vs cau
+"Fladland, 1997",-0.7330000000000001,0.151,grp,cau,Group,Care As Usual,grp vs cau
+"Pylkka, 2008",-0.33899999999999997,0.096,grp,cau,Group,Care As Usual,grp vs cau
+"Metzger, 1988",-0.32499999999999996,0.469,grp,cau,Group,Care As Usual,grp vs cau
+"Debenedictis, 1993",-0.641,0.237,grp,cau,Group,Care As Usual,grp vs cau
+"Bengston, 2004",-0.14900000000000002,0.079,grp,cau,Group,Care As Usual,grp vs cau
+"Schlegel, 1989",-1.459,0.266,grp,cau,Group,Care As Usual,grp vs cau
+"Cook, 2013",-0.6259999999999999,0.102,grp,cau,Group,Care As Usual,grp vs cau
+"Sheehan, 2013",-0.07399999999999995,0.099,grp,cau,Group,Care As Usual,grp vs cau
+"Tenbarge, 2000",-0.33199999999999996,0.278,grp,cau,Group,Care As Usual,grp vs cau
+"Buchholtz, 2010",0.435,0.381,grp,cau,Group,Care As Usual,grp vs cau
+"Sheppard, 1994",-0.191,0.261,gsh,ush,Guided Self-Help,Unguided Self-Help,gsh vs ush
+"Warwick, 1986",-0.319,0.396,gsh,ush,Guided Self-Help,Unguided Self-Help,gsh vs ush
+"Weimer, 1999",-0.418,0.119,gsh,ush,Guided Self-Help,Unguided Self-Help,gsh vs ush
+"Rusciolelli, 2000",-0.437,0.13,gsh,ush,Guided Self-Help,Unguided Self-Help,gsh vs ush
+"Jeffers, 1996",-0.439,0.529,gsh,ush,Guided Self-Help,Unguided Self-Help,gsh vs ush
+"Whiting, 1990",-0.22599999999999992,0.375,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Tamburri, 2001",0.37300000000000005,0.305,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Hurla, 1985",-1.2429999999999999,0.446,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Cowan, 2010",0.47300000000000003,0.129,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Wyatt, 2003",-1.838,0.409,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Vahlenkamp, 2006",-0.5559999999999998,0.313,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Campbell, 2000",-2.9050000000000002,0.485,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Lange, 1993",-1.7479999999999998,0.063,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Shrednik, 2000",-1.8439999999999999,0.498,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Chamberlain, 2011",0.015000000000000069,0.33,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Runnels, 2004",-1.2169999999999999,0.365,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Hall, 1997",-0.009999999999999953,0.239,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"James, 2012",-1.803,0.411,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Delaney, 1995",-0.5269999999999999,0.185,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Watkins Jr, 2004",-1.492,0.461,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Harbert, 1999",-1.5019999999999998,0.434,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Rodgers, 1993",0.304,0.065,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Hopkins, 2003",-0.16899999999999998,0.254,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Ebberts, 1992",-0.22599999999999992,0.107,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Homrighausen, 2002",0.37300000000000005,0.162,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Hanrahan, 1999",-1.2429999999999999,0.435,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Bond, 1988",0.47300000000000003,0.118,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Lemon, 2005",-1.838,0.362,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Blevins, 2003",-0.5559999999999998,0.093,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Reynolds, 1989",-2.9050000000000002,0.367,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Marinkovich, 2003",-1.7479999999999998,0.333,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Lesley, 1999",-1.8439999999999999,0.318,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Fourroux, 1999",0.015000000000000069,0.275,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Orman, 2012",-1.2169999999999999,0.226,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Underwood, 2008",-0.009999999999999953,0.305,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Graesch, 2000",-1.803,0.163,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Fay, 2002",-0.5269999999999999,0.279,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Ristau, 1992",-1.492,0.297,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Nelson, 1987",-1.5019999999999998,0.129,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Watson, 1997",0.304,0.309,gsh,wlc,Guided Self-Help,Waitlist,gsh vs wlc
+"Crane, 1984",-0.733,0.348,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Reeve, 2013",-0.511,0.252,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Christenson, 2018",-0.71,0.359,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Ayers, 2008",-0.429,0.36,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Schwartz, 2012",-0.573,0.27,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Gilly, 2014",-0.675,0.399,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Dahl, 2002",-0.662,0.427,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Allen, 2003",-0.556,0.085,gsh,cau,Guided Self-Help,Care As Usual,gsh vs cau
+"Scott, 1993",-0.558,0.098,tel,wlc,Telephone,Waitlist,tel vs wlc
+"Nelson, 2006",-0.514,0.119,tel,cau,Telephone,Care As Usual,tel vs cau
+"Staley, 1992",-0.557,0.363,tel,cau,Telephone,Care As Usual,tel vs cau
+"Maurath, 1994",-0.962,0.301,tel,cau,Telephone,Care As Usual,tel vs cau
+"Carrell, 2008",-1.014,0.177,tel,cau,Telephone,Care As Usual,tel vs cau
+"Schulker, 2009",-1.306,0.265,tel,cau,Telephone,Care As Usual,tel vs cau
+"Walker, 1990",-0.688,0.25,tel,cau,Telephone,Care As Usual,tel vs cau
+"Wagner, 1994",-0.424,0.178,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Huebner, 1997",-0.549,0.258,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Mcmanus, 1987",-0.547,0.251,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Oberholser, 2008",-0.651,0.239,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Mai, 2003",-0.524,0.255,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Ralph, 1989",-0.377,0.419,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Roberts, 2017",-0.465,0.143,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Thompson, 2003",-0.608,0.246,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Hassan, 2011",-0.636,0.159,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Woodard, 2013",-0.505,0.514,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Meraz, 2014",-0.252,0.295,ush,wlc,Unguided Self-Help,Waitlist,ush vs wlc
+"Lopez, 2011",-0.318,0.105,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Villalobos-Valles, 2006",0.058,0.35,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Godinez, 2005",-0.014,0.547,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Quinonez Dominguez, 1993",-0.156,0.355,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Ono, 1985",-0.249,0.454,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Durgan, 1998",0.096,0.195,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Nguyen, 1996",-0.423,0.309,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Maranto, 1997",-0.231,0.245,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Duba, 1990",0.062,0.243,ush,cau,Unguided Self-Help,Care As Usual,ush vs cau
+"Breiman, 2001",-0.664,0.514,gsh,wlc,Guided Self-Help,Waitlist,"Breiman, 2001"

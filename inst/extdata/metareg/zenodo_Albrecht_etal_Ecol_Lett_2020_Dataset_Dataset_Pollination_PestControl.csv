@@ -1,0 +1,1606 @@
+studyID,siteID,serviceType,samplingYear,plantingType,fieldDist,flowerstripPlantSpecRich,flowerstripAge,propSemiNatural,propArable,ES
+blaa01,blaa01.Cals,pest control,2011,control,1,NA,NA,78,6,0.688636219261831
+blaa01,blaa01.Cals,pest control,2011,control,15,NA,NA,78,6,-0.0137591341310924
+blaa01,blaa01.Cals,pest control,2011,flowerstrip,1,9.67,24,78,6,1.52485180600271
+blaa01,blaa01.Cals,pest control,2011,flowerstrip,15,9.67,24,78,6,-0.20368003986907
+blaa01,blaa01.Cals,pest control,2012,control,1,NA,NA,78,6,1.2917238141417
+blaa01,blaa01.Cals,pest control,2012,control,15,NA,NA,78,6,-0.330296231463227
+blaa01,blaa01.Cals,pest control,2012,flowerstrip,1,9.67,36,78,6,2.0072241054001494
+blaa01,blaa01.Cals,pest control,2012,flowerstrip,15,9.67,36,78,6,2.48551546232444
+blaa01,blaa01.Cals,pollination,2009,control,1,NA,NA,78,6,-0.01935614061275
+blaa01,blaa01.Cals,pollination,2009,control,15,NA,NA,78,6,-0.62791245406269
+blaa01,blaa01.Cals,pollination,2009,flowerstrip,1,9.67,0,78,6,-0.0601667295138239
+blaa01,blaa01.Cals,pollination,2009,flowerstrip,15,9.67,0,78,6,0.40394021252884
+blaa01,blaa01.Cals,pollination,2010,control,1,NA,NA,78,6,-0.310301992655499
+blaa01,blaa01.Cals,pollination,2010,control,15,NA,NA,78,6,-0.429118765038127
+blaa01,blaa01.Cals,pollination,2010,flowerstrip,1,9.67,12,78,6,-0.0337145325087302
+blaa01,blaa01.Cals,pollination,2010,flowerstrip,15,9.67,12,78,6,-0.361624435006881
+blaa01,blaa01.Cals,pollination,2011,control,1,NA,NA,78,6,-2.31325908975967
+blaa01,blaa01.Cals,pollination,2011,control,15,NA,NA,78,6,-2.07920117420564
+blaa01,blaa01.Cals,pollination,2011,flowerstrip,1,9.67,24,78,6,-0.566291833488471
+blaa01,blaa01.Cals,pollination,2011,flowerstrip,15,9.67,24,78,6,0.212777616906363
+blaa01,blaa01.Cals,pollination,2012,control,1,NA,NA,78,6,-0.307225024767707
+blaa01,blaa01.Cals,pollination,2012,control,15,NA,NA,78,6,-0.407415250735897
+blaa01,blaa01.Cals,pollination,2012,flowerstrip,1,9.67,36,78,6,0.176563837089475
+blaa01,blaa01.Cals,pollination,2012,flowerstrip,15,9.67,36,78,6,-0.4390512880319
+blaa01,blaa01.Gale,pest control,2011,control,1,NA,NA,49,7,-1.58999290862767
+blaa01,blaa01.Gale,pest control,2011,control,15,NA,NA,49,7,0.171063965650235
+blaa01,blaa01.Gale,pest control,2011,flowerstrip,1,7.5,24,49,7,0.688109179773961
+blaa01,blaa01.Gale,pest control,2011,flowerstrip,15,7.5,24,49,7,-0.13141969603207
+blaa01,blaa01.Gale,pest control,2012,control,1,NA,NA,49,7,-1.42037774392127
+blaa01,blaa01.Gale,pest control,2012,control,15,NA,NA,49,7,-1.22693645406212
+blaa01,blaa01.Gale,pest control,2012,flowerstrip,1,7.5,36,49,7,-0.7735077976628649
+blaa01,blaa01.Gale,pest control,2012,flowerstrip,15,7.5,36,49,7,0.302860201639532
+blaa01,blaa01.Gale,pollination,2009,control,1,NA,NA,49,7,0.546875490848709
+blaa01,blaa01.Gale,pollination,2009,control,15,NA,NA,49,7,0.745998712955955
+blaa01,blaa01.Gale,pollination,2009,flowerstrip,1,7.5,0,49,7,-0.18898533850533
+blaa01,blaa01.Gale,pollination,2009,flowerstrip,15,7.5,0,49,7,0.857623739638616
+blaa01,blaa01.Gale,pollination,2010,control,1,NA,NA,49,7,0.641907916317624
+blaa01,blaa01.Gale,pollination,2010,control,15,NA,NA,49,7,0.372710352056473
+blaa01,blaa01.Gale,pollination,2010,flowerstrip,1,7.5,12,49,7,-0.065932275002414
+blaa01,blaa01.Gale,pollination,2010,flowerstrip,15,7.5,12,49,7,-0.034888951819691
+blaa01,blaa01.Gale,pollination,2011,control,1,NA,NA,49,7,1.37645333468447
+blaa01,blaa01.Gale,pollination,2011,control,15,NA,NA,49,7,2.33904321661337
+blaa01,blaa01.Gale,pollination,2011,flowerstrip,1,7.5,24,49,7,2.2046742129947
+blaa01,blaa01.Gale,pollination,2011,flowerstrip,15,7.5,24,49,7,2.079427468632
+blaa01,blaa01.Gale,pollination,2012,control,1,NA,NA,49,7,-0.206340166424281
+blaa01,blaa01.Gale,pollination,2012,control,15,NA,NA,49,7,0.252532074000142
+blaa01,blaa01.Gale,pollination,2012,flowerstrip,1,7.5,36,49,7,-0.0162839977047996
+blaa01,blaa01.Gale,pollination,2012,flowerstrip,15,7.5,36,49,7,-0.0247236836034396
+blaa01,blaa01.Hart,pest control,2011,control,1,NA,NA,55,7,0.0420267745266392
+blaa01,blaa01.Hart,pest control,2011,control,15,NA,NA,55,7,-1.07437055713269
+blaa01,blaa01.Hart,pest control,2011,flowerstrip,1,8.25,24,55,7,1.5862368498486
+blaa01,blaa01.Hart,pest control,2011,flowerstrip,15,8.25,24,55,7,0.557077062433761
+blaa01,blaa01.Hart,pest control,2012,control,1,NA,NA,55,7,-0.632769861253634
+blaa01,blaa01.Hart,pest control,2012,control,15,NA,NA,55,7,-0.01503071190723
+blaa01,blaa01.Hart,pest control,2012,flowerstrip,1,8.25,36,55,7,-0.580651495745013
+blaa01,blaa01.Hart,pest control,2012,flowerstrip,15,8.25,36,55,7,0.222791596180352
+blaa01,blaa01.Hart,pollination,2009,control,1,NA,NA,55,7,-0.705209509639243
+blaa01,blaa01.Hart,pollination,2009,control,15,NA,NA,55,7,-0.972790160012128
+blaa01,blaa01.Hart,pollination,2009,flowerstrip,1,8.25,0,55,7,-0.8693567033906139
+blaa01,blaa01.Hart,pollination,2009,flowerstrip,15,8.25,0,55,7,-0.694091997677389
+blaa01,blaa01.Hart,pollination,2010,control,1,NA,NA,55,7,-0.0421734016487024
+blaa01,blaa01.Hart,pollination,2010,control,15,NA,NA,55,7,-0.570972379651682
+blaa01,blaa01.Hart,pollination,2010,flowerstrip,1,8.25,12,55,7,-0.101300118488726
+blaa01,blaa01.Hart,pollination,2010,flowerstrip,15,8.25,12,55,7,0.06830634777763
+blaa01,blaa01.Hart,pollination,2011,control,1,NA,NA,55,7,-1.67732690451862
+blaa01,blaa01.Hart,pollination,2011,control,15,NA,NA,55,7,-1.02713249067114
+blaa01,blaa01.Hart,pollination,2011,flowerstrip,1,8.25,24,55,7,0.00847291552252576
+blaa01,blaa01.Hart,pollination,2011,flowerstrip,15,8.25,24,55,7,0.248424478750418
+blaa01,blaa01.Hart,pollination,2012,control,1,NA,NA,55,7,0.262577548193417
+blaa01,blaa01.Hart,pollination,2012,control,15,NA,NA,55,7,1.03045665208006
+blaa01,blaa01.Hart,pollination,2012,flowerstrip,1,8.25,36,55,7,0.240186532602801
+blaa01,blaa01.Hart,pollination,2012,flowerstrip,15,8.25,36,55,7,0.965229719403594
+blaa01,blaa01.Rant,pest control,2011,control,1,NA,NA,37,20,0.0201350311903556
+blaa01,blaa01.Rant,pest control,2011,control,15,NA,NA,37,20,-0.872338732681496
+blaa01,blaa01.Rant,pest control,2011,flowerstrip,1,5.25,24,37,20,1.22829528949167
+blaa01,blaa01.Rant,pest control,2011,flowerstrip,15,5.25,24,37,20,0.164090338973983
+blaa01,blaa01.Rant,pest control,2012,control,1,NA,NA,37,20,-0.00697459275301823
+blaa01,blaa01.Rant,pest control,2012,control,15,NA,NA,37,20,-0.8248776028964271
+blaa01,blaa01.Rant,pest control,2012,flowerstrip,1,5.25,36,37,20,0.462436020041696
+blaa01,blaa01.Rant,pest control,2012,flowerstrip,15,5.25,36,37,20,0.0271342296724785
+blaa01,blaa01.Rant,pollination,2009,control,1,NA,NA,37,20,0.183190620889518
+blaa01,blaa01.Rant,pollination,2009,control,15,NA,NA,37,20,-0.00299180624403372
+blaa01,blaa01.Rant,pollination,2009,flowerstrip,1,5.25,0,37,20,0.635140003573073
+blaa01,blaa01.Rant,pollination,2009,flowerstrip,15,5.25,0,37,20,0.369178017258953
+blaa01,blaa01.Rant,pollination,2010,control,1,NA,NA,37,20,-0.8127615978797341
+blaa01,blaa01.Rant,pollination,2010,control,15,NA,NA,37,20,-0.138611341000059
+blaa01,blaa01.Rant,pollination,2010,flowerstrip,1,5.25,12,37,20,-0.349957201355256
+blaa01,blaa01.Rant,pollination,2010,flowerstrip,15,5.25,12,37,20,-0.288333166232714
+blaa01,blaa01.Rant,pollination,2011,control,1,NA,NA,37,20,-0.898238071843453
+blaa01,blaa01.Rant,pollination,2011,control,15,NA,NA,37,20,-1.77993607544812
+blaa01,blaa01.Rant,pollination,2011,flowerstrip,1,5.25,24,37,20,-1.4042125410456
+blaa01,blaa01.Rant,pollination,2011,flowerstrip,15,5.25,24,37,20,-1.26254926262118
+blaa01,blaa01.Rant,pollination,2012,control,1,NA,NA,37,20,-0.150344950725719
+blaa01,blaa01.Rant,pollination,2012,control,15,NA,NA,37,20,0.208135910801363
+blaa01,blaa01.Rant,pollination,2012,flowerstrip,1,5.25,36,37,20,0.612859746321277
+blaa01,blaa01.Rant,pollination,2012,flowerstrip,15,5.25,36,37,20,1.18229835588482
+blaa01,blaa01.Vand,pest control,2011,control,1,NA,NA,78,14,-1.30855663264992
+blaa01,blaa01.Vand,pest control,2011,control,15,NA,NA,78,14,-1.0329556295582
+blaa01,blaa01.Vand,pest control,2011,flowerstrip,1,9,24,78,14,-0.340328127977247
+blaa01,blaa01.Vand,pest control,2011,flowerstrip,15,9,24,78,14,0.222786954627609
+blaa01,blaa01.Vand,pollination,2009,control,1,NA,NA,78,14,-1.08704787894942
+blaa01,blaa01.Vand,pollination,2009,control,15,NA,NA,78,14,-0.633227948355474
+blaa01,blaa01.Vand,pollination,2009,flowerstrip,1,9,0,78,14,0.249520051164625
+blaa01,blaa01.Vand,pollination,2009,flowerstrip,15,9,0,78,14,-0.968750972406899
+blaa01,blaa01.Vand,pollination,2010,control,1,NA,NA,78,14,-0.777902552978918
+blaa01,blaa01.Vand,pollination,2010,control,15,NA,NA,78,14,-0.51949732243294
+blaa01,blaa01.Vand,pollination,2010,flowerstrip,1,9,12,78,14,-0.695538976873787
+blaa01,blaa01.Vand,pollination,2010,flowerstrip,15,9,12,78,14,-0.0752018059581757
+blaa01,blaa01.Vand,pollination,2011,control,1,NA,NA,78,14,1.24265021609486
+blaa01,blaa01.Vand,pollination,2011,control,15,NA,NA,78,14,3.4558179580624
+blaa01,blaa01.Vand,pollination,2011,flowerstrip,1,9,24,78,14,1.89757208753829
+blaa01,blaa01.Vand,pollination,2011,flowerstrip,15,9,24,78,14,1.9267049143111
+camp01,camp01.40A,pollination,2013,flowerstrip,1,NA,25,NA,NA,-0.828809821402619
+camp01,camp01.ABM,pollination,2013,flowerstrip,1,NA,25,NA,NA,0.9317370692880209
+camp01,camp01.MARYS,pollination,2013,flowerstrip,1,NA,25,NA,NA,-0.892275909546209
+camp01,camp01.PHP,pollination,2013,flowerstrip,1,NA,25,NA,NA,1.68855500213
+camp01,camp01.PHPW,pollination,2013,control,1,NA,NA,NA,NA,0.357779076990787
+camp01,camp01.WEST1,pollination,2013,control,1,NA,NA,NA,NA,-1.13648938286925
+camp01,camp01.WEST2,pollination,2013,control,1,NA,NA,NA,NA,-0.490766534436867
+camp01,camp01.WHOPE,pollination,2013,control,1,NA,NA,NA,NA,0.370270499846138
+conn02,conn02.BTH,pollination,2014,flowerstrip,5,NA,27,71.00286533,28.76790831,-0.122219907891029
+conn02,conn02.BTPT,pollination,2014,control,5,NA,NA,75.67335244,24.1260745,3.5084754942892906
+conn02,conn02.CRTCEM,pest control,2014,control,5,NA,NA,70.36931005,26.76782136,NA
+conn02,conn02.CRTCEM,pest control,2015,control,5,NA,NA,70.36931005,26.76782136,0.592753717694252
+conn02,conn02.CRTCEM,pollination,2014,control,5,NA,NA,70.36931005,26.76782136,0.350206579604238
+conn02,conn02.CRTCEM,pollination,2015,control,5,NA,NA,70.36931005,26.76782136,0.248453182861749
+conn02,conn02.CRTGRA,pest control,2014,control,5,NA,NA,53.42112797,45.57686802,-1.10143203026893
+conn02,conn02.CRTGRA,pest control,2015,control,5,NA,NA,53.42112797,45.57686802,-0.7402473295600991
+conn02,conn02.CRTGRA,pollination,2014,control,5,NA,NA,53.42112797,45.57686802,-0.135948540817806
+conn02,conn02.CRTGRA,pollination,2015,control,5,NA,NA,53.42112797,45.57686802,-0.183998756320996
+conn02,conn02.CRTPMP,pest control,2014,flowerstrip,5,NA,39,60.14886917,37.04551961,-0.356488589899094
+conn02,conn02.CRTPMP,pest control,2015,flowerstrip,5,NA,39,60.14886917,37.04551961,-0.00448234923815125
+conn02,conn02.CRTPMP,pollination,2014,flowerstrip,5,NA,27,60.14886917,37.04551961,-0.400224725912368
+conn02,conn02.CRTPMP,pollination,2015,flowerstrip,5,NA,39,60.14886917,37.04551961,-0.61645069550374
+conn02,conn02.CRTSB,pest control,2014,flowerstrip,5,NA,39,61.89521901,35.27054108,-1.10143203026893
+conn02,conn02.CRTSB,pest control,2015,flowerstrip,5,NA,39,61.89521901,35.27054108,1.87834173121043
+conn02,conn02.CRTSB,pollination,2014,flowerstrip,5,NA,27,61.89521901,35.27054108,-0.930961196696103
+conn02,conn02.CRTSB,pollination,2015,flowerstrip,5,NA,39,61.89521901,35.27054108,-0.400224725912368
+conn02,conn02.DARPD,pest control,2014,flowerstrip,5,NA,39,57.01578192,42.98421808,NA
+conn02,conn02.DARPD,pest control,2015,flowerstrip,5,NA,39,57.01578192,42.98421808,-0.43926008393569294
+conn02,conn02.DARPD,pollination,2014,flowerstrip,5,NA,27,57.01578192,42.98421808,-0.466032629768734
+conn02,conn02.DARPD,pollination,2015,flowerstrip,5,NA,39,57.01578192,42.98421808,0.641591308919751
+conn02,conn02.DARWEB,pest control,2014,control,5,NA,NA,48.03556065,51.96443935,NA
+conn02,conn02.DARWEB,pest control,2015,control,5,NA,NA,48.03556065,51.96443935,-0.356488589899094
+conn02,conn02.DARWEB,pollination,2014,control,5,NA,NA,48.03556065,51.96443935,-0.286963503704273
+conn02,conn02.DARWEB,pollination,2015,control,5,NA,NA,48.03556065,51.96443935,0.1619627950252
+conn02,conn02.EIT,pest control,2014,flowerstrip,5,NA,39,68.4904039,1.031223145,0.88508380873079
+conn02,conn02.EIT,pest control,2015,flowerstrip,5,NA,39,68.4904039,1.031223145,1.42092032024791
+conn02,conn02.EIT,pollination,2014,flowerstrip,5,NA,27,68.4904039,1.031223145,-0.856701772846707
+conn02,conn02.EIT,pollination,2015,flowerstrip,5,NA,39,68.4904039,1.031223145,0.484336058150588
+conn02,conn02.EIWT,pest control,2014,control,5,NA,NA,71.01947308,2.290950745,-1.10143203026893
+conn02,conn02.EIWT,pest control,2015,control,5,NA,NA,71.01947308,2.290950745,-0.60480307200889
+conn02,conn02.EIWT,pollination,2014,control,5,NA,NA,71.01947308,2.290950745,-0.859704911294034
+conn02,conn02.EIWT,pollination,2015,control,5,NA,NA,71.01947308,2.290950745,-0.49850925751335906
+conn02,conn02.ELDALF,pollination,2014,control,5,NA,NA,42.61591299,57.35546651,0.314984249629952
+conn02,conn02.ELDFL,pollination,2014,flowerstrip,5,NA,27,43.98280802,55.98853868,0.0322272132703766
+conn02,conn02.FVCN,pest control,2014,control,5,NA,NA,67.29667812,32.56013746,1.87834173121043
+conn02,conn02.FVCN,pest control,2015,control,5,NA,NA,67.29667812,32.56013746,-0.183420922175174
+conn02,conn02.FVCN,pollination,2014,control,5,NA,NA,67.29667812,32.56013746,0.0013377889689031
+conn02,conn02.FVCN,pollination,2015,control,5,NA,NA,67.29667812,32.56013746,-0.904751988349896
+conn02,conn02.FVCS,pest control,2014,flowerstrip,5,NA,39,74.33400172,25.49412776,-0.23233135182397
+conn02,conn02.FVCS,pest control,2015,flowerstrip,5,NA,39,74.33400172,25.49412776,0.14014036836095
+conn02,conn02.FVCS,pollination,2014,flowerstrip,5,NA,27,74.33400172,25.49412776,0.680905122044493
+conn02,conn02.FVCS,pollination,2015,flowerstrip,5,NA,39,74.33400172,25.49412776,-0.949106033323314
+conn02,conn02.FVO3,pest control,2014,flowerstrip,5,NA,39,67.97704448,31.8507891,1.87834173121043
+conn02,conn02.FVO3,pest control,2015,flowerstrip,5,NA,39,67.97704448,31.8507891,0.388454850470746
+conn02,conn02.FVO3,pollination,2014,flowerstrip,5,NA,27,67.97704448,31.8507891,-1.09695285018967
+conn02,conn02.FVO3,pollination,2015,flowerstrip,5,NA,39,67.97704448,31.8507891,-0.921710887806978
+conn02,conn02.FVO9,pest control,2014,control,5,NA,NA,72.72467903,26.90442225,-1.10143203026893
+conn02,conn02.FVO9,pest control,2015,control,5,NA,NA,72.72467903,26.90442225,-0.0801687160111298
+conn02,conn02.FVO9,pollination,2014,control,5,NA,NA,72.72467903,26.90442225,-0.61645069550374
+conn02,conn02.FVO9,pollination,2015,control,5,NA,NA,72.72467903,26.90442225,-0.691659728457733
+conn02,conn02.GSTR,pollination,2014,flowerstrip,5,NA,27,86.94905552,12.79336005,0.8971310916358649
+conn02,conn02.GSUP,pollination,2014,control,5,NA,NA,87.09215799,12.67887808,2.55486352459312
+conn02,conn02.KPCRT,pest control,2014,flowerstrip,5,NA,39,91.16972477,8.543577982,0.636769332580541
+conn02,conn02.KPCRT,pest control,2015,flowerstrip,5,NA,39,91.16972477,8.543577982,-0.190945601825897
+conn02,conn02.KPCRT,pollination,2014,flowerstrip,5,NA,27,91.16972477,8.543577982,NA
+conn02,conn02.KPCRT,pollination,2015,flowerstrip,5,NA,39,91.16972477,8.543577982,0.392603828679394
+conn02,conn02.KPGB,pest control,2014,control,5,NA,NA,91.32053853,8.421655686,0.14014036836095
+conn02,conn02.KPGB,pest control,2015,control,5,NA,NA,91.32053853,8.421655686,0.264297612395621
+conn02,conn02.KPGB,pollination,2014,control,5,NA,NA,91.32053853,8.421655686,NA
+conn02,conn02.KPGB,pollination,2015,control,5,NA,NA,91.32053853,8.421655686,-0.0975083684844467
+conn02,conn02.ORCHK,pest control,2014,control,5,NA,NA,69.68222159,9.962782708,-0.5755896024737
+conn02,conn02.ORCHK,pest control,2015,control,5,NA,NA,69.68222159,9.962782708,1.18306118487873
+conn02,conn02.ORCHK,pollination,2014,control,5,NA,NA,69.68222159,9.962782708,-0.400224725912368
+conn02,conn02.ORCHK,pollination,2015,control,5,NA,NA,69.68222159,9.962782708,-0.904751988349896
+conn02,conn02.ORCHR,pest control,2014,flowerstrip,5,NA,39,70.75822604,12.56080114,-0.356488589899094
+conn02,conn02.ORCHR,pest control,2015,flowerstrip,5,NA,39,70.75822604,12.56080114,1.05438913662935
+conn02,conn02.ORCHR,pollination,2014,flowerstrip,5,NA,27,70.75822604,12.56080114,-0.972587586524184
+conn02,conn02.ORCHR,pollination,2015,flowerstrip,5,NA,39,70.75822604,12.56080114,-0.808651557343517
+conn02,conn02.RES47,pest control,2014,flowerstrip,5,NA,39,64.09962783,35.67134269,0.861434810434619
+conn02,conn02.RES47,pest control,2015,flowerstrip,5,NA,39,64.09962783,35.67134269,-0.108174107789299
+conn02,conn02.RES47,pollination,2014,flowerstrip,5,NA,27,64.09962783,35.67134269,0.536754476226847
+conn02,conn02.RES47,pollination,2015,flowerstrip,5,NA,39,64.09962783,35.67134269,-0.400224725912368
+conn02,conn02.RESAJ,pest control,2014,flowerstrip,5,NA,39,65.30203264,34.35442313,-1.10143203026893
+conn02,conn02.RESAJ,pest control,2015,flowerstrip,5,NA,39,65.30203264,34.35442313,1.87834173121043
+conn02,conn02.RESAJ,pollination,2014,flowerstrip,5,NA,27,65.30203264,34.35442313,1.64190943210828
+conn02,conn02.RESAJ,pollination,2015,flowerstrip,5,NA,39,65.30203264,34.35442313,-0.245777604750962
+conn02,conn02.RESHI,pest control,2014,control,5,NA,NA,62.76138642,36.92351762,-0.8531175481591391
+conn02,conn02.RESHI,pest control,2015,control,5,NA,NA,62.76138642,36.92351762,-0.77034605412254
+conn02,conn02.RESHI,pollination,2014,control,5,NA,NA,62.76138642,36.92351762,-0.419881632301758
+conn02,conn02.RESHI,pollination,2015,control,5,NA,NA,62.76138642,36.92351762,0.507924346371395
+conn02,conn02.RESLO,pest control,2014,flowerstrip,5,NA,39,59.99427262,39.69072165,1.67969014909832
+conn02,conn02.RESLO,pest control,2015,flowerstrip,5,NA,39,59.99427262,39.69072165,1.13339829084059
+conn02,conn02.RESLO,pollination,2014,flowerstrip,5,NA,27,59.99427262,39.69072165,0.511684797941254
+conn02,conn02.RESLO,pollination,2015,flowerstrip,5,NA,39,59.99427262,39.69072165,-1.11068148311645
+conn02,conn02.RESNB,pest control,2014,control,5,NA,NA,63.61294017,35.58545663,-1.10143203026893
+conn02,conn02.RESNB,pest control,2015,control,5,NA,NA,63.61294017,35.58545663,-1.10143203026893
+conn02,conn02.RESNB,pollination,2014,control,5,NA,NA,63.61294017,35.58545663,-0.724563680299426
+conn02,conn02.RESNB,pollination,2015,control,5,NA,NA,63.61294017,35.58545663,1.11335706122724
+conn02,conn02.RESWS,pest control,2014,control,5,NA,NA,62.21013455,37.38906384,1.87834173121043
+conn02,conn02.RESWS,pest control,2015,control,5,NA,NA,62.21013455,37.38906384,1.21616978487718
+conn02,conn02.RESWS,pollination,2014,control,5,NA,NA,62.21013455,37.38906384,0.87310598371129
+conn02,conn02.RESWS,pollination,2015,control,5,NA,NA,62.21013455,37.38906384,-1.08821644729228
+conn02,conn02.SQFD,pollination,2014,control,5,NA,NA,72.07568807,27.80963303,2.6578282728413
+conn02,conn02.SQWD,pollination,2014,flowerstrip,5,NA,27,69.23738532,30.70527523,NA
+dain01,dain01.1,pest control,2014,hedgerow,3,NA,NA,13.80111715,94.57342429,0.595328183886452
+dain01,dain01.1,pollination,2014,hedgerow,0.5,NA,NA,13.80111715,94.57342429,-0.778678861369592
+dain01,dain01.10,pest control,2014,hedgerow,3,NA,NA,5.400754118,95.73847926,0.914203487643556
+dain01,dain01.10,pollination,2014,hedgerow,0.5,NA,NA,5.400754118,95.73847926,-0.317946722000218
+dain01,dain01.11,pest control,2014,hedgerow,3,NA,NA,18.40262244,74.04923165,0.683928198166752
+dain01,dain01.12,pest control,2014,hedgerow,3,NA,NA,14.10336227,51.24902663,0.558319541548709
+dain01,dain01.13,pest control,2014,control,3,NA,NA,10.08322198,82.02978557,0.325471754308212
+dain01,dain01.13,pollination,2014,control,0.5,NA,NA,10.08322198,82.02978557,0.150106245519069
+dain01,dain01.14,pest control,2014,hedgerow,3,NA,NA,2.054956565,60.92431035,0.37703897433074707
+dain01,dain01.14,pollination,2014,hedgerow,0.5,NA,NA,2.054956565,60.92431035,1.31243778149784
+dain01,dain01.15,pest control,2014,hedgerow,3,NA,NA,7.729060671,62.07757527,-0.0467673228360813
+dain01,dain01.16,pest control,2014,control,3,NA,NA,8.055647845,66.76634324,-0.659191590450676
+dain01,dain01.16,pollination,2014,control,0.5,NA,NA,8.055647845,66.76634324,0.7442401481448179
+dain01,dain01.17,pest control,2014,hedgerow,3,NA,NA,8.206312165,59.49107295,0.177463982979098
+dain01,dain01.17,pollination,2014,hedgerow,0.5,NA,NA,8.206312165,59.49107295,1.59182293484086
+dain01,dain01.18,pest control,2014,control,3,NA,NA,18.34176689,43.79005863,0.299683145411171
+dain01,dain01.18,pollination,2014,control,0.5,NA,NA,18.34176689,43.79005863,0.251416675677019
+dain01,dain01.19,pest control,2014,hedgerow,3,NA,NA,31.28315409,41.83137867,-1.50114650702697
+dain01,dain01.2,pest control,2014,hedgerow,3,NA,NA,8.560824295,96.58569259,0.228060233408598
+dain01,dain01.2,pollination,2014,hedgerow,0.5,NA,NA,8.560824295,96.58569259,0.426257497492256
+dain01,dain01.20,pest control,2014,hedgerow,3,NA,NA,13.61912776,49.37104924,-2.74930774858799
+dain01,dain01.20,pollination,2014,hedgerow,0.5,NA,NA,13.61912776,49.37104924,0.853121803856666
+dain01,dain01.21,pest control,2014,control,3,NA,NA,4.618660211,69.51761654,-2.99893999690019
+dain01,dain01.21,pollination,2014,control,0.5,NA,NA,4.618660211,69.51761654,0.7210108520522249
+dain01,dain01.22,pest control,2014,control,3,NA,NA,1.307198415,63.85193522,0.271848038860856
+dain01,dain01.22,pollination,2014,control,0.5,NA,NA,1.307198415,63.85193522,-0.678347507105398
+dain01,dain01.23,pest control,2014,hedgerow,3,NA,NA,1.933665634,37.20327204,0.43739965256104
+dain01,dain01.23,pollination,2014,hedgerow,0.5,NA,NA,1.933665634,37.20327204,-1.40851585170821
+dain01,dain01.24,pest control,2014,control,3,NA,NA,3.80980871,50.69385423,-0.40900542066108
+dain01,dain01.25,pest control,2014,hedgerow,3,NA,NA,3.300765752,43.02390755,0.50538085443556
+dain01,dain01.25,pollination,2014,hedgerow,0.5,NA,NA,3.300765752,43.02390755,-1.51267049566526
+dain01,dain01.26,pest control,2014,hedgerow,3,NA,NA,5.03446044,65.45891063,0.699521339259837
+dain01,dain01.26,pollination,2014,hedgerow,0.5,NA,NA,5.03446044,65.45891063,-0.549164887878959
+dain01,dain01.3,pest control,2014,hedgerow,3,NA,NA,5.366820288,70.53773332,0.383831692476344
+dain01,dain01.3,pollination,2014,hedgerow,0.5,NA,NA,5.366820288,70.53773332,1.12571585147825
+dain01,dain01.4,pest control,2014,control,3,NA,NA,2.518415797,97.84544803,-0.585275107277059
+dain01,dain01.5,pest control,2014,control,3,NA,NA,8.30579492,79.94820108,0.516230383693317
+dain01,dain01.5,pollination,2014,control,0.5,NA,NA,8.30579492,79.94820108,1.01332964864675
+dain01,dain01.6,pest control,2014,control,3,NA,NA,0.510574557,99.48942508,0.562454437628141
+dain01,dain01.6,pollination,2014,control,0.5,NA,NA,0.510574557,99.48942508,-1.2530273987706
+dain01,dain01.7,pest control,2014,hedgerow,3,NA,NA,0.992233169,76.47033435,-0.0548644318871727
+dain01,dain01.7,pollination,2014,hedgerow,0.5,NA,NA,0.992233169,76.47033435,-0.280190448725731
+dain01,dain01.8,pest control,2014,control,3,NA,NA,2.928559534,65.18545821,0.867314425880841
+dain01,dain01.8,pollination,2014,control,0.5,NA,NA,2.928559534,65.18545821,-1.41091726598179
+dain01,dain01.9,pest control,2014,hedgerow,3,NA,NA,11.42158476,69.62707049,0.60101979914797
+entl01,entl01.1,pest control,2005,control,3,NA,NA,38.68467955,35.75131639,-0.827096478069794
+entl01,entl01.1,pest control,2005,control,30,NA,NA,38.68467955,35.75131639,-0.899003376567159
+entl01,entl01.1,pest control,2005,flowerstrip,3,24,NA,30.55934019,41.41136903,0.0890345209212023
+entl01,entl01.1,pest control,2005,flowerstrip,30,24,NA,30.55934019,41.41136903,0.678710701377425
+entl01,entl01.10,pest control,2005,control,3,NA,NA,50.2508195,34.43053214,-0.988326700594592
+entl01,entl01.10,pest control,2005,control,30,NA,NA,47.8677218,34.43053214,-0.205998397613239
+entl01,entl01.10,pest control,2005,flowerstrip,3,24,NA,47.8677218,33.30552251,-1.12277513485676
+entl01,entl01.10,pest control,2005,flowerstrip,30,24,NA,50.2508195,33.30552251,-1.06179371151288
+entl01,entl01.2,pest control,2005,control,3,NA,NA,13.99563,58.11294514,-0.356292259676575
+entl01,entl01.2,pest control,2005,control,30,NA,NA,13.6517278,58.11294514,-0.912945808038772
+entl01,entl01.2,pest control,2005,flowerstrip,3,24,NA,13.6517278,59.18553415,-0.627103293707094
+entl01,entl01.2,pest control,2005,flowerstrip,30,24,NA,13.99563,59.18553415,-0.368358902138136
+entl01,entl01.3,pest control,2005,control,3,NA,NA,24.10881558,42.9148516,2.8216847898488
+entl01,entl01.3,pest control,2005,control,30,NA,NA,27.85722492,42.9148516,0.807110927319157
+entl01,entl01.3,pest control,2005,flowerstrip,3,24,NA,24.10881558,38.48252856,-0.31426427467155
+entl01,entl01.3,pest control,2005,flowerstrip,30,24,NA,27.85722492,38.48252856,-0.879990976559971
+entl01,entl01.4,pest control,2005,control,3,NA,NA,32.33850199,46.37086556,0.66405657664570406
+entl01,entl01.4,pest control,2005,control,30,NA,NA,32.33850199,46.37086556,0.360156524004241
+entl01,entl01.4,pest control,2005,flowerstrip,3,24,NA,24.55852732,41.7982747,0.99898287772835
+entl01,entl01.4,pest control,2005,flowerstrip,30,24,NA,24.55852732,41.7982747,0.160907262458231
+entl01,entl01.5,pest control,2005,control,3,NA,NA,42.06233091,45.70258105,0.0285776565643967
+entl01,entl01.5,pest control,2005,control,30,NA,NA,38.20790214,45.70258105,1.69388946566549
+entl01,entl01.5,pest control,2005,flowerstrip,3,24,NA,42.06233091,42.63853882,0.542735807526137
+entl01,entl01.5,pest control,2005,flowerstrip,30,24,NA,38.20790214,42.63853882,-0.122564504327616
+entl01,entl01.6,pest control,2005,control,3,NA,NA,20.92275451,43.85242735,-0.0772574189213988
+entl01,entl01.6,pest control,2005,control,30,NA,NA,23.88922825,43.85242735,-0.0342480705063891
+entl01,entl01.6,pest control,2005,flowerstrip,3,24,NA,20.92275451,43.10353941,-0.7419936988197379
+entl01,entl01.6,pest control,2005,flowerstrip,30,24,NA,23.88922825,43.10353941,0.131052041649182
+entl01,entl01.7,pest control,2005,control,3,NA,NA,33.46990667,42.00320221,-0.7312780071550671
+entl01,entl01.7,pest control,2005,control,30,NA,NA,34.97420685,42.00320221,-0.90958886417249
+entl01,entl01.7,pest control,2005,flowerstrip,3,24,NA,34.97420685,43.07612082,-1.11604327071198
+entl01,entl01.7,pest control,2005,flowerstrip,30,24,NA,33.46990667,43.07612082,-0.639604233836921
+entl01,entl01.8,pest control,2005,control,3,NA,NA,41.60075604,34.52095085,-0.972941911024437
+entl01,entl01.8,pest control,2005,control,30,NA,NA,41.60075604,34.52095085,2.5133547816291
+entl01,entl01.8,pest control,2005,flowerstrip,3,24,NA,40.93769085,36.96836044,0.147891603636566
+entl01,entl01.8,pest control,2005,flowerstrip,30,24,NA,40.93769085,36.96836044,-0.979911113146212
+entl01,entl01.9,pest control,2005,control,3,NA,NA,28.31745916,49.01828635,1.99826229730911
+entl01,entl01.9,pest control,2005,control,30,NA,NA,28.31745916,49.01828635,-0.269225247302272
+entl01,entl01.9,pest control,2005,flowerstrip,3,24,NA,28.50496327,48.83016393,1.40158684187013
+entl01,entl01.9,pest control,2005,flowerstrip,30,24,NA,28.50496327,48.83016393,0.120610977777831
+felt01,felt01.BRU,pollination,2013,flowerstrip,20,NA,14,11,NA,0.409629845310973
+felt01,felt01.BRU1,pollination,2013,control,20,NA,NA,11,NA,-1.45232399701163
+felt01,felt01.CRA,pollination,2013,flowerstrip,20,NA,3,17,NA,-0.707542460082589
+felt01,felt01.CRA1,pollination,2013,control,20,NA,NA,17,NA,-1.07993322854711
+felt01,felt01.EMC,pollination,2013,flowerstrip,20,NA,14,NA,NA,1.52680215070453
+felt01,felt01.EMC1,pollination,2013,control,20,NA,NA,NA,NA,-0.335151691618069
+felt01,felt01.GCR,pollination,2013,flowerstrip,20,NA,14,NA,NA,1.52680215070453
+felt01,felt01.GCR1,pollination,2013,control,20,NA,NA,NA,NA,-0.335151691618069
+felt01,felt01.MCL,pollination,2013,flowerstrip,20,NA,14,5,NA,0.0372390768464519
+felt01,felt01.MCL1,pollination,2013,control,20,NA,NA,5,NA,0.409629845310973
+gans02,gans02.AG,pollination,2016,flowerstrip,2,7,1.5,NA,NA,0.630952202667333
+gans02,gans02.AG,pollination,2016,flowerstrip,50,7,1.5,NA,NA,0.0628636105894517
+gans02,gans02.AG,pollination,2017,flowerstrip,2,7,13.5,NA,NA,-0.43889082626346
+gans02,gans02.AG,pollination,2017,flowerstrip,50,7,13.5,NA,NA,-0.643039942288447
+gans02,gans02.DBH,pollination,2017,control,2,NA,NA,NA,NA,-0.8735560212279431
+gans02,gans02.DBH,pollination,2017,control,40,NA,NA,NA,NA,1.08306951120119
+gans02,gans02.HL,pollination,2016,flowerstrip,2,4,7.5,8.3,52.51,1.1084758546285
+gans02,gans02.HL,pollination,2017,flowerstrip,2,4,7.5,8.3,52.51,-0.836977032286549
+gans02,gans02.HL,pollination,2017,flowerstrip,45,4,7.5,8.3,52.51,-1.29570136930786
+gans02,gans02.HR,pollination,2017,control,2,NA,NA,NA,NA,-0.574687913359904
+gans02,gans02.HR,pollination,2017,control,60,NA,NA,NA,NA,-0.161951622861438
+gans02,gans02.HR,pollination,2017,control,80,NA,NA,NA,NA,-0.607796372047109
+gans02,gans02.HS,pollination,2016,flowerstrip,40,3,7.5,3.74,84.28,-0.0435698648479222
+gans02,gans02.HS,pollination,2017,control,2,NA,NA,NA,NA,-0.521451321973457
+gans02,gans02.MM,pollination,2017,flowerstrip,2,2.67,7.5,20.84,73.81,-0.218316334122643
+gans02,gans02.MM,pollination,2017,flowerstrip,40,2.67,7.5,20.84,73.81,-1.37296615480388
+gans02,gans02.MW,pollination,2016,control,2,NA,NA,9.34,55.18,1.77792618333553
+gans02,gans02.MW,pollination,2016,control,35,NA,NA,9.34,55.18,2.32871756725252
+gans02,gans02.MZ,pollination,2016,control,2,NA,NA,NA,NA,1.34580244442821
+gans02,gans02.MZ,pollination,2016,control,60,NA,NA,NA,NA,0.748753899109291
+gans02,gans02.MZ,pollination,2017,control,2,NA,NA,NA,NA,-0.98790687403342
+gans02,gans02.MZ,pollination,2017,control,85,NA,NA,NA,NA,-1.19061714036806
+gans02,gans02.PN,pollination,2016,flowerstrip,2,2,1.5,29.65,36.17,1.38762012059015
+gans02,gans02.PN,pollination,2016,flowerstrip,80,2,1.5,29.65,36.17,-0.678033746017553
+gans02,gans02.PN,pollination,2017,control,2,NA,NA,22.45,51.61,-0.950082178016485
+gans02,gans02.PN,pollination,2017,control,85,NA,NA,22.45,51.61,-0.628911629039323
+gans02,gans02.PN1,pollination,2017,flowerstrip,2,9,13.5,22.45,51.61,-1.28134801541149
+gans02,gans02.PN2,pollination,2017,flowerstrip,40,9,13.5,9.88,73.76,-0.821145977036851
+gans02,gans02.SH,pollination,2016,control,2,NA,NA,NA,NA,0.468140779839017
+gans02,gans02.SH,pollination,2016,control,60,NA,NA,NA,NA,0.465748637133769
+gans02,gans02.SH,pollination,2017,control,2,NA,NA,NA,NA,-0.696745652199705
+gans02,gans02.SH,pollination,2017,control,80,NA,NA,NA,NA,-0.309298575321523
+gans02,gans02.THK,pollination,2017,flowerstrip,2,6,13.5,29.47,58.47,-0.233636117558157
+gans02,gans02.THK,pollination,2017,flowerstrip,60,6,13.5,29.47,58.47,-0.926721353973723
+gans02,gans02.TR,pollination,2016,flowerstrip,45,8,1.5,22.45,46,1.22628842707447
+gans02,gans02.TR,pollination,2017,flowerstrip,2,8,13.5,NA,NA,0.343243202207507
+gans02,gans02.TR,pollination,2017,flowerstrip,45,8,13.5,NA,NA,0.984590100922233
+gans02,gans02.UT,pollination,2017,flowerstrip,2,7,13.5,49.5,27.57,-1.32418982997575
+gans02,gans02.UT,pollination,2017,flowerstrip,55,7,13.5,49.5,27.57,-1.17769006322571
+gans02,gans02.UW,pollination,2016,flowerstrip,2,6,1.5,44.28,49.72,1.16022947096545
+gans02,gans02.UW,pollination,2017,flowerstrip,2,6,1.5,44.28,49.72,-0.266259543621071
+gans02,gans02.UW,pollination,2017,flowerstrip,2,6,7.5,44.28,49.72,-0.182975842600221
+gans02,gans02.UW,pollination,2017,flowerstrip,60,6,1.5,44.28,49.72,-1.09293396796467
+gard01,gard01.BA,pest control,2011,control,4.5,NA,NA,31.1018,45.5331,0.148320385175046
+gard01,gard01.BA,pest control,2012,flowerstrip,4.5,NA,11,29.51028652,52.43081695,0.705844976250887
+gard01,gard01.BA,pollination,2011,control,4.5,NA,NA,31.1018,45.5331,-1.31481178620762
+gard01,gard01.BA,pollination,2012,flowerstrip,4.5,NA,11,29.51028652,52.43081695,-0.987737974333069
+gard01,gard01.FN,pest control,2011,control,4.5,NA,NA,47.4094,37.5867,0.240044018492909
+gard01,gard01.FN,pest control,2012,control,4.5,NA,NA,56.16098903,18.4858735,2.73660493971317
+gard01,gard01.FN,pollination,2011,control,4.5,NA,NA,47.4094,37.5867,NA
+gard01,gard01.FN,pollination,2012,control,4.5,NA,NA,56.16098903,18.4858735,1.27612709056125
+gard01,gard01.FW,pest control,2011,control,4.5,NA,NA,31.07115,38.5468,0.00887934015952275
+gard01,gard01.FW,pest control,2012,flowerstrip,4.5,25,23,28.93060045,33.78024088,-0.542893869809378
+gard01,gard01.FW,pollination,2011,control,4.5,NA,NA,31.07115,38.5468,-1.12062151007788
+gard01,gard01.FW,pollination,2012,flowerstrip,4.5,25,23,28.93060045,33.78024088,0.90213133504098
+gard01,gard01.JB,pest control,2011,flowerstrip,4.5,25,11,14.79001,79.9733,-0.55826305504933
+gard01,gard01.JB,pest control,2012,flowerstrip,4.5,25,11,14.082607625,76.278070935,-0.582187770456113
+gard01,gard01.JB,pest control,2012,flowerstrip,4.5,25,23,14.082607625,76.278070935,-0.556372009950747
+gard01,gard01.JB,pollination,2011,flowerstrip,4.5,25,11,14.79001,79.9733,-0.711420857274824
+gard01,gard01.JB,pollination,2012,flowerstrip,4.5,25,11,14.082607625,76.278070935,0.824018341874963
+gard01,gard01.JB,pollination,2012,flowerstrip,4.5,25,23,14.082607625,76.278070935,-0.116468844834542
+gard01,gard01.KG,pest control,2011,control,4.5,NA,NA,40.41642,40.085,3.8578834470399905
+gard01,gard01.KG,pest control,2012,control,4.5,NA,NA,43.84845548,43.55564404,-0.318029539331523
+gard01,gard01.KG,pollination,2011,control,4.5,NA,NA,40.41642,40.085,-0.129130019479255
+gard01,gard01.KG,pollination,2012,control,4.5,NA,NA,43.84845548,43.55564404,0.302431802094821
+gard01,gard01.MK,pest control,2012,flowerstrip,4.5,25,23,52.19674814,36.68108504,-0.0105274031943541
+gard01,gard01.MK,pollination,2012,flowerstrip,4.5,25,23,52.19674814,36.68108504,NA
+gard01,gard01.PK,pest control,2011,control,4.5,NA,NA,56.24802,15.0172,-0.365119751732908
+gard01,gard01.PK,pest control,2012,flowerstrip,4.5,13,11,54.59053841,20.617095,-0.498491198109768
+gard01,gard01.PK,pest control,2012,flowerstrip,4.5,13,23,54.59053841,20.617095,-0.421662855923228
+gard01,gard01.PK,pollination,2011,control,4.5,NA,NA,56.24802,15.0172,NA
+gard01,gard01.PK,pollination,2012,flowerstrip,4.5,13,11,54.59053841,20.617095,0.560061226970698
+gard01,gard01.PK,pollination,2012,flowerstrip,4.5,13,23,54.59053841,20.617095,2.05959900962874
+gard01,gard01.RC,pest control,2011,control,4.5,NA,NA,59.6808,22.3241,-0.166260529181132
+gard01,gard01.RC,pollination,2011,control,4.5,NA,NA,59.6808,22.3241,-0.383921459697927
+gard01,gard01.RC,pollination,2012,control,4.5,NA,NA,57.17125733,22.6393947,1.9386504038361
+gard01,gard01.RT,pest control,2012,flowerstrip,4.5,NA,11,43.96134683,30.55399721,-0.145496112393319
+gard01,gard01.RT,pollination,2012,flowerstrip,4.5,NA,11,43.96134683,30.55399721,0.464235785380497
+gard01,gard01.SC,pest control,2012,flowerstrip,4.5,NA,11,8.683729083,86.33662744,-0.608086802900984
+gard01,gard01.SC,pollination,2012,flowerstrip,4.5,NA,11,8.683729083,86.33662744,-0.0289773841317611
+gard01,gard01.ST,pest control,2011,control,4.5,NA,NA,54.4408,32.957,-0.261965613943498
+gard01,gard01.ST,pest control,2012,control,4.5,NA,NA,61.22350714,23.74158879,-0.311233911991137
+gard01,gard01.ST,pollination,2011,control,4.5,NA,NA,54.4408,32.957,-0.695315798328255
+gard01,gard01.ST,pollination,2012,control,4.5,NA,NA,61.22350714,23.74158879,1.59608242158293
+gard01,gard01.TG,pest control,2011,flowerstrip,4.5,25,11,22.8911,50.7505,0.469130624959517
+gard01,gard01.TG,pest control,2012,flowerstrip,4.5,25,11,29.188253495,57.44443738,-0.103967278822676
+gard01,gard01.TG,pest control,2012,flowerstrip,4.5,25,23,29.188253495,57.44443738,-0.338416421285736
+gard01,gard01.TG,pollination,2011,flowerstrip,4.5,25,11,22.8911,50.7505,-1.02419274962589
+gard01,gard01.TG,pollination,2012,flowerstrip,4.5,25,11,29.188253495,57.44443738,-0.656940287563012
+gard01,gard01.TG,pollination,2012,flowerstrip,4.5,25,23,29.188253495,57.44443738,-0.530942653817952
+gard01,gard01.TP,pest control,2011,control,4.5,NA,NA,45.3989,38.8835,-0.275109787803631
+gard01,gard01.TP,pollination,2011,control,4.5,NA,NA,45.3989,38.8835,-1.31081352053035
+gard01,gard01.WE,pest control,2011,control,4.5,NA,NA,11.6629,84.1849,-0.48427720557630294
+gard01,gard01.WE,pest control,2012,control,4.5,NA,NA,21.39953446,72.44147906,-0.619585501558322
+gard01,gard01.WE,pollination,2011,control,4.5,NA,NA,11.6629,84.1849,NA
+gard01,gard01.WE,pollination,2012,control,4.5,NA,NA,21.39953446,72.44147906,-0.906035857597387
+gard01,gard01.WY,pest control,2011,control,4.5,NA,NA,59.286,6.4835,-0.422830854351404
+gard01,gard01.WY,pest control,2012,control,4.5,NA,NA,54.66549675,6.885719658,-0.575930258425555
+gard01,gard01.WY,pollination,2011,control,4.5,NA,NA,59.286,6.4835,-0.377443877313906
+gard01,gard01.WY,pollination,2012,control,4.5,NA,NA,54.66549675,6.885719658,0.37143716384266
+groo01,groo01.1,pest control,2014,control,NA,NA,NA,22,NA,-2.06284324402465
+groo01,groo01.1,pest control,2014,flowerstrip,NA,NA,24,18,NA,0.866311261891128
+groo01,groo01.2,pest control,2014,control,NA,NA,NA,10,NA,1.12606647279309
+groo01,groo01.2,pest control,2014,flowerstrip,NA,NA,24,31,NA,0.8442044354313861
+groo01,groo01.3,pest control,2014,control,NA,NA,NA,17,NA,-1.3996384502324
+groo01,groo01.3,pest control,2014,flowerstrip,NA,NA,24,16,NA,-0.0898089824927005
+groo01,groo01.4,pest control,2014,control,NA,NA,NA,14,NA,0.755777129592419
+groo01,groo01.4,pest control,2014,flowerstrip,NA,NA,24,13,NA,0.777883956052161
+groo01,groo01.5,pest control,2014,control,NA,NA,NA,15,NA,-1.04040252026159
+groo01,groo01.5,pest control,2014,flowerstrip,NA,NA,24,18,NA,0.0759922159553623
+groo01,groo01.6,pest control,2014,control,NA,NA,NA,14,NA,0.341274133472263
+groo01,groo01.6,pest control,2014,flowerstrip,NA,NA,24,13,NA,1.16475341909764
+groo01,groo01.7,pest control,2014,control,NA,NA,NA,30,NA,-0.266663594170634
+groo01,groo01.7,pest control,2014,flowerstrip,NA,NA,24,16,NA,-1.47148563622656
+groo01,groo01.8,pest control,2014,control,NA,NA,NA,41,NA,0.208633174713813
+groo01,groo01.8,pest control,2014,flowerstrip,NA,NA,24,35,NA,0.169946228409265
+jaco01,jaco01.K1,pest control,2016,control,10.6,NA,NA,NA,NA,-0.558589236030219
+jaco01,jaco01.K1,pest control,2016,control,21.5,NA,NA,NA,NA,-0.207342347462476
+jaco01,jaco01.K1,pest control,2016,control,43.5,NA,NA,NA,NA,-0.645988696565854
+jaco01,jaco01.K1,pest control,2016,control,64,NA,NA,NA,NA,0.00703368781361133
+jaco01,jaco01.K11,pest control,2016,control,5,NA,NA,NA,NA,1.06242339994204
+jaco01,jaco01.K11,pest control,2016,control,8,NA,NA,NA,NA,1.24216946028891
+jaco01,jaco01.K11,pest control,2016,control,20,NA,NA,NA,NA,0.453925269042991
+jaco01,jaco01.K11,pest control,2016,control,30,NA,NA,NA,NA,0.293967765798527
+jaco01,jaco01.K12,pest control,2016,control,7.5,NA,NA,NA,NA,-0.911485171023162
+jaco01,jaco01.K12,pest control,2016,control,19,NA,NA,NA,NA,-1.61727704100905
+jaco01,jaco01.K12,pest control,2016,control,37.5,NA,NA,NA,NA,-1.45237239848898
+jaco01,jaco01.K12,pest control,2016,control,55,NA,NA,NA,NA,-1.20336638828368
+jaco01,jaco01.K15,pest control,2016,control,8,NA,NA,NA,NA,0.305511090774931
+jaco01,jaco01.K15,pest control,2016,control,16,NA,NA,NA,NA,0.224707815940098
+jaco01,jaco01.K15,pest control,2016,control,33,NA,NA,NA,NA,-0.139731444029248
+jaco01,jaco01.K15,pest control,2016,control,48,NA,NA,NA,NA,-0.540449725353011
+jaco01,jaco01.K16,pest control,2016,control,8,NA,NA,NA,NA,0.096082194774446
+jaco01,jaco01.K16,pest control,2016,control,20,NA,NA,NA,NA,-0.0308943799660047
+jaco01,jaco01.K16,pest control,2016,control,39.5,NA,NA,NA,NA,-0.207342347462476
+jaco01,jaco01.K16,pest control,2016,control,59.5,NA,NA,NA,NA,-0.525608307526205
+jaco01,jaco01.K18,pest control,2016,control,5.4,NA,NA,NA,NA,-5.06048597682804
+jaco01,jaco01.K18,pest control,2016,control,10.8,NA,NA,NA,NA,-4.84610994155195
+jaco01,jaco01.K18,pest control,2016,control,20.8,NA,NA,NA,NA,-4.82961947729995
+jaco01,jaco01.K18,pest control,2016,control,32,NA,NA,NA,NA,-5.39029526186817
+jaco01,jaco01.K2,pest control,2016,control,11,NA,NA,NA,NA,0.707878418523895
+jaco01,jaco01.K2,pest control,2016,control,21.5,NA,NA,NA,NA,0.641916561515867
+jaco01,jaco01.K2,pest control,2016,control,43.5,NA,NA,NA,NA,0.582550890208643
+jaco01,jaco01.K2,pest control,2016,control,64,NA,NA,NA,NA,0.260986837294513
+jaco01,jaco01.K21,pest control,2016,control,3.3,NA,NA,NA,NA,0.45062717619259
+jaco01,jaco01.K21,pest control,2016,control,7,NA,NA,NA,NA,0.706229372098693
+jaco01,jaco01.K21,pest control,2016,control,13,NA,NA,NA,NA,-0.0721205405960214
+jaco01,jaco01.K21,pest control,2016,control,19,NA,NA,NA,NA,0.514939986775417
+jaco01,jaco01.K22,pest control,2016,control,4.5,NA,NA,NA,NA,0.7886816933587268
+jaco01,jaco01.K22,pest control,2016,control,12.5,NA,NA,NA,NA,0.932148732351186
+jaco01,jaco01.K22,pest control,2016,control,25,NA,NA,NA,NA,0.636969422240265
+jaco01,jaco01.K22,pest control,2016,control,37.5,NA,NA,NA,NA,0.386314365609764
+jaco01,jaco01.K24,pest control,2016,control,12.5,NA,NA,NA,NA,0.918956360949579
+jaco01,jaco01.K24,pest control,2016,control,25,NA,NA,NA,NA,0.866186875343158
+jaco01,jaco01.K24,pest control,2016,control,49.5,NA,NA,NA,NA,0.86948496819356
+jaco01,jaco01.K24,pest control,2016,control,75,NA,NA,NA,NA,1.03603865713883
+jaco01,jaco01.K26,pest control,2016,control,7.5,NA,NA,NA,NA,0.175236423184079
+jaco01,jaco01.K26,pest control,2016,control,15,NA,NA,NA,NA,0.495151429673008
+jaco01,jaco01.K26,pest control,2016,control,30,NA,NA,NA,NA,0.7903307397839271
+jaco01,jaco01.K26,pest control,2016,control,45,NA,NA,NA,NA,0.681493675720684
+jaco01,jaco01.K28,pest control,2016,control,25,NA,NA,NA,NA,0.8266097611383428
+jaco01,jaco01.K28,pest control,2016,control,50,NA,NA,NA,NA,1.15641904617848
+jaco01,jaco01.K28,pest control,2016,control,100,NA,NA,NA,NA,0.612233725862255
+jaco01,jaco01.K28,pest control,2016,control,150,NA,NA,NA,NA,0.976672985831603
+jaco01,jaco01.K29,pest control,2016,control,10.5,NA,NA,NA,NA,0.594094215185048
+jaco01,jaco01.K29,pest control,2016,control,21,NA,NA,NA,NA,0.313756322900935
+jaco01,jaco01.K29,pest control,2016,control,42,NA,NA,NA,NA,0.386314365609764
+jaco01,jaco01.K29,pest control,2016,control,64,NA,NA,NA,NA,0.486906197547005
+jaco01,jaco01.K3,pest control,2016,control,5.9,NA,NA,NA,NA,-0.0490338906432119
+jaco01,jaco01.K3,pest control,2016,control,12,NA,NA,NA,NA,-0.443155986266171
+jaco01,jaco01.K3,pest control,2016,control,22.5,NA,NA,NA,NA,-0.312881318675319
+jaco01,jaco01.K3,pest control,2016,control,35.5,NA,NA,NA,NA,-0.8554175925663379
+jaco01,jaco01.K30,pest control,2016,control,17.5,NA,NA,NA,NA,1.04758198211523
+jaco01,jaco01.K30,pest control,2016,control,35,NA,NA,NA,NA,0.803523111185533
+jaco01,jaco01.K30,pest control,2016,control,70,NA,NA,NA,NA,0.87113401461876006
+jaco01,jaco01.K30,pest control,2016,control,105,NA,NA,NA,NA,0.849696411091152
+jaco01,jaco01.K31,pest control,2016,control,8,NA,NA,NA,NA,-0.307934179399717
+jaco01,jaco01.K31,pest control,2016,control,16,NA,NA,NA,NA,-0.769667178455904
+jaco01,jaco01.K31,pest control,2016,control,32,NA,NA,NA,NA,-0.38873745423455
+jaco01,jaco01.K31,pest control,2016,control,50,NA,NA,NA,NA,-0.7630709927551
+jaco01,jaco01.K32,pest control,2016,control,2,NA,NA,NA,NA,0.942043010902389
+jaco01,jaco01.K32,pest control,2016,control,5.5,NA,NA,NA,NA,0.912360175248777
+jaco01,jaco01.K32,pest control,2016,control,9,NA,NA,NA,NA,0.650161793641871
+jaco01,jaco01.K32,pest control,2016,control,14.5,NA,NA,NA,NA,0.445680036916988
+jaco01,jaco01.K33,pest control,2016,control,12.5,NA,NA,NA,NA,0.335193926428543
+jaco01,jaco01.K33,pest control,2016,control,25,NA,NA,NA,NA,-0.253515647368095
+jaco01,jaco01.K33,pest control,2016,control,50,NA,NA,NA,NA,-0.298039900848512
+jaco01,jaco01.K33,pest control,2016,control,75,NA,NA,NA,NA,-0.0358415192416069
+jaco01,jaco01.K4,pest control,2016,control,5.5,NA,NA,NA,NA,-0.434910754140169
+jaco01,jaco01.K4,pest control,2016,control,15,NA,NA,NA,NA,-0.505819750423797
+jaco01,jaco01.K4,pest control,2016,control,30,NA,NA,NA,NA,-0.349160340029733
+jaco01,jaco01.K4,pest control,2016,control,45,NA,NA,NA,NA,-0.184255697509667
+jaco01,jaco01.K5,pest control,2016,control,5.5,NA,NA,NA,NA,0.618829911563058
+jaco01,jaco01.K5,pest control,2016,control,12.5,NA,NA,NA,NA,0.453925269042991
+jaco01,jaco01.K5,pest control,2016,control,25,NA,NA,NA,NA,-0.0193510549896
+jaco01,jaco01.K5,pest control,2016,control,39,NA,NA,NA,NA,0.0845388697980425
+jaco01,jaco01.K6,pest control,2016,control,5,NA,NA,NA,NA,-1.0137260493856
+jaco01,jaco01.K6,pest control,2016,control,10,NA,NA,NA,NA,-0.594868257384633
+jaco01,jaco01.K6,pest control,2016,control,20,NA,NA,NA,NA,-0.250217554517693
+jaco01,jaco01.K6,pest control,2016,control,28,NA,NA,NA,NA,-0.542098771778212
+jaco01,jaco01.K7,pest control,2016,control,8.5,NA,NA,NA,NA,-1.0021827244092
+jaco01,jaco01.K7,pest control,2016,control,17,NA,NA,NA,NA,-0.0457357977928112
+jaco01,jaco01.K7,pest control,2016,control,34,NA,NA,NA,NA,-0.410175057762158
+jaco01,jaco01.K7,pest control,2016,control,51,NA,NA,NA,NA,-0.245270415242091
+jaco01,jaco01.K8,pest control,2016,control,11.3,NA,NA,NA,NA,0.158745958932072
+jaco01,jaco01.K8,pest control,2016,control,22.5,NA,NA,NA,NA,0.00373559496320948
+jaco01,jaco01.K8,pest control,2016,control,45,NA,NA,NA,NA,-0.0308943799660047
+jaco01,jaco01.K8,pest control,2016,control,68.5,NA,NA,NA,NA,-0.129837165478045
+jaco01,jaco01.K9,pest control,2016,control,10.6,NA,NA,NA,NA,-0.276602297320904
+jaco01,jaco01.K9,pest control,2016,control,21.3,NA,NA,NA,NA,-0.644339650140653
+jaco01,jaco01.K9,pest control,2016,control,42.5,NA,NA,NA,NA,-0.8867494746451511
+jaco01,jaco01.K9,pest control,2016,control,63.8,NA,NA,NA,NA,-0.756474807054298
+jaco01,jaco01.NBS1,pest control,2016,flowerstrip,12,5,9,NA,NA,0.305511090774931
+jaco01,jaco01.NBS1,pest control,2016,flowerstrip,21.5,5,9,NA,NA,0.165342144632874
+jaco01,jaco01.NBS1,pest control,2016,flowerstrip,43,5,9,NA,NA,-0.110048608375637
+jaco01,jaco01.NBS1,pest control,2016,flowerstrip,65.5,5,9,NA,NA,0.0449617555932262
+jaco01,jaco01.NBS11,pest control,2016,flowerstrip,6.5,5,9,NA,NA,-0.545396864628612
+jaco01,jaco01.NBS11,pest control,2016,flowerstrip,10,5,9,NA,NA,-1.36332389152814
+jaco01,jaco01.NBS11,pest control,2016,flowerstrip,20,5,9,NA,NA,-1.35507865940214
+jaco01,jaco01.NBS11,pest control,2016,flowerstrip,30,5,9,NA,NA,-1.2429435024885
+jaco01,jaco01.NBS12,pest control,2016,flowerstrip,8,5,9,NA,NA,-0.0160529621391981
+jaco01,jaco01.NBS12,pest control,2016,flowerstrip,20,5,9,NA,NA,0.10267838047525
+jaco01,jaco01.NBS12,pest control,2016,flowerstrip,42,5,9,NA,NA,0.119168844727255
+jaco01,jaco01.NBS12,pest control,2016,flowerstrip,60,5,9,NA,NA,0.336842972853745
+jaco01,jaco01.NBS14,pest control,2016,flowerstrip,10,5,9,NA,NA,-1.22810208466169
+jaco01,jaco01.NBS14,pest control,2016,flowerstrip,20,5,9,NA,NA,-0.685565810770669
+jaco01,jaco01.NBS14,pest control,2016,flowerstrip,40,5,9,NA,NA,-1.17698164548047
+jaco01,jaco01.NBS14,pest control,2016,flowerstrip,60,5,9,NA,NA,-1.34518438085094
+jaco01,jaco01.NBS15,pest control,2016,flowerstrip,8,5,9,NA,NA,1.12673621052486
+jaco01,jaco01.NBS15,pest control,2016,flowerstrip,12,5,9,NA,NA,1.11684193197366
+jaco01,jaco01.NBS15,pest control,2016,flowerstrip,27,5,9,NA,NA,1.03274056428843
+jaco01,jaco01.NBS15,pest control,2016,flowerstrip,36,5,9,NA,NA,1.09870242129645
+jaco01,jaco01.NBS16,pest control,2016,flowerstrip,10,5,9,NA,NA,0.368174854932557
+jaco01,jaco01.NBS16,pest control,2016,flowerstrip,21,5,9,NA,NA,0.25109255874331
+jaco01,jaco01.NBS16,pest control,2016,flowerstrip,41,5,9,NA,NA,0.35003534425535
+jaco01,jaco01.NBS16,pest control,2016,flowerstrip,62,5,9,NA,NA,0.239549233766905
+jaco01,jaco01.NBS18,pest control,2016,flowerstrip,5.4,5,9,NA,NA,0.359929622806553
+jaco01,jaco01.NBS18,pest control,2016,flowerstrip,12.5,5,9,NA,NA,-0.698758182172274
+jaco01,jaco01.NBS18,pest control,2016,flowerstrip,21.5,5,9,NA,NA,-0.645988696565854
+jaco01,jaco01.NBS18,pest control,2016,flowerstrip,31.5,5,9,NA,NA,-0.525608307526205
+jaco01,jaco01.NBS2,pest control,2016,flowerstrip,12,5,9,NA,NA,0.851345457516352
+jaco01,jaco01.NBS2,pest control,2016,flowerstrip,21.5,5,9,NA,NA,0.674897490019881
+jaco01,jaco01.NBS2,pest control,2016,flowerstrip,43,5,9,NA,NA,0.0812407769476406
+jaco01,jaco01.NBS2,pest control,2016,flowerstrip,64.5,5,9,NA,NA,0.247794465892908
+jaco01,jaco01.NBS21,pest control,2016,flowerstrip,3.5,5,9,NA,NA,0.9057639895479739
+jaco01,jaco01.NBS21,pest control,2016,flowerstrip,5.3,5,9,NA,NA,0.945341103752791
+jaco01,jaco01.NBS21,pest control,2016,flowerstrip,13,5,9,NA,NA,0.935446825201586
+jaco01,jaco01.NBS21,pest control,2016,flowerstrip,18.5,5,9,NA,NA,0.765595043405917
+jaco01,jaco01.NBS22,pest control,2016,flowerstrip,6,5,9,NA,NA,1.07891386419404
+jaco01,jaco01.NBS22,pest control,2016,flowerstrip,12,5,9,NA,NA,0.9519372894535929
+jaco01,jaco01.NBS22,pest control,2016,flowerstrip,24,5,9,NA,NA,0.84474927181555
+jaco01,jaco01.NBS22,pest control,2016,flowerstrip,35.5,5,9,NA,NA,0.7359122077523049
+jaco01,jaco01.NBS24,pest control,2016,flowerstrip,11.5,4,9,NA,NA,1.02449533216242
+jaco01,jaco01.NBS24,pest control,2016,flowerstrip,25,4,9,NA,NA,1.16136618545408
+jaco01,jaco01.NBS24,pest control,2016,flowerstrip,50,4,9,NA,NA,1.17950569613129
+jaco01,jaco01.NBS24,pest control,2016,flowerstrip,75,4,9,NA,NA,1.13333239622567
+jaco01,jaco01.NBS26,pest control,2016,flowerstrip,7.2,5,9,NA,NA,0.196674026711688
+jaco01,jaco01.NBS26,pest control,2016,flowerstrip,12.5,5,9,NA,NA,0.0515579412940287
+jaco01,jaco01.NBS26,pest control,2016,flowerstrip,29,5,9,NA,NA,-0.383790314958948
+jaco01,jaco01.NBS26,pest control,2016,flowerstrip,43.5,5,9,NA,NA,-0.5140649825498
+jaco01,jaco01.NBS28,pest control,2016,flowerstrip,25,5,9,NA,NA,0.285722533672524
+jaco01,jaco01.NBS28,pest control,2016,flowerstrip,50,5,9,NA,NA,-0.652584882266656
+jaco01,jaco01.NBS28,pest control,2016,flowerstrip,100,5,9,NA,NA,-0.533853539652208
+jaco01,jaco01.NBS28,pest control,2016,flowerstrip,150,5,9,NA,NA,-0.5140649825498
+jaco01,jaco01.NBS29,pest control,2016,flowerstrip,10.5,4,9,NA,NA,0.821662621862741
+jaco01,jaco01.NBS29,pest control,2016,flowerstrip,21,4,9,NA,NA,0.9915144036584089
+jaco01,jaco01.NBS29,pest control,2016,flowerstrip,42,4,9,NA,NA,0.829907853988743
+jaco01,jaco01.NBS29,pest control,2016,flowerstrip,64,4,9,NA,NA,0.552868054555031
+jaco01,jaco01.NBS3,pest control,2016,flowerstrip,5.6,5,9,NA,NA,-0.7399843428022911
+jaco01,jaco01.NBS3,pest control,2016,flowerstrip,12,5,9,NA,NA,-0.270006111620102
+jaco01,jaco01.NBS3,pest control,2016,flowerstrip,23,5,9,NA,NA,0.0614522198452331
+jaco01,jaco01.NBS3,pest control,2016,flowerstrip,33,5,9,NA,NA,0.232953048066102
+jaco01,jaco01.NBS30,pest control,2016,flowerstrip,17.5,5,9,NA,NA,0.67324844359468
+jaco01,jaco01.NBS30,pest control,2016,flowerstrip,35,5,9,NA,NA,0.354982483530952
+jaco01,jaco01.NBS30,pest control,2016,flowerstrip,70,5,9,NA,NA,0.0647503126956337
+jaco01,jaco01.NBS30,pest control,2016,flowerstrip,105,5,9,NA,NA,-0.256813740218496
+jaco01,jaco01.NBS31,pest control,2016,flowerstrip,5.5,5,9,NA,NA,1.06407244636724
+jaco01,jaco01.NBS31,pest control,2016,flowerstrip,12.3,5,9,NA,NA,0.638618468665467
+jaco01,jaco01.NBS31,pest control,2016,flowerstrip,21,5,9,NA,NA,0.254390651593711
+jaco01,jaco01.NBS31,pest control,2016,flowerstrip,34,5,9,NA,NA,0.134010262554062
+jaco01,jaco01.NBS32,pest control,2016,flowerstrip,3,5,9,NA,NA,0.787032646933526
+jaco01,jaco01.NBS32,pest control,2016,flowerstrip,4.5,5,9,NA,NA,0.831556900413944
+jaco01,jaco01.NBS32,pest control,2016,flowerstrip,9,5,9,NA,NA,0.566060425956636
+jaco01,jaco01.NBS32,pest control,2016,flowerstrip,13.5,5,9,NA,NA,0.592445168759848
+jaco01,jaco01.NBS33,pest control,2016,flowerstrip,12.5,5,9,NA,NA,1.12508716409966
+jaco01,jaco01.NBS33,pest control,2016,flowerstrip,25,5,9,NA,NA,0.923903500225182
+jaco01,jaco01.NBS33,pest control,2016,flowerstrip,50,5,9,NA,NA,0.848047364665951
+jaco01,jaco01.NBS33,pest control,2016,flowerstrip,75,5,9,NA,NA,0.86948496819356
+jaco01,jaco01.NBS4,pest control,2016,flowerstrip,7.5,5,9,NA,NA,0.0185770127900149
+jaco01,jaco01.NBS4,pest control,2016,flowerstrip,15,5,9,NA,NA,-0.519012121825402
+jaco01,jaco01.NBS4,pest control,2016,flowerstrip,30,5,9,NA,NA,-0.807595246235519
+jaco01,jaco01.NBS4,pest control,2016,flowerstrip,45,5,9,NA,NA,0.246145419467707
+jaco01,jaco01.NBS5,pest control,2016,flowerstrip,6,5,9,NA,NA,0.246145419467707
+jaco01,jaco01.NBS5,pest control,2016,flowerstrip,11.5,5,9,NA,NA,-0.263409925919298
+jaco01,jaco01.NBS5,pest control,2016,flowerstrip,25,5,9,NA,NA,-0.603113489510636
+jaco01,jaco01.NBS5,pest control,2016,flowerstrip,37.5,5,9,NA,NA,-0.9230284959995652
+jaco01,jaco01.NBS6,pest control,2016,flowerstrip,5,5,9,NA,NA,0.818364529012339
+jaco01,jaco01.NBS6,pest control,2016,flowerstrip,12,5,9,NA,NA,0.361578669231755
+jaco01,jaco01.NBS6,pest control,2016,flowerstrip,20,5,9,NA,NA,0.119168844727255
+jaco01,jaco01.NBS6,pest control,2016,flowerstrip,30,5,9,NA,NA,-0.0259472406904025
+jaco01,jaco01.NBS7,pest control,2016,flowerstrip,7.3,5,9,NA,NA,0.289020626522924
+jaco01,jaco01.NBS7,pest control,2016,flowerstrip,17,5,9,NA,NA,-0.123240979777242
+jaco01,jaco01.NBS7,pest control,2016,flowerstrip,32,5,9,NA,NA,-0.309583225824917
+jaco01,jaco01.NBS7,pest control,2016,flowerstrip,51,5,9,NA,NA,-0.674022485794265
+jaco01,jaco01.NBS8,pest control,2016,flowerstrip,11,5,9,NA,NA,0.00868273423881167
+jaco01,jaco01.NBS8,pest control,2016,flowerstrip,22,5,9,NA,NA,-0.0374905656668072
+jaco01,jaco01.NBS8,pest control,2016,flowerstrip,44,5,9,NA,NA,-0.245270415242091
+jaco01,jaco01.NBS8,pest control,2016,flowerstrip,66,5,9,NA,NA,-1.22975113108689
+jaco01,jaco01.NBS9,pest control,2016,flowerstrip,10,5,9,NA,NA,-0.248568508092493
+jaco01,jaco01.NBS9,pest control,2016,flowerstrip,21.5,5,9,NA,NA,-1.21490971326008
+jaco01,jaco01.NBS9,pest control,2016,flowerstrip,42,5,9,NA,NA,-1.53647376617421
+jaco01,jaco01.NBS9,pest control,2016,flowerstrip,64,5,9,NA,NA,-1.44907430563858
+jons01,jons01.1,pest control,2008,control,1,NA,NA,0.026022641,0.093130747,-0.374778475580299
+jons01,jons01.10,pest control,2008,flowerstrip,1,1,2,0.058617573,0.135932539,-0.629858991515045
+jons01,jons01.11,pest control,2008,flowerstrip,1,1,2,0,0.207888971,-0.9333744438731861
+jons01,jons01.12,pest control,2008,control,1,NA,NA,0,0.248261882,-0.803997735988467
+jons01,jons01.14,pest control,2008,control,1,NA,NA,0.014648991,0.292502054,-0.217176306760963
+jons01,jons01.15,pest control,2008,flowerstrip,1,1,2,0.113954846,0.440079976,2.7869543266954
+jons01,jons01.16,pest control,2008,flowerstrip,1,1,2,0.010756468,0.137803533,0.988741877320631
+jons01,jons01.17,pest control,2008,control,1,NA,NA,0.222195343,0.049457585,0.349774147701085
+jons01,jons01.18,pest control,2008,control,1,NA,NA,0,0.18248821,-0.46906353138453494
+jons01,jons01.19,pest control,2008,control,1,NA,NA,0,0.077907976,0.647714049501001
+jons01,jons01.20,pest control,2008,control,1,NA,NA,4.16419e-6,0.218364227,-0.698300600463724
+jons01,jons01.21,pest control,2008,flowerstrip,1,1,2,0.077179511,0.121672091,0.546836420927018
+jons01,jons01.22,pest control,2008,flowerstrip,1,1,2,0,0.411760533,-1.00073825618906
+jons01,jons01.23,pest control,2008,flowerstrip,1,1,2,0,0.475923572,-0.385039878396062
+jons01,jons01.3,pest control,2008,flowerstrip,1,1,2,0.168902535,0.103590339,-0.977202657370707
+jons01,jons01.4,pest control,2008,control,1,NA,NA,0.016443823,0.020255937,-0.010467757212752
+jons01,jons01.5,pest control,2008,control,1,NA,NA,3.19204e-5,0.449314368,-0.452011438268277
+jons01,jons01.6,pest control,2008,control,1,NA,NA,0.061503653,0.085068229,1.73783193756088
+jons01,jons01.7,pest control,2008,flowerstrip,1,1,2,0.002412981,0.331913327,0.9769734159578741
+jons01,jons01.8,pest control,2008,control,1,NA,NA,0.078284411,0.117791069,-1.14759047320965
+jons01,jons01.9,pest control,2008,flowerstrip,1,1,2,0,0.144632299,0.0647743705488377
+mcke01,mcke01.broo,pest control,2015,control,1,NA,NA,0.9,71.2,-0.712851428159131
+mcke01,mcke01.broo,pest control,2015,flowerstrip,1,NA,28.5,4.9,73.5,-0.769204567401171
+mcke01,mcke01.broo,pollination,2013,control,1,NA,NA,18.7,71.2,-0.644427387985629
+mcke01,mcke01.broo,pollination,2013,flowerstrip,1,NA,2,3.7,73.5,-0.708076861659132
+mcke01,mcke01.broo,pollination,2014,control,1,NA,NA,15.3,71.2,-1.03147556113285
+mcke01,mcke01.broo,pollination,2014,flowerstrip,1,NA,14,14.5,73.5,-0.0837939730465777
+mcke01,mcke01.broo,pollination,2015,control,1,NA,NA,0.9,71.2,-1.26703789407935
+mcke01,mcke01.broo,pollination,2015,flowerstrip,1,NA,26,4.9,73.5,-1.23086401401745
+mcke01,mcke01.cloc,pest control,2015,control,1,NA,NA,2,41.1,0.992539161433506
+mcke01,mcke01.cloc,pest control,2015,flowerstrip,1,NA,28.5,0.1,49.3,0.60158869212387
+mcke01,mcke01.cloc,pollination,2013,control,1,NA,NA,5.3,41.1,0.40990188983455
+mcke01,mcke01.cloc,pollination,2013,flowerstrip,1,NA,2,16.1,49.3,-0.264416454073805
+mcke01,mcke01.cloc,pollination,2014,control,1,NA,NA,23,41.1,-0.119985490682628
+mcke01,mcke01.cloc,pollination,2014,flowerstrip,1,NA,14,26.2,49.3,-0.496645358131031
+mcke01,mcke01.cloc,pollination,2015,control,1,NA,NA,2,41.1,0.432270258097872
+mcke01,mcke01.cloc,pollination,2015,flowerstrip,1,NA,26,0.1,49.3,0.533035369285668
+mcke01,mcke01.dunl,pest control,2015,control,1,NA,NA,0.5,60.9,1.13473885505726
+mcke01,mcke01.dunl,pest control,2015,flowerstrip,1,NA,28.5,3.2,56.8,1.15491099976209
+mcke01,mcke01.dunl,pollination,2013,control,1,NA,NA,0.7,60.9,0.48856817451444706
+mcke01,mcke01.dunl,pollination,2013,flowerstrip,1,NA,2,4,56.8,0.690578343943819
+mcke01,mcke01.dunl,pollination,2014,control,1,NA,NA,7.8,60.9,1.07969629393284
+mcke01,mcke01.dunl,pollination,2014,flowerstrip,1,NA,14,15.5,56.8,-0.215155777737096
+mcke01,mcke01.dunl,pollination,2015,control,1,NA,NA,0.5,60.9,1.07245207625324
+mcke01,mcke01.dunl,pollination,2015,flowerstrip,1,NA,25,3.2,56.8,1.28704352945694
+mcke01,mcke01.east,pollination,2013,control,1,NA,NA,5.7,53.7,-0.468496399500509
+mcke01,mcke01.east,pollination,2013,flowerstrip,1,NA,2,16.6,48.7,0.316711377832295
+mcke01,mcke01.east,pollination,2014,control,1,NA,NA,23.9,53.7,0.751699739144536
+mcke01,mcke01.east,pollination,2014,flowerstrip,1,NA,14,30.3,48.7,0.657461922919702
+mcke01,mcke01.east,pollination,2015,control,1,NA,NA,2.4,53.7,NA
+mcke01,mcke01.east,pollination,2015,control,1,NA,NA,2.4,53.7,NA
+mcke01,mcke01.east,pollination,2015,flowerstrip,1,NA,26,0.6,48.7,1.8004802197557
+mcke01,mcke01.foxf,pest control,2015,control,1,NA,NA,2.5,47.2,1.25512100855547
+mcke01,mcke01.foxf,pest control,2015,flowerstrip,1,NA,28.5,0.4,44.8,0.997973439577217
+mcke01,mcke01.foxf,pollination,2013,control,1,NA,NA,0.7,47.2,-0.766436670957331
+mcke01,mcke01.foxf,pollination,2013,flowerstrip,1,NA,2,18.9,44.8,0.571552764954444
+mcke01,mcke01.foxf,pollination,2014,control,1,NA,NA,6.4,47.2,2.11436069838745
+mcke01,mcke01.foxf,pollination,2014,flowerstrip,1,NA,14,18.5,44.8,NA
+mcke01,mcke01.foxf,pollination,2015,control,1,NA,NA,2.5,47.2,0.332211356696251
+mcke01,mcke01.foxf,pollination,2015,flowerstrip,1,NA,26,0.4,44.8,1.89510804711329
+mcke01,mcke01.newi,pest control,2015,control,1,NA,NA,2.5,54,-0.916683809866497
+mcke01,mcke01.newi,pest control,2015,flowerstrip,1,NA,28.5,1.4,51.7,-1.13382660233137
+mcke01,mcke01.newi,pollination,2013,control,1,NA,NA,0,54,1.17585733029376
+mcke01,mcke01.newi,pollination,2013,flowerstrip,1,NA,2,21.5,51.7,0.702157903695919
+mcke01,mcke01.newi,pollination,2014,control,1,NA,NA,6,54,-0.637390148750233
+mcke01,mcke01.newi,pollination,2014,flowerstrip,1,NA,14,19,51.7,0.642107945945491
+mcke01,mcke01.newi,pollination,2015,control,1,NA,NA,2.5,54,0.145927408595981
+mcke01,mcke01.newi,pollination,2015,flowerstrip,1,NA,26,1.4,51.7,-0.451332400891671
+mcke01,mcke01.para,pest control,2015,control,1,NA,NA,3.2,91.9,-1.24806043674341
+mcke01,mcke01.para,pest control,2015,flowerstrip,1,NA,28.5,2.1,87.2,-1.42101113732927
+mcke01,mcke01.para,pollination,2013,control,1,NA,NA,11.6,91.9,-1.31073109778082
+mcke01,mcke01.para,pollination,2013,flowerstrip,1,NA,2,2.8,87.2,-1.84603603577534
+mcke01,mcke01.para,pollination,2014,control,1,NA,NA,25.2,91.9,-0.327751609725776
+mcke01,mcke01.para,pollination,2014,flowerstrip,1,NA,14,24.7,87.2,0.211770086662619
+mcke01,mcke01.para,pollination,2015,control,1,NA,NA,3.2,91.9,-0.7499859807389139
+mcke01,mcke01.para,pollination,2015,flowerstrip,1,NA,26,2.1,87.2,-1.23717948581903
+mcke01,mcke01.shel,pollination,2013,control,1,NA,NA,15.3,75.1,0.400602680271887
+mcke01,mcke01.shel,pollination,2013,flowerstrip,1,NA,2,3.8,74.3,0.373652883299948
+mcke01,mcke01.shel,pollination,2014,control,1,NA,NA,12.4,75.1,-1.23477359183959
+mcke01,mcke01.shel,pollination,2014,flowerstrip,1,NA,14,17.5,74.3,-1.84779534537307
+mcke01,mcke01.shel,pollination,2015,control,1,NA,NA,1.5,75.1,-1.14929359880031
+mcke01,mcke01.shel,pollination,2015,flowerstrip,1,NA,26,4.1,74.3,-0.295764157273936
+mcke01,mcke01.whea,pest control,2015,control,1,NA,NA,25.9,86.9,-0.400082613756812
+mcke01,mcke01.whea,pest control,2015,flowerstrip,1,NA,28.5,2.9,86.9,-0.819757328654623
+mcke01,mcke01.whea,pollination,2013,control,1,NA,NA,5.9,86.4,-1.87736596797526
+mcke01,mcke01.whea,pollination,2014,control,1,NA,NA,23.5,86.4,-0.7876854780301631
+mcke01,mcke01.whea,pollination,2014,flowerstrip,1,NA,14,1.7,86.9,0.311013207614317
+mcke01,mcke01.whea,pollination,2015,control,1,NA,NA,25.9,86.9,-0.9976121526159412
+mcke01,mcke01.whea,pollination,2015,flowerstrip,1,NA,26,2.9,86.9,-0.362937807591694
+mcke01,mcke01.yock,pest control,2015,control,1,NA,NA,0.1,51.3,0.656779970241678
+mcke01,mcke01.yock,pest control,2015,flowerstrip,1,NA,28.5,2.3,55.3,0.627825797491196
+mcke01,mcke01.yock,pollination,2013,control,1,NA,NA,0.1,51.3,1.11488249095429
+mcke01,mcke01.yock,pollination,2013,flowerstrip,1,NA,2,3.7,55.3,0.420418064990284
+mcke01,mcke01.yock,pollination,2014,control,1,NA,NA,6,51.3,0.823796675162588
+mcke01,mcke01.yock,pollination,2014,flowerstrip,1,NA,14,15.8,55.3,NA
+mcke01,mcke01.yock,pollination,2015,control,1,NA,NA,0.1,51.3,0.8846642272817972
+mcke01,mcke01.yock,pollination,2015,flowerstrip,1,NA,26,2.3,55.3,2.12565231456577
+mora01,mora01.And,pollination,2010,hedgerow,0.5,NA,NA,NA,NA,0.156204839547357
+mora01,mora01.And,pollination,2010,hedgerow,10,NA,NA,NA,NA,-0.305244500877393
+mora01,mora01.And,pollination,2010,hedgerow,100,NA,NA,NA,NA,-0.137212027997733
+mora01,mora01.And,pollination,2010,hedgerow,200,NA,NA,NA,NA,-0.0349037398353988
+mora01,mora01.Anderson,pest control,2010,hedgerow,0.5,NA,NA,NA,NA,-0.629853229868218
+mora01,mora01.Anderson,pest control,2010,hedgerow,10,NA,NA,NA,NA,1.25142685990116
+mora01,mora01.Anderson,pest control,2010,hedgerow,100,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Anderson,pest control,2010,hedgerow,200,NA,NA,NA,NA,0.665454375047267
+mora01,mora01.Barn,pest control,2009,control,0.5,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Barn,pest control,2009,control,10,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Barn,pest control,2009,control,100,NA,NA,NA,NA,0.233685171249926
+mora01,mora01.Barn,pest control,2009,control,200,NA,NA,NA,NA,-0.413968631207817
+mora01,mora01.Barn,pest control,2010,control,0.5,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Barn,pest control,2010,control,10,NA,NA,NA,NA,1.52899277616541
+mora01,mora01.Barn,pest control,2010,control,100,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Barn,pest control,2010,control,200,NA,NA,NA,NA,0.78881700377843
+mora01,mora01.Cemex,pollination,2010,control,0.5,NA,NA,NA,NA,-1.67897070961088
+mora01,mora01.Cemex,pollination,2010,control,10,NA,NA,NA,NA,-1.59191844494331
+mora01,mora01.Cemex,pollination,2010,control,100,NA,NA,NA,NA,-2.08384202174346
+mora01,mora01.Cemex,pollination,2010,control,200,NA,NA,NA,NA,-1.42753934105468
+mora01,mora01.CircleG,pest control,2009,control,0.5,NA,NA,NA,NA,-0.413968631207817
+mora01,mora01.CircleG,pest control,2009,control,10,NA,NA,NA,NA,1.52899277616541
+mora01,mora01.CircleG,pest control,2009,control,100,NA,NA,NA,NA,0.233685171249926
+mora01,mora01.CircleG,pest control,2009,control,200,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Cotton,pollination,2011,control,0.5,NA,NA,NA,NA,-2.74250698011683
+mora01,mora01.Cotton,pollination,2011,control,10,NA,NA,NA,NA,0.824719670369412
+mora01,mora01.Cotton,pollination,2011,control,100,NA,NA,NA,NA,0.958015416316047
+mora01,mora01.Cotton,pollination,2011,control,200,NA,NA,NA,NA,0.72251316573654
+mora01,mora01.Fong,pest control,2009,hedgerow,0.5,NA,NA,53.7,36.8,1.09722357236807
+mora01,mora01.Fong,pest control,2009,hedgerow,10,NA,NA,53.7,36.8,-0.342007098321016
+mora01,mora01.Fong,pest control,2009,hedgerow,100,NA,NA,53.7,36.8,0.377608237023527
+mora01,mora01.Fong,pest control,2009,hedgerow,200,NA,NA,53.7,36.8,-0.413968631207817
+mora01,mora01.Fong,pest control,2010,hedgerow,0.5,NA,NA,53.7,36.8,-0.563427200507562
+mora01,mora01.Fong,pest control,2010,hedgerow,10,NA,NA,53.7,36.8,0.233685171249926
+mora01,mora01.Fong,pest control,2010,hedgerow,100,NA,NA,53.7,36.8,1.71403672250042
+mora01,mora01.Fong,pest control,2010,hedgerow,200,NA,NA,53.7,36.8,-0.0652319673495649
+mora01,mora01.Fong,pollination,2010,hedgerow,0.5,NA,NA,53.7,36.8,-0.59146972018808
+mora01,mora01.Fong,pollination,2010,hedgerow,10,NA,NA,53.7,36.8,-0.842580225966585
+mora01,mora01.Fong,pollination,2010,hedgerow,100,NA,NA,53.7,36.8,-1.67148807831266
+mora01,mora01.Fong,pollination,2010,hedgerow,200,NA,NA,53.7,36.8,-1.81598625597998
+mora01,mora01.Fong,pollination,2011,hedgerow,0.5,NA,NA,53.7,36.8,0.53821888348852
+mora01,mora01.Fong,pollination,2011,hedgerow,10,NA,NA,53.7,36.8,0.189064321615954
+mora01,mora01.Fong,pollination,2011,hedgerow,100,NA,NA,53.7,36.8,0.9714717623146231
+mora01,mora01.Fong,pollination,2011,hedgerow,200,NA,NA,53.7,36.8,1.41016172703236
+mora01,mora01.Harlan,pest control,2009,hedgerow,0.5,NA,NA,0.8,90.2,-0.299676782572355
+mora01,mora01.Harlan,pest control,2009,hedgerow,10,NA,NA,0.8,90.2,1.09722357236807
+mora01,mora01.Harlan,pest control,2009,hedgerow,100,NA,NA,0.8,90.2,-0.413968631207817
+mora01,mora01.Harlan,pest control,2009,hedgerow,200,NA,NA,0.8,90.2,-1.06162243366556
+mora01,mora01.Hatanaka,pest control,2009,control,0.5,NA,NA,4,89.8,-0.701814762755019
+mora01,mora01.Hatanaka,pest control,2009,control,10,NA,NA,4,89.8,1.09722357236807
+mora01,mora01.Hatanaka,pest control,2009,control,100,NA,NA,4,89.8,-0.413968631207817
+mora01,mora01.Hatanaka,pest control,2009,control,200,NA,NA,4,89.8,-0.413968631207817
+mora01,mora01.Joe,pest control,2009,control,0.5,NA,NA,NA,NA,-0.379881588291458
+mora01,mora01.Joe,pest control,2009,control,10,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Joe,pest control,2009,control,100,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Joe,pest control,2009,control,200,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Joe,pest control,2010,control,0.5,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Joe,pest control,2010,control,10,NA,NA,NA,NA,0.326207141179164
+mora01,mora01.Joe,pest control,2010,control,100,NA,NA,NA,NA,-0.629853229868218
+mora01,mora01.Joe,pest control,2010,control,200,NA,NA,NA,NA,-0.629853229868218
+mora01,mora01.Joe,pollination,2010,control,0.5,NA,NA,NA,NA,0.91632196947746
+mora01,mora01.Joe,pollination,2010,control,10,NA,NA,NA,NA,0.90382824095653
+mora01,mora01.Joe,pollination,2010,control,100,NA,NA,NA,NA,-0.0823963314185723
+mora01,mora01.Joe,pollination,2010,control,200,NA,NA,NA,NA,0.581080378633259
+mora01,mora01.Joe,pollination,2011,control,0.5,NA,NA,NA,NA,0.7410070455389449
+mora01,mora01.Joe,pollination,2011,control,10,NA,NA,NA,NA,1.64224545223288
+mora01,mora01.Joe,pollination,2011,control,100,NA,NA,NA,NA,0.428828368347021
+mora01,mora01.Joe,pollination,2011,control,200,NA,NA,NA,NA,1.10882043897262
+mora01,mora01.Joost,pest control,2010,control,0.5,NA,NA,NA,NA,-0.136402714943565
+mora01,mora01.Joost,pest control,2010,control,10,NA,NA,NA,NA,-0.629853229868218
+mora01,mora01.Joost,pest control,2010,control,100,NA,NA,NA,NA,-0.198084032547415
+mora01,mora01.Joost,pest control,2010,control,200,NA,NA,NA,NA,-0.136402714943565
+mora01,mora01.Joost,pollination,2010,control,0.5,NA,NA,NA,NA,0.504005227342004
+mora01,mora01.Joost,pollination,2010,control,10,NA,NA,NA,NA,0.393568674609328
+mora01,mora01.Joost,pollination,2010,control,100,NA,NA,NA,NA,0.145179780599471
+mora01,mora01.Joost,pollination,2010,control,200,NA,NA,NA,NA,0.0974057231315673
+mora01,mora01.Muller,pest control,2010,hedgerow,0.5,NA,NA,2.9,91.2,2.17664657862315
+mora01,mora01.Muller,pest control,2010,hedgerow,10,NA,NA,2.9,91.2,-1.06162243366556
+mora01,mora01.Muller,pest control,2010,hedgerow,100,NA,NA,2.9,91.2,-0.198084032547415
+mora01,mora01.Muller,pest control,2010,hedgerow,200,NA,NA,2.9,91.2,0.665454375047267
+mora01,mora01.Muller,pollination,2010,hedgerow,0.5,NA,NA,2.9,91.2,-0.202551317127494
+mora01,mora01.Muller,pollination,2010,hedgerow,10,NA,NA,2.9,91.2,-0.903139096160717
+mora01,mora01.Muller,pollination,2010,hedgerow,100,NA,NA,2.9,91.2,-0.792886987336704
+mora01,mora01.Muller,pollination,2010,hedgerow,200,NA,NA,2.9,91.2,-0.00449804960057043
+mora01,mora01.Muller,pollination,2011,hedgerow,0.5,NA,NA,2.9,91.2,-0.629626117288328
+mora01,mora01.Muller,pollination,2011,hedgerow,10,NA,NA,2.9,91.2,-0.811886045268346
+mora01,mora01.Muller,pollination,2011,hedgerow,100,NA,NA,2.9,91.2,1.80698953004741
+mora01,mora01.Muller,pollination,2011,hedgerow,200,NA,NA,2.9,91.2,-1.21021433296636
+mora01,mora01.North Joost,pollination,2011,control,0.5,NA,NA,NA,NA,-0.418616855380891
+mora01,mora01.North Joost,pollination,2011,control,10,NA,NA,NA,NA,-0.184493048019394
+mora01,mora01.North Joost,pollination,2011,control,100,NA,NA,NA,NA,1.03170111021695
+mora01,mora01.North Joost,pollination,2011,control,200,NA,NA,NA,NA,0.372202298837519
+mora01,mora01.Rominger,pest control,2009,hedgerow,0.5,NA,NA,3.7,87,0.377608237023527
+mora01,mora01.Rominger,pest control,2009,hedgerow,10,NA,NA,3.7,87,3.47195418353864
+mora01,mora01.Rominger,pest control,2009,hedgerow,100,NA,NA,3.7,87,1.52899277616541
+mora01,mora01.Rominger,pest control,2009,hedgerow,200,NA,NA,3.7,87,0.881338973707668
+mora01,mora01.Rominger,pest control,2010,hedgerow,0.5,NA,NA,3.7,87,-1.06162243366556
+mora01,mora01.Rominger,pest control,2010,hedgerow,10,NA,NA,3.7,87,0.665454375047267
+mora01,mora01.Rominger,pest control,2010,hedgerow,100,NA,NA,3.7,87,-0.629853229868218
+mora01,mora01.Rominger,pest control,2010,hedgerow,200,NA,NA,3.7,87,-1.06162243366556
+mora01,mora01.Rominger,pollination,2010,hedgerow,0.5,NA,NA,3.7,87,-0.194416663601454
+mora01,mora01.Rominger,pollination,2010,hedgerow,10,NA,NA,3.7,87,1.1216039396999
+mora01,mora01.Rominger,pollination,2010,hedgerow,100,NA,NA,3.7,87,-0.036701067613597
+mora01,mora01.Rominger,pollination,2010,hedgerow,200,NA,NA,3.7,87,-0.0600095777367253
+mora01,mora01.Rominger,pollination,2011,hedgerow,0.5,NA,NA,3.7,87,0.260746481492102
+mora01,mora01.Rominger,pollination,2011,hedgerow,10,NA,NA,3.7,87,1.15938495728022
+mora01,mora01.Rominger,pollination,2011,hedgerow,100,NA,NA,3.7,87,1.55463247831514
+mora01,mora01.Rominger,pollination,2011,hedgerow,200,NA,NA,3.7,87,1.62002286871699
+mora01,mora01.Tractor,pest control,2009,hedgerow,0.5,NA,NA,NA,NA,0.233685171249926
+mora01,mora01.Tractor,pest control,2009,hedgerow,10,NA,NA,NA,NA,1.52899277616541
+mora01,mora01.Tractor,pest control,2009,hedgerow,100,NA,NA,NA,NA,0.233685171249926
+mora01,mora01.Tractor,pest control,2009,hedgerow,200,NA,NA,NA,NA,-0.413968631207817
+mora01,mora01.Tractor,pollination,2011,hedgerow,0.5,NA,NA,NA,NA,0.7369329874952031
+mora01,mora01.Tractor,pollination,2011,hedgerow,10,NA,NA,NA,NA,1.04819436081756
+mora01,mora01.Tractor,pollination,2011,hedgerow,100,NA,NA,NA,NA,0.62057740660848
+mora01,mora01.Tractor,pollination,2011,hedgerow,200,NA,NA,NA,NA,0.081350532232324
+mora01,mora01.Triangle,pollination,2011,control,0.5,NA,NA,NA,NA,-1.43709313903402
+mora01,mora01.Triangle,pollination,2011,control,10,NA,NA,NA,NA,-0.294593514143262
+mora01,mora01.Triangle,pollination,2011,control,100,NA,NA,NA,NA,-1.69897044533891
+mora01,mora01.Triangle,pollination,2011,control,200,NA,NA,NA,NA,-0.571146494473627
+mora01,mora01.Zamora,pest control,2010,control,0.5,NA,NA,NA,NA,1.88225848954079
+mora01,mora01.Zamora,pest control,2010,control,10,NA,NA,NA,NA,-1.06162243366556
+mora01,mora01.Zamora,pest control,2010,control,100,NA,NA,NA,NA,-0.629853229868218
+mora01,mora01.Zamora,pest control,2010,control,200,NA,NA,NA,NA,-0.198084032547415
+mora01,mora01.Zamora,pollination,2010,control,0.5,NA,NA,NA,NA,-0.34113914949521
+mora01,mora01.Zamora,pollination,2010,control,10,NA,NA,NA,NA,0.115740382279089
+mora01,mora01.Zamora,pollination,2010,control,100,NA,NA,NA,NA,-0.0617697107647624
+mora01,mora01.Zamora,pollination,2010,control,200,NA,NA,NA,NA,0.09706956909510249
+pfis01,pfis01.10_Off,pollination,2014,hedgerow,2,NA,NA,6.33,90.8,-0.0948799476811424
+pfis01,pfis01.10_Off,pollination,2014,hedgerow,10,NA,NA,6.33,90.8,-0.0289420915037943
+pfis01,pfis01.10_Off,pollination,2014,hedgerow,18,NA,NA,6.33,90.8,-0.240277347347577
+pfis01,pfis01.10_Off,pollination,2014,hedgerow,26,NA,NA,6.33,90.8,-0.13638836970776
+pfis01,pfis01.11_Boeb1,pollination,2014,hedgerow,2,NA,NA,31.83,51.3,0.499036389951615
+pfis01,pfis01.11_Boeb1,pollination,2014,hedgerow,10,NA,NA,31.83,51.3,0.789595344137936
+pfis01,pfis01.11_Boeb1,pollination,2014,hedgerow,18,NA,NA,31.83,51.3,1.09740623622907
+pfis01,pfis01.11_Boeb1,pollination,2014,hedgerow,26,NA,NA,31.83,51.3,0.374251696234096
+pfis01,pfis01.13_Roem,pollination,2014,control,2,NA,NA,19.84,61.8,0.0694242219761255
+pfis01,pfis01.13_Roem,pollination,2014,control,10,NA,NA,19.84,61.8,0.537950535601568
+pfis01,pfis01.13_Roem,pollination,2014,control,18,NA,NA,19.84,61.8,-0.254082042193823
+pfis01,pfis01.13_Roem,pollination,2014,control,26,NA,NA,19.84,61.8,-0.0596410277628877
+pfis01,pfis01.14_Ott,pollination,2014,hedgerow,2,NA,NA,14.8,33.7,0.779477666268948
+pfis01,pfis01.14_Ott,pollination,2014,hedgerow,10,NA,NA,14.8,33.7,1.61678036683712
+pfis01,pfis01.14_Ott,pollination,2014,hedgerow,18,NA,NA,14.8,33.7,1.89449765295896
+pfis01,pfis01.14_Ott,pollination,2014,hedgerow,26,NA,NA,14.8,33.7,2.15197958334282
+pfis01,pfis01.16_Kohl1,pollination,2014,hedgerow,2,NA,NA,17.74,67.6,-1.08113735107417
+pfis01,pfis01.16_Kohl1,pollination,2014,hedgerow,10,NA,NA,17.74,67.6,-0.950126394052662
+pfis01,pfis01.16_Kohl1,pollination,2014,hedgerow,18,NA,NA,17.74,67.6,-1.22914081836283
+pfis01,pfis01.16_Kohl1,pollination,2014,hedgerow,26,NA,NA,17.74,67.6,-0.357074814347367
+pfis01,pfis01.1b_Herg1_PO,pollination,2014,control,2,NA,NA,31.3,60.9,-1.35440112932959
+pfis01,pfis01.1b_Herg1_PO,pollination,2014,control,10,NA,NA,31.3,60.9,-0.942548944703444
+pfis01,pfis01.1b_Herg1_PO,pollination,2014,control,18,NA,NA,31.3,60.9,-0.69502254991503
+pfis01,pfis01.1b_Herg1_PO,pollination,2014,control,26,NA,NA,31.3,60.9,-0.872946671846921
+pfis01,pfis01.2_Wind,pollination,2014,control,2,NA,NA,4.96,90,-0.315393440994685
+pfis01,pfis01.2_Wind,pollination,2014,control,10,NA,NA,4.96,90,-0.39322173190545107
+pfis01,pfis01.2_Wind,pollination,2014,control,18,NA,NA,4.96,90,-0.290747815027239
+pfis01,pfis01.2_Wind,pollination,2014,control,26,NA,NA,4.96,90,-0.194975778313125
+pfis01,pfis01.4_Minf1,pollination,2014,hedgerow,2,NA,NA,7.44,89.8,-0.517746997985303
+pfis01,pfis01.4_Minf1,pollination,2014,hedgerow,10,NA,NA,7.44,89.8,-1.02449565027016
+pfis01,pfis01.4_Minf1,pollination,2014,hedgerow,18,NA,NA,7.44,89.8,-0.385438903164602
+pfis01,pfis01.4_Minf1,pollination,2014,hedgerow,26,NA,NA,7.44,89.8,-0.855435306304441
+pfis01,pfis01.6_Hold1,pollination,2014,control,2,NA,NA,21.57,72.6,0.422461999332807
+pfis01,pfis01.6_Hold1,pollination,2014,control,10,NA,NA,21.57,72.6,-0.344795239454588
+pfis01,pfis01.6_Hold1,pollination,2014,control,18,NA,NA,21.57,72.6,-0.45721388287572307
+pfis01,pfis01.6_Hold1,pollination,2014,control,26,NA,NA,21.57,72.6,-0.265237430613477
+pfis01,pfis01.7_Rhein,pollination,2014,control,2,NA,NA,27.12,65.1,1.91027950005223
+pfis01,pfis01.7_Rhein,pollination,2014,control,10,NA,NA,27.12,65.1,1.88087770198147
+pfis01,pfis01.7_Rhein,pollination,2014,control,18,NA,NA,27.12,65.1,1.68738792308674
+pfis01,pfis01.7_Rhein,pollination,2014,control,26,NA,NA,27.12,65.1,1.83785595293323
+pfis01,pfis01.8_Hay,pollination,2014,control,2,NA,NA,20.41,62.9,-0.934560736181822
+pfis01,pfis01.8_Hay,pollination,2014,control,10,NA,NA,20.41,62.9,-0.7546909069674341
+pfis01,pfis01.8_Hay,pollination,2014,control,18,NA,NA,20.41,62.9,-1.39540510884272
+pfis01,pfis01.8_Hay,pollination,2014,control,26,NA,NA,20.41,62.9,-1.12329434219496
+rund01,rund01.AA,pollination,2010,flowerstrip,8,1,2.5,5.190205485,70.36560362,-0.729115579421917
+rund01,rund01.AA,pollination,2010,flowerstrip,100,1,2.5,5.190205485,70.36560362,-0.803199099012476
+rund01,rund01.AS,pollination,2010,control,8,NA,NA,1.165703508,91.63355656,1.02971378165045
+rund01,rund01.AS,pollination,2010,control,100,NA,NA,1.165703508,91.63355656,0.598248544187612
+rund01,rund01.CL,pollination,2010,control,8,NA,NA,3.240970959,78.34393388,0.8220638217852572
+rund01,rund01.CL,pollination,2010,control,100,NA,NA,3.240970959,78.34393388,1.51520290960454
+rund01,rund01.CM,pollination,2010,flowerstrip,8,1,2.5,1.497743332,84.48418399,-1.88649044514299
+rund01,rund01.CM,pollination,2010,flowerstrip,100,1,2.5,1.497743332,84.48418399,-1.25075274241697
+rund01,rund01.CO,pollination,2010,flowerstrip,8,1,2.5,2.284841191,35.22290472,-0.119348009407969
+rund01,rund01.CO,pollination,2010,flowerstrip,100,1,2.5,2.284841191,35.22290472,0.694960230885763
+rund01,rund01.ES,pollination,2010,flowerstrip,8,1,2.5,4.635065287,67.81341226,-0.042529342640676
+rund01,rund01.ES,pollination,2010,flowerstrip,100,1,2.5,4.635065287,67.81341226,-0.337168474718296
+rund01,rund01.HR,pollination,2010,control,8,NA,NA,3.167506231,89.88841128,0.197670617885532
+rund01,rund01.HR,pollination,2010,control,100,NA,NA,3.167506231,89.88841128,0.020126175269754295
+rund01,rund01.JG,pollination,2010,flowerstrip,8,1,2.5,10.82211198,74.34530395,-1.21952520365518
+rund01,rund01.JG,pollination,2010,flowerstrip,100,1,2.5,10.82211198,74.34530395,-0.71651475894245
+rund01,rund01.JN,pollination,2010,flowerstrip,8,1,2.5,6.932540819,80.11560626,-0.622249015409565
+rund01,rund01.JN,pollination,2010,flowerstrip,100,1,2.5,6.932540819,80.11560626,-0.612300457762444
+rund01,rund01.LF,pollination,2010,control,8,NA,NA,10.95535579,73.48920079,2.13517785046973
+rund01,rund01.LF,pollination,2010,control,100,NA,NA,10.95535579,73.48920079,2.25264413388761
+rund01,rund01.LF2,pollination,2010,control,8,NA,NA,14.84953799,55.69855312,1.452716032489
+rund01,rund01.LF2,pollination,2010,control,100,NA,NA,14.84953799,55.69855312,1.56822411344583
+rund01,rund01.LO,pollination,2010,flowerstrip,8,1,2.5,4.957198907,68.16463422,-0.01473528161414
+rund01,rund01.LO,pollination,2010,flowerstrip,100,1,2.5,4.957198907,68.16463422,0.606067971597386
+rund01,rund01.MB,pollination,2010,flowerstrip,8,1,2.5,16.54612982,64.55346465,0.0178172960421771
+rund01,rund01.MB,pollination,2010,flowerstrip,100,1,2.5,16.54612982,64.55346465,0.203878106700181
+rund01,rund01.MH,pollination,2010,control,8,NA,NA,1.215791031,80.19827991,1.6908956236006
+rund01,rund01.MH,pollination,2010,control,100,NA,NA,1.215791031,80.19827991,1.68041489603575
+rund01,rund01.ML,pollination,2010,flowerstrip,8,1,2.5,1.820884999,90.72707964,-1.05359761223412
+rund01,rund01.ML,pollination,2010,flowerstrip,100,1,2.5,1.820884999,90.72707964,-0.767825957182812
+rund01,rund01.MO,pollination,2010,control,8,NA,NA,1.762007056,90.7494447,0.0758585907109461
+rund01,rund01.MO,pollination,2010,control,100,NA,NA,1.762007056,90.7494447,-1.05617329916173
+rund01,rund01.MV,pollination,2010,flowerstrip,8,1,2.5,4.408107395,84.17138717,0.985478086914657
+rund01,rund01.MV,pollination,2010,flowerstrip,100,1,2.5,4.408107395,84.17138717,1.29305493420642
+rund01,rund01.PC,pollination,2010,flowerstrip,8,1,2.5,6.93073656,81.76005668,-0.470800211956001
+rund01,rund01.PC,pollination,2010,flowerstrip,100,1,2.5,6.93073656,81.76005668,-0.605504933890191
+rund01,rund01.PGJ,pollination,2010,flowerstrip,8,1,2.5,1.152378911,92.82900188,-0.0707943342681546
+rund01,rund01.PGJ,pollination,2010,flowerstrip,100,1,2.5,1.152378911,92.82900188,0.565412801842879
+rund01,rund01.PH,pollination,2010,control,8,NA,NA,13.13763464,34.36759342,-0.975820848582905
+rund01,rund01.PH,pollination,2010,control,100,NA,NA,13.13763464,34.36759342,-0.184400789941457
+rund01,rund01.RC,pollination,2010,flowerstrip,8,1,2.5,3.435374747,70.54893675,-0.65817275195981
+rund01,rund01.RC,pollination,2010,flowerstrip,100,1,2.5,3.435374747,70.54893675,0.46914088683469907
+rund01,rund01.SAN,pollination,2010,control,8,NA,NA,6.937095474,79.44717913,0.114576672444153
+rund01,rund01.SAN,pollination,2010,control,100,NA,NA,6.937095474,79.44717913,0.316622252649631
+rund01,rund01.SJ,pollination,2010,flowerstrip,8,1,2.5,18.20211776,44.77022533,0.0856082502947456
+rund01,rund01.SJ,pollination,2010,flowerstrip,100,1,2.5,18.20211776,44.77022533,0.00655040957631202
+rund01,rund01.TF,pollination,2010,control,8,NA,NA,6.247503472,67.73206538,-1.72715407553705
+rund01,rund01.TF,pollination,2010,control,100,NA,NA,6.247503472,67.73206538,-1.67930909959013
+rund01,rund01.TU,pollination,2010,control,8,NA,NA,3.884413247,81.59982703,-1.30445637956925
+rund01,rund01.TU,pollination,2010,control,100,NA,NA,3.884413247,81.59982703,-0.231885096639074
+rund01,rund01.UG,pollination,2010,control,8,NA,NA,2.012348908,85.19758682,-0.8661651545410609
+rund01,rund01.UG,pollination,2010,control,100,NA,NA,2.012348908,85.19758682,-0.3921360358128
+sard01,sard01.29A,pollination,2011,control,10,NA,NA,NA,NA,2.13505771928836
+sard01,sard01.29A,pollination,2011,control,50,NA,NA,NA,NA,1.65610804443325
+sard01,sard01.29A,pollination,2011,control,100,NA,NA,NA,NA,1.60880437284262
+sard01,sard01.29A,pollination,2011,control,200,NA,NA,NA,NA,0.236997896714423
+sard01,sard01.Anderson,pollination,2013,control,10,NA,NA,NA,NA,-0.259690654987167
+sard01,sard01.Anderson,pollination,2013,control,50,NA,NA,NA,NA,-0.366123916066079
+sard01,sard01.Anderson,pollination,2013,control,100,NA,NA,NA,NA,-0.562185186474602
+sard01,sard01.Anderson,pollination,2013,control,200,NA,NA,NA,NA,-0.445948861875263
+sard01,sard01.Aoki,pollination,2011,control,10,NA,NA,NA,NA,-0.448905341349678
+sard01,sard01.Aoki,pollination,2011,control,50,NA,NA,NA,NA,0.26279989940022
+sard01,sard01.Aoki,pollination,2011,control,100,NA,NA,NA,NA,1.44324152227543
+sard01,sard01.Aoki,pollination,2011,control,200,NA,NA,NA,NA,0.284301568305051
+sard01,sard01.Barrios,pollination,2013,control,10,NA,NA,NA,NA,1.97293263555187
+sard01,sard01.Barrios,pollination,2013,control,50,NA,NA,NA,NA,0.135632886163078
+sard01,sard01.Barrios,pollination,2013,control,100,NA,NA,NA,NA,-0.41934054660553494
+sard01,sard01.Barrios,pollination,2013,control,200,NA,NA,NA,NA,-0.39146516870391507
+sard01,sard01.BB,pollination,2011,hedgerow,10,NA,NA,NA,NA,4.63623935464279
+sard01,sard01.BB,pollination,2011,hedgerow,50,NA,NA,NA,NA,3.97398795237401
+sard01,sard01.BB,pollination,2011,hedgerow,100,NA,NA,NA,NA,3.86991987487463
+sard01,sard01.BB,pollination,2011,hedgerow,200,NA,NA,NA,NA,2.8055872640855
+sard01,sard01.Berm,pollination,2011,hedgerow,10,NA,NA,NA,NA,1.81575793605162
+sard01,sard01.Berm,pollination,2011,hedgerow,50,NA,NA,NA,NA,-0.100040763368799
+sard01,sard01.Berm,pollination,2011,hedgerow,100,NA,NA,NA,NA,-0.377949833963736
+sard01,sard01.Berm,pollination,2011,hedgerow,200,NA,NA,NA,NA,0.00639249771011333
+sard01,sard01.Berm2,pollination,2012,hedgerow,10,NA,NA,NA,NA,-0.227438151629921
+sard01,sard01.Berm2,pollination,2012,hedgerow,50,NA,NA,NA,NA,-0.0468241328293428
+sard01,sard01.Berm2,pollination,2012,hedgerow,100,NA,NA,NA,NA,0.473516254667561
+sard01,sard01.Berm2,pollination,2012,hedgerow,200,NA,NA,NA,NA,-0.330646162373109
+sard01,sard01.BermX,pollination,2013,hedgerow,10,NA,NA,NA,NA,0.15483888816228
+sard01,sard01.BermX,pollination,2013,hedgerow,50,NA,NA,NA,NA,-0.249554153932033
+sard01,sard01.BermX,pollination,2013,hedgerow,100,NA,NA,NA,NA,-0.685423699302816
+sard01,sard01.BermX,pollination,2013,hedgerow,200,NA,NA,NA,NA,-0.584592188807004
+sard01,sard01.Butler,pollination,2011,hedgerow,10,NA,NA,NA,NA,-0.131970741692473
+sard01,sard01.Butler,pollination,2011,hedgerow,50,NA,NA,NA,NA,-0.344837263850297
+sard01,sard01.Butler,pollination,2011,hedgerow,100,NA,NA,NA,NA,-0.00425082839777804
+sard01,sard01.Butler,pollination,2011,hedgerow,200,NA,NA,NA,NA,0.32569228094685
+sard01,sard01.Butler2,pollination,2013,hedgerow,10,NA,NA,NA,NA,-0.715833202468219
+sard01,sard01.Butler2,pollination,2013,hedgerow,50,NA,NA,NA,NA,-0.560639875968919
+sard01,sard01.Butler2,pollination,2013,hedgerow,100,NA,NA,NA,NA,-0.557703786008121
+sard01,sard01.Butler2,pollination,2013,hedgerow,200,NA,NA,NA,NA,-0.0631984806876369
+sard01,sard01.Cooley,pollination,2011,hedgerow,10,NA,NA,NA,NA,0.538558803104674
+sard01,sard01.Cooley,pollination,2011,hedgerow,50,NA,NA,NA,NA,1.1695559937868
+sard01,sard01.Cooley,pollination,2011,hedgerow,100,NA,NA,NA,NA,-0.153257393908255
+sard01,sard01.Cooley,pollination,2011,hedgerow,200,NA,NA,NA,NA,0.485342172565218
+sard01,sard01.CR101,pollination,2012,hedgerow,10,NA,NA,NA,NA,-0.428515827733028
+sard01,sard01.CR101,pollination,2012,hedgerow,50,NA,NA,NA,NA,-0.659879716643877
+sard01,sard01.CR101,pollination,2012,hedgerow,100,NA,NA,NA,NA,-1.20238525311468
+sard01,sard01.CR101,pollination,2012,hedgerow,200,NA,NA,NA,NA,-1.0685834391869
+sard01,sard01.CR101Control,pollination,2012,control,10,NA,NA,NA,NA,-0.634741194027143
+sard01,sard01.CR101Control,pollination,2012,control,50,NA,NA,NA,NA,-0.570803264294757
+sard01,sard01.CR101Control,pollination,2012,control,100,NA,NA,NA,NA,-0.685423699302816
+sard01,sard01.CR101Control,pollination,2012,control,200,NA,NA,NA,NA,-0.290100158152571
+sard01,sard01.Gottlob,pollination,2013,control,10,NA,NA,NA,NA,-0.259690654987167
+sard01,sard01.Gottlob,pollination,2013,control,50,NA,NA,NA,NA,-0.557703786008121
+sard01,sard01.Gottlob,pollination,2013,control,100,NA,NA,NA,NA,-0.487761928727693
+sard01,sard01.Gottlob,pollination,2013,control,200,NA,NA,NA,NA,-0.546597706591191
+sard01,sard01.Harlan,pollination,2012,hedgerow,10,NA,NA,NA,NA,-1.0685834391869
+sard01,sard01.Harlan,pollination,2012,hedgerow,50,NA,NA,NA,NA,-1.01181903327815
+sard01,sard01.Harlan,pollination,2012,hedgerow,100,NA,NA,NA,NA,-1.03133179780928
+sard01,sard01.Harlan,pollination,2012,hedgerow,200,NA,NA,NA,NA,-1.02928500432699
+sard01,sard01.MBC,pollination,2012,control,10,NA,NA,NA,NA,-0.48674827862218
+sard01,sard01.MBC,pollination,2012,control,50,NA,NA,NA,NA,0.0383224760337871
+sard01,sard01.MBC,pollination,2012,control,100,NA,NA,NA,NA,-0.141431476010598
+sard01,sard01.MBC,pollination,2012,control,200,NA,NA,NA,NA,0.0383224760337871
+sard01,sard01.Meeks,pollination,2011,control,10,NA,NA,NA,NA,0.520819926258189
+sard01,sard01.Meeks,pollination,2011,control,50,NA,NA,NA,NA,0.7573382842113271
+sard01,sard01.Meeks,pollination,2011,control,100,NA,NA,NA,NA,0.272475650407394
+sard01,sard01.Meeks,pollination,2011,control,200,NA,NA,NA,NA,0.538558803104674
+sard01,sard01.MullerB,pollination,2012,hedgerow,10,NA,NA,NA,NA,-0.49283017925526
+sard01,sard01.MullerB,pollination,2012,hedgerow,50,NA,NA,NA,NA,-0.229281151821764
+sard01,sard01.MullerB,pollination,2012,hedgerow,100,NA,NA,NA,NA,-0.704775201317163
+sard01,sard01.MullerB,pollination,2012,hedgerow,200,NA,NA,NA,NA,-0.283342490782481
+sard01,sard01.MullerM,pollination,2013,hedgerow,10,NA,NA,NA,NA,-0.125663585480389
+sard01,sard01.MullerM,pollination,2013,hedgerow,50,NA,NA,NA,NA,-0.0681107850451251
+sard01,sard01.MullerM,pollination,2013,hedgerow,100,NA,NA,NA,NA,-0.444174974190615
+sard01,sard01.MullerM,pollination,2013,hedgerow,200,NA,NA,NA,NA,-0.706710351518598
+sard01,sard01.Rom,pollination,2013,hedgerow,10,NA,NA,NA,NA,-0.249554153932033
+sard01,sard01.Rom,pollination,2013,hedgerow,50,NA,NA,NA,NA,-0.500939380099368
+sard01,sard01.Rom,pollination,2013,hedgerow,100,NA,NA,NA,NA,-0.442147673979588
+sard01,sard01.Rom,pollination,2013,hedgerow,200,NA,NA,NA,NA,-0.0734324480990708
+sard01,sard01.Rominger,pollination,2012,hedgerow,10,NA,NA,NA,NA,-0.330646162373109
+sard01,sard01.Rominger,pollination,2012,hedgerow,50,NA,NA,NA,NA,-0.0752063357837194
+sard01,sard01.Rominger,pollination,2012,hedgerow,100,NA,NA,NA,NA,-0.472557177144991
+sard01,sard01.Rominger,pollination,2012,hedgerow,200,NA,NA,NA,NA,-0.584592188807004
+sard01,sard01.Sagara,pollination,2011,control,10,NA,NA,NA,NA,-0.259690654987167
+sard01,sard01.Sagara,pollination,2011,control,50,NA,NA,NA,NA,-0.344837263850297
+sard01,sard01.Sagara,pollination,2011,control,100,NA,NA,NA,NA,-0.188735147601226
+sard01,sard01.Sagara,pollination,2011,control,200,NA,NA,NA,NA,-0.472557177144991
+sard01,sard01.Sagara2,pollination,2012,control,10,NA,NA,NA,NA,0.456314919543697
+sard01,sard01.Sagara2,pollination,2012,control,50,NA,NA,NA,NA,-0.0823018865223135
+sard01,sard01.Sagara2,pollination,2012,control,100,NA,NA,NA,NA,-0.0823018865223135
+sard01,sard01.Sagara2,pollination,2012,control,200,NA,NA,NA,NA,-0.50530587286158
+sard01,sard01.Simonis,pollination,2011,control,10,NA,NA,NA,NA,-0.567164520326247
+sard01,sard01.Simonis,pollination,2011,control,50,NA,NA,NA,NA,-0.472557177144991
+sard01,sard01.Simonis,pollination,2011,control,100,NA,NA,NA,NA,-0.41934054660553494
+sard01,sard01.Simonis,pollination,2011,control,200,NA,NA,NA,NA,-0.0468241328293428
+sard01,sard01.Spiva,pollination,2012,control,10,NA,NA,NA,NA,-1.11115674361846
+sard01,sard01.Spiva,pollination,2012,control,50,NA,NA,NA,NA,-0.827334714074699
+sard01,sard01.Spiva,pollination,2012,control,100,NA,NA,NA,NA,-1.15373004805003
+sard01,sard01.Spiva,pollination,2012,control,200,NA,NA,NA,NA,-1.05794011307901
+sard01,sard01.Turk3,pollination,2013,control,10,NA,NA,NA,NA,-0.855716917029075
+sard01,sard01.Turk3,pollination,2013,control,50,NA,NA,NA,NA,-0.622815898668162
+sard01,sard01.Turk3,pollination,2013,control,100,NA,NA,NA,NA,-0.722988379683608
+sard01,sard01.Turk3,pollination,2013,control,200,NA,NA,NA,NA,-0.359028365327485
+sard01,sard01.TurkovichSF,pollination,2012,control,10,NA,NA,NA,NA,0.473516254667561
+sard01,sard01.TurkovichSF,pollination,2012,control,50,NA,NA,NA,NA,0.318089905155499
+sard01,sard01.TurkovichSF,pollination,2012,control,100,NA,NA,NA,NA,-0.578990438223904
+sard01,sard01.TurkovichSF,pollination,2012,control,200,NA,NA,NA,NA,-0.0468241328293428
+sard01,sard01.Zamora,pollination,2011,hedgerow,10,NA,NA,NA,NA,1.2303750001176
+sard01,sard01.Zamora,pollination,2011,hedgerow,50,NA,NA,NA,NA,0.719495346938825
+sard01,sard01.Zamora,pollination,2011,hedgerow,100,NA,NA,NA,NA,0.911075216880867
+sard01,sard01.Zamora,pollination,2011,hedgerow,200,NA,NA,NA,NA,0.485342172565218
+sche01,sche01.C1,pest control,2005,control,2,NA,NA,2.82,97.18,-0.453545389665238
+sche01,sche01.C1,pest control,2006,control,2,NA,NA,2.55,97.45,-0.443430857254919
+sche01,sche01.C1,pest control,2007,control,2,NA,NA,8.83,91.17,-0.0313284982806765
+sche01,sche01.C2,pest control,2005,control,2,NA,NA,12.09,87.91,-0.369776313549014
+sche01,sche01.C2,pest control,2006,control,2,NA,NA,12.12,87.88,-0.475071189410274
+sche01,sche01.C2,pest control,2007,control,2,NA,NA,11.37,88.63,-0.385855826611571
+sche01,sche01.C3,pest control,2005,control,2,NA,NA,24.69,75.31,-0.520975605734025
+sche01,sche01.C3,pest control,2006,control,2,NA,NA,28.93,71.07,-0.517863441915466
+sche01,sche01.C3,pest control,2007,control,2,NA,NA,20.81,79.19,-0.390264725354529
+sche01,sche01.C4,pest control,2005,control,2,NA,NA,26.15,73.85,-0.43435371278412094
+sche01,sche01.C4,pest control,2006,control,2,NA,NA,37.62,62.38,-0.459769717302356
+sche01,sche01.C4,pest control,2007,control,2,NA,NA,25.79,74.21,-0.106020429926103
+sche01,sche01.C5,pest control,2005,control,2,NA,NA,39.76,60.24,-0.485704415790352
+sche01,sche01.C5,pest control,2006,control,2,NA,NA,48.07,51.93,-0.448877143937399
+sche01,sche01.C5,pest control,2007,control,2,NA,NA,25.82,74.18,-0.279004868841031
+sche01,sche01.C6,pest control,2005,control,2,NA,NA,42.14,57.86,-0.485185721820592
+sche01,sche01.C6,pest control,2006,control,2,NA,NA,58.45,41.55,-0.36147721003285493
+sche01,sche01.C6,pest control,2007,control,2,NA,NA,37.13,62.87,0.30219172427494
+sche01,sche01.C7,pest control,2005,control,2,NA,NA,50.27,49.73,-0.48803853865427094
+sche01,sche01.C7,pest control,2006,control,2,NA,NA,70.11,29.89,-0.343582268076139
+sche01,sche01.C7,pest control,2007,control,2,NA,NA,62.35,37.65,-0.0033190239136422
+sche01,sche01.FB1,pest control,2005,flowerstrip,2,25,2.5,2.42,97.58,-0.532127526083863
+sche01,sche01.FB1,pest control,2006,flowerstrip,2,25,14.5,3.53,96.47,-0.250217353519356
+sche01,sche01.FB1,pest control,2007,flowerstrip,2,25,26.5,11.71,88.29,-0.250217353519356
+sche01,sche01.FB2,pest control,2005,flowerstrip,2,26,2.5,15.7,84.3,-0.501783928852909
+sche01,sche01.FB2,pest control,2006,flowerstrip,2,26,14.5,13.83,86.17,-0.448877143937399
+sche01,sche01.FB2,pest control,2007,flowerstrip,2,26,26.5,15.67,84.33,0.434199339578836
+sche01,sche01.FB3,pest control,2005,flowerstrip,2,26,2.5,33.06,66.94,-0.379631498974452
+sche01,sche01.FB3,pest control,2006,flowerstrip,2,26,14.5,26.89,73.11,-0.454582777604758
+sche01,sche01.FB3,pest control,2007,flowerstrip,2,26,26.5,25.19,74.81,3.02766918837835
+sche01,sche01.FB4,pest control,2005,flowerstrip,2,26,2.5,42.06,57.94,-0.405047503492686
+sche01,sche01.FB4,pest control,2006,flowerstrip,2,26,14.5,33.67,66.33,-0.437206529617801
+sche01,sche01.FB4,pest control,2007,flowerstrip,2,26,26.5,29.41,70.59,2.05511799507853
+sche01,sche01.FB5,pest control,2005,flowerstrip,2,26,2.5,58.52,41.48,-0.509304991414428
+sche01,sche01.FB5,pest control,2006,flowerstrip,2,26,14.5,42.24,57.76,0.665018156121995
+sche01,sche01.FB5,pest control,2007,flowerstrip,2,26,26.5,45.81,54.19,2.98124607808484
+sche01,sche01.FB6,pest control,2005,flowerstrip,2,26,2.5,60.53,39.47,-0.4436902042398
+sche01,sche01.FB6,pest control,2006,flowerstrip,2,26,14.5,61.36,38.64,-0.43850326454220107
+sche01,sche01.FB6,pest control,2007,flowerstrip,2,26,26.5,60.91,39.09,3.12310887881417
+sche01,sche01.FB7,pest control,2005,flowerstrip,2,26,2.5,71.59,28.41,-0.432538283889962
+sche01,sche01.FB7,pest control,2006,flowerstrip,2,26,14.5,71.99,28.01,0.411117457924518
+sche01,sche01.FB7,pest control,2007,flowerstrip,2,26,26.5,69.73,30.27,2.37930172617847
+sche01,sche01.FS1,pest control,2005,flowerstrip,2,26,2.5,3.83,96.17,-0.43954065248172
+sche01,sche01.FS1,pest control,2006,flowerstrip,2,26,14.5,3.66,96.34,-0.260591232914554
+sche01,sche01.FS1,pest control,2007,flowerstrip,2,26,26.5,9.46,90.54,-0.046889317373474
+sche01,sche01.FS2,pest control,2005,flowerstrip,2,26,2.5,16.24,83.76,-0.538351853720982
+sche01,sche01.FS2,pest control,2006,flowerstrip,2,26,14.5,14.82,85.18,-0.458472982377957
+sche01,sche01.FS2,pest control,2007,flowerstrip,2,26,26.5,18.6,81.4,0.8621218646307541
+sche01,sche01.FS3,pest control,2005,flowerstrip,2,26,2.5,29.39,70.61,-0.505155439656348
+sche01,sche01.FS3,pest control,2006,flowerstrip,2,26,14.5,28.48,71.52,-0.285747890447909
+sche01,sche01.FS3,pest control,2007,flowerstrip,2,26,26.5,31.1,68.9,0.326051646883894
+sche01,sche01.FS4,pest control,2005,flowerstrip,2,26,2.5,31.43,68.57,-0.490113314533311
+sche01,sche01.FS4,pest control,2006,flowerstrip,2,26,14.5,36.3,63.7,-0.330874265817021
+sche01,sche01.FS4,pest control,2007,flowerstrip,2,26,26.5,36.26,63.74,1.19071449447365
+sche01,sche01.FS5,pest control,2005,flowerstrip,2,26,2.5,37.28,62.72,-0.506452174580748
+sche01,sche01.FS5,pest control,2006,flowerstrip,2,26,14.5,42.69,57.31,-0.471959025591715
+sche01,sche01.FS5,pest control,2007,flowerstrip,2,26,26.5,36.99,63.01,2.05511799507853
+sche01,sche01.FS6,pest control,2005,flowerstrip,2,26,2.5,51.57,48.43,-0.484407680865952
+sche01,sche01.FS6,pest control,2006,flowerstrip,2,26,14.5,56.61,43.39,-0.326724714058942
+sche01,sche01.FS6,pest control,2007,flowerstrip,2,26,26.5,51.43,48.57,1.49933740648079
+sche01,sche01.FS7,pest control,2005,flowerstrip,2,26,2.5,64.1,35.9,-0.515529319051546
+sche01,sche01.FS7,pest control,2006,flowerstrip,2,26,14.5,69.93,30.07,0.8800168065874708
+sche01,sche01.FS7,pest control,2007,flowerstrip,2,26,26.5,68.35,31.65,1.99028124885854
+sche01,sche01.M1,pest control,2005,control,2,NA,NA,2.13,97.87,-0.434613059769001
+sche01,sche01.M1,pest control,2006,control,2,NA,NA,2.12,97.88,-0.455620165544278
+sche01,sche01.M1,pest control,2007,control,2,NA,NA,8.25,91.75,-0.538351853720982
+sche01,sche01.M2,pest control,2005,control,2,NA,NA,16.93,83.07,-0.521494299703785
+sche01,sche01.M2,pest control,2006,control,2,NA,NA,12.87,87.13,-0.058559931693072
+sche01,sche01.M2,pest control,2007,control,2,NA,NA,11.33,88.67,-0.077751608574188
+sche01,sche01.M3,pest control,2005,control,2,NA,NA,29.03,70.97,-0.525384504476984
+sche01,sche01.M3,pest control,2006,control,2,NA,NA,26.74,73.26,-0.49504090724603
+sche01,sche01.M3,pest control,2007,control,2,NA,NA,26.78,73.22,0.218163301173836
+sche01,sche01.M4,pest control,2005,control,2,NA,NA,35.52,64.48,-0.528496668295544
+sche01,sche01.M4,pest control,2006,control,2,NA,NA,34.2,65.8,-0.509823685384188
+sche01,sche01.M4,pest control,2007,control,2,NA,NA,28.63,71.37,-0.4423934693154
+sche01,sche01.M5,pest control,2005,control,2,NA,NA,38.36,61.64,-0.487260497699632
+sche01,sche01.M5,pest control,2006,control,2,NA,NA,42.58,57.42,-0.154258969113774
+sche01,sche01.M5,pest control,2007,control,2,NA,NA,31.29,68.71,0.272107474028866
+sche01,sche01.M6,pest control,2005,control,2,NA,NA,57.62,42.38,-0.514751278096907
+sche01,sche01.M6,pest control,2006,control,2,NA,NA,57.3,42.7,-0.49789372407971
+sche01,sche01.M6,pest control,2007,control,2,NA,NA,39.01,60.99,0.956783514111938
+sche01,sche01.M7,pest control,2005,control,2,NA,NA,64.32,35.68,-0.502561969807549
+sche01,sche01.M7,pest control,2006,control,2,NA,NA,69.17,30.83,-0.497115683125069
+sche01,sche01.M7,pest control,2007,control,2,NA,NA,65.1,34.9,0.239689100918872
+scil01,scil01.AR,pollination,2012,hedgerow,NA,NA,NA,3,94,-0.8375576606660868
+scil01,scil01.C,pollination,2012,control,NA,NA,NA,45,48,-0.62559567085475
+scil01,scil01.CB,pollination,2012,hedgerow,NA,NA,NA,44,33,-0.561043387760987
+scil01,scil01.DS,pollination,2012,control,NA,NA,NA,42,43,-0.331265444985078
+scil01,scil01.F,pollination,2012,control,NA,NA,NA,83,12,-1.28267828439052
+scil01,scil01.FE,pollination,2012,control,NA,NA,NA,3,80,1.23246200122505
+scil01,scil01.LE,pollination,2012,control,NA,NA,NA,42,51,0.590537525409589
+scil01,scil01.M,pollination,2012,control,NA,NA,NA,14,50,-0.640184054176694
+scil01,scil01.RF,pollination,2012,control,NA,NA,NA,57,31,0.916199346862602
+scil01,scil01.RH,pollination,2012,hedgerow,NA,NA,NA,9,65,0.0444421784345197
+scil01,scil01.RK,pollination,2012,control,NA,NA,NA,10,87,0.650591419479996
+scil01,scil01.S,pollination,2012,control,NA,NA,NA,85,10,1.9450970039635
+scil01,scil01.SH,pollination,2012,flowerstrip,NA,21,NA,87,5,1.07010202811844
+scil01,scil01.TA,pollination,2012,control,NA,NA,NA,17,65,NA
+scil01,scil01.TB,pollination,2012,control,NA,NA,NA,6,84,-1.01560591015586
+scil01,scil01.UC,pollination,2012,hedgerow,NA,NA,NA,75,3,-1.15550109050372
+sutt01,sutt01.1,pest control,2014,hedgerow,2,NA,NA,18.95672018,NA,1.77985712801195
+sutt01,sutt01.1,pest control,2014,hedgerow,9,NA,NA,18.95672018,NA,0.651329102376215
+sutt01,sutt01.1,pest control,2014,hedgerow,25,NA,NA,18.95672018,NA,0.48675209682732307
+sutt01,sutt01.1,pollination,2014,hedgerow,2,NA,NA,18.95672018,NA,0.38778886853542094
+sutt01,sutt01.1,pollination,2014,hedgerow,9,NA,NA,18.95672018,NA,-0.310231094828337
+sutt01,sutt01.1,pollination,2014,hedgerow,25,NA,NA,18.95672018,NA,-0.0775577737070842
+sutt01,sutt01.10,pest control,2014,flowerstrip,2,23,60,22.00824817,NA,-1.13791832047006
+sutt01,sutt01.10,pest control,2014,flowerstrip,9,23,60,22.00824817,NA,1.57296032041551
+sutt01,sutt01.10,pest control,2014,flowerstrip,25,23,60,22.00824817,NA,0.449134493800382
+sutt01,sutt01.10,pollination,2014,flowerstrip,2,23,60,22.00824817,NA,1.08580883189918
+sutt01,sutt01.10,pollination,2014,flowerstrip,9,23,60,22.00824817,NA,0.8531355107779252
+sutt01,sutt01.10,pollination,2014,flowerstrip,25,23,60,22.00824817,NA,0.504125529096047
+sutt01,sutt01.11,pest control,2014,flowerstrip,2,12,72,10.53,NA,-1.32359494248632
+sutt01,sutt01.11,pest control,2014,flowerstrip,9,12,72,10.53,NA,2.2970991361409694
+sutt01,sutt01.11,pest control,2014,flowerstrip,25,12,72,10.53,NA,0.170257860678931
+sutt01,sutt01.11,pollination,2014,flowerstrip,2,12,72,10.53,NA,0.620462189656673
+sutt01,sutt01.11,pollination,2014,flowerstrip,9,12,72,10.53,NA,1.55115547414168
+sutt01,sutt01.11,pollination,2014,flowerstrip,25,12,72,10.53,NA,-1.82260768211648
+sutt01,sutt01.12,pest control,2014,flowerstrip,2,13,48,16.89354732,NA,-0.622815440126864
+sutt01,sutt01.12,pest control,2014,flowerstrip,9,13,48,16.89354732,NA,1.49250045280617
+sutt01,sutt01.12,pest control,2014,flowerstrip,25,13,48,16.89354732,NA,-0.684648929462845
+sutt01,sutt01.12,pollination,2014,flowerstrip,2,13,48,16.89354732,NA,0.8531355107779252
+sutt01,sutt01.12,pollination,2014,flowerstrip,9,13,48,16.89354732,NA,0.620462189656673
+sutt01,sutt01.12,pollination,2014,flowerstrip,25,13,48,16.89354732,NA,0.969472171338552
+sutt01,sutt01.13,pest control,2014,control,2,NA,NA,20.59,NA,-0.496007726583337
+sutt01,sutt01.13,pest control,2014,control,9,NA,NA,20.59,NA,-0.00697891257796356
+sutt01,sutt01.13,pest control,2014,control,25,NA,NA,20.59,NA,-0.25868491957363
+sutt01,sutt01.13,pollination,2014,control,2,NA,NA,20.59,NA,-2.63696430604086
+sutt01,sutt01.13,pollination,2014,control,9,NA,NA,20.59,NA,-1.24092437931335
+sutt01,sutt01.13,pollination,2014,control,25,NA,NA,20.59,NA,-0.659241076510215
+sutt01,sutt01.14,pest control,2014,control,2,NA,NA,20.16,NA,-0.978766932239383
+sutt01,sutt01.14,pest control,2014,control,9,NA,NA,20.16,NA,0.651329102376215
+sutt01,sutt01.14,pest control,2014,control,25,NA,NA,20.16,NA,0.207441411279032
+sutt01,sutt01.14,pollination,2014,control,2,NA,NA,20.16,NA,-0.0775577737070842
+sutt01,sutt01.14,pollination,2014,control,9,NA,NA,20.16,NA,-0.310231094828337
+sutt01,sutt01.14,pollination,2014,control,25,NA,NA,20.16,NA,-0.426567755388963
+sutt01,sutt01.15,pest control,2014,control,2,NA,NA,26.15277325,NA,0.124682688964595
+sutt01,sutt01.15,pest control,2014,control,9,NA,NA,26.15277325,NA,0.400545094265589
+sutt01,sutt01.15,pest control,2014,control,25,NA,NA,26.15277325,NA,0.620851877383123
+sutt01,sutt01.15,pollination,2014,control,2,NA,NA,26.15277325,NA,-0.775577737070841
+sutt01,sutt01.15,pollination,2014,control,9,NA,NA,26.15277325,NA,2.24917543750544
+sutt01,sutt01.15,pollination,2014,control,25,NA,NA,26.15277325,NA,1.08580883189918
+sutt01,sutt01.16,pest control,2014,control,2,NA,NA,7.016778092,NA,-0.518996259151522
+sutt01,sutt01.16,pest control,2014,control,9,NA,NA,7.016778092,NA,0.48675209682732307
+sutt01,sutt01.16,pest control,2014,control,25,NA,NA,7.016778092,NA,-0.116696917484123
+sutt01,sutt01.16,pollination,2014,control,2,NA,NA,7.016778092,NA,-0.0775577737070842
+sutt01,sutt01.16,pollination,2014,control,9,NA,NA,7.016778092,NA,-0.0775577737070842
+sutt01,sutt01.16,pollination,2014,control,25,NA,NA,7.016778092,NA,-0.775577737070841
+sutt01,sutt01.17,pest control,2014,control,2,NA,NA,10.37419826,NA,-1.32359494248632
+sutt01,sutt01.17,pest control,2014,control,9,NA,NA,10.37419826,NA,-1.32359494248632
+sutt01,sutt01.17,pest control,2014,control,25,NA,NA,10.37419826,NA,-0.197156785093464
+sutt01,sutt01.17,pollination,2014,control,2,NA,NA,10.37419826,NA,-0.310231094828337
+sutt01,sutt01.17,pollination,2014,control,9,NA,NA,10.37419826,NA,-1.9389443426771
+sutt01,sutt01.17,pollination,2014,control,25,NA,NA,10.37419826,NA,-0.891914397631468
+sutt01,sutt01.18,pest control,2014,control,2,NA,NA,9.587281246,NA,0.533171248710693
+sutt01,sutt01.18,pest control,2014,control,9,NA,NA,9.587281246,NA,1.89479979085287
+sutt01,sutt01.18,pest control,2014,control,25,NA,NA,9.587281246,NA,-0.8710081826579089
+sutt01,sutt01.18,pollination,2014,control,2,NA,NA,9.587281246,NA,-1.70627102155585
+sutt01,sutt01.18,pollination,2014,control,9,NA,NA,9.587281246,NA,-0.310231094828337
+sutt01,sutt01.18,pollination,2014,control,25,NA,NA,9.587281246,NA,-0.19389443426771
+sutt01,sutt01.2,pest control,2014,hedgerow,2,NA,NA,7.44,NA,-0.483076671130105
+sutt01,sutt01.2,pest control,2014,hedgerow,9,NA,NA,7.44,NA,-1.05539538137472
+sutt01,sutt01.2,pest control,2014,hedgerow,25,NA,NA,7.44,NA,-0.92376369400664
+sutt01,sutt01.2,pollination,2014,hedgerow,2,NA,NA,7.44,NA,-1.24092437931335
+sutt01,sutt01.2,pollination,2014,hedgerow,9,NA,NA,7.44,NA,-0.0775577737070842
+sutt01,sutt01.2,pollination,2014,hedgerow,25,NA,NA,7.44,NA,-1.4735977004346
+sutt01,sutt01.3,pest control,2014,hedgerow,2,NA,NA,22.01,NA,0.633536989949676
+sutt01,sutt01.3,pest control,2014,hedgerow,9,NA,NA,22.01,NA,-0.766565083678938
+sutt01,sutt01.3,pest control,2014,hedgerow,25,NA,NA,22.01,NA,0.40137095648145293
+sutt01,sutt01.3,pollination,2014,hedgerow,2,NA,NA,22.01,NA,-0.775577737070841
+sutt01,sutt01.3,pollination,2014,hedgerow,9,NA,NA,22.01,NA,0.620462189656673
+sutt01,sutt01.3,pollination,2014,hedgerow,25,NA,NA,22.01,NA,0.504125529096047
+sutt01,sutt01.4,pest control,2014,hedgerow,2,NA,NA,8.544502607,NA,-0.383154921123208
+sutt01,sutt01.4,pest control,2014,hedgerow,9,NA,NA,8.544502607,NA,1.69365012545021
+sutt01,sutt01.4,pest control,2014,hedgerow,25,NA,NA,8.544502607,NA,-1.06801653800107
+sutt01,sutt01.4,pollination,2014,hedgerow,2,NA,NA,8.544502607,NA,-0.0775577737070842
+sutt01,sutt01.4,pollination,2014,hedgerow,9,NA,NA,8.544502607,NA,-0.542904415949589
+sutt01,sutt01.4,pollination,2014,hedgerow,25,NA,NA,8.544502607,NA,0.7367988502172989
+sutt01,sutt01.5,pest control,2014,hedgerow,2,NA,NA,17.17546101,NA,-0.245090324861466
+sutt01,sutt01.5,pest control,2014,hedgerow,9,NA,NA,17.17546101,NA,-0.348792687763055
+sutt01,sutt01.5,pest control,2014,hedgerow,25,NA,NA,17.17546101,NA,0.8524787713995671
+sutt01,sutt01.5,pollination,2014,hedgerow,2,NA,NA,17.17546101,NA,0.38778886853542094
+sutt01,sutt01.5,pollination,2014,hedgerow,9,NA,NA,17.17546101,NA,0.8531355107779252
+sutt01,sutt01.5,pollination,2014,hedgerow,25,NA,NA,17.17546101,NA,0.271452207974794
+sutt01,sutt01.6,pest control,2014,hedgerow,2,NA,NA,22.31979633,NA,2.2970991361409694
+sutt01,sutt01.6,pest control,2014,hedgerow,9,NA,NA,22.31979633,NA,2.01858421035797
+sutt01,sutt01.6,pest control,2014,hedgerow,25,NA,NA,22.31979633,NA,-1.32359494248632
+sutt01,sutt01.6,pollination,2014,hedgerow,2,NA,NA,22.31979633,NA,1.31848215302043
+sutt01,sutt01.6,pollination,2014,hedgerow,9,NA,NA,22.31979633,NA,-0.0775577737070842
+sutt01,sutt01.6,pollination,2014,hedgerow,25,NA,NA,22.31979633,NA,1.31848215302043
+sutt01,sutt01.7,pest control,2014,flowerstrip,2,9,36,6.847017875,NA,-0.418421422829498
+sutt01,sutt01.7,pest control,2014,flowerstrip,9,9,36,6.847017875,NA,-1.32359494248632
+sutt01,sutt01.7,pest control,2014,flowerstrip,25,9,36,6.847017875,NA,-0.180217863881695
+sutt01,sutt01.7,pollination,2014,flowerstrip,2,9,36,6.847017875,NA,2.24917543750544
+sutt01,sutt01.7,pollination,2014,flowerstrip,9,9,36,6.847017875,NA,0.38778886853542094
+sutt01,sutt01.7,pollination,2014,flowerstrip,25,9,36,6.847017875,NA,-0.659241076510215
+sutt01,sutt01.8,pest control,2014,flowerstrip,2,12,72,11.06,NA,-0.702904526938389
+sutt01,sutt01.8,pest control,2014,flowerstrip,9,12,72,11.06,NA,-1.02187043352025
+sutt01,sutt01.8,pest control,2014,flowerstrip,25,12,72,11.06,NA,-0.599456126760863
+sutt01,sutt01.8,pollination,2014,flowerstrip,2,12,72,11.06,NA,0.38778886853542094
+sutt01,sutt01.8,pollination,2014,flowerstrip,9,12,72,11.06,NA,0.38778886853542094
+sutt01,sutt01.8,pollination,2014,flowerstrip,25,12,72,11.06,NA,0.38778886853542094
+sutt01,sutt01.9,pest control,2014,flowerstrip,2,16,36,13.56817832,NA,-0.762642336817496
+sutt01,sutt01.9,pest control,2014,flowerstrip,9,16,36,13.56817832,NA,0.0689797009114399
+sutt01,sutt01.9,pest control,2014,flowerstrip,25,16,36,13.56817832,NA,-0.318141741868071
+sutt01,sutt01.9,pollination,2014,flowerstrip,2,16,36,13.56817832,NA,0.38778886853542094
+sutt01,sutt01.9,pollination,2014,flowerstrip,9,16,36,13.56817832,NA,-1.24092437931335
+sutt01,sutt01.9,pollination,2014,flowerstrip,25,16,36,13.56817832,NA,-0.19389443426771
+thie01,thie01.1,pest control,1995,control,1,NA,NA,NA,NA,-0.165212933972554
+thie01,thie01.1,pest control,1995,control,10,NA,NA,NA,NA,-0.684109063387574
+thie01,thie01.1,pest control,1995,flowerstrip,1,7.67,2.5,NA,NA,0.497683081251423
+thie01,thie01.1,pest control,1995,flowerstrip,10,7.67,2.5,NA,NA,-0.620384980488498
+thie01,thie01.2,pest control,1995,control,1,NA,NA,NA,NA,0.654096749182627
+thie01,thie01.2,pest control,1995,flowerstrip,1,7.67,2.5,NA,NA,0.9249241151247252
+thie01,thie01.2,pest control,1995,flowerstrip,10,7.67,2.5,NA,NA,-0.42921272032093294
+thie01,thie01.3,pest control,1995,control,1,NA,NA,NA,NA,1.88306127104781
+thie01,thie01.3,pest control,1995,control,10,NA,NA,NA,NA,-1.63997036135781
+thie01,thie01.3,pest control,1995,flowerstrip,1,7.67,2.5,NA,NA,1.18233588557257
+thie01,thie01.3,pest control,1995,flowerstrip,10,7.67,2.5,NA,NA,-0.0502221002931587
+thie01,thie01.4,pest control,1995,control,1,NA,NA,NA,NA,0.24444191047262
+thie01,thie01.4,pest control,1995,control,10,NA,NA,NA,NA,-1.73555649287539
+thie01,thie01.4,pest control,1995,flowerstrip,1,7.67,2.5,NA,NA,0.558510620532636
+thie01,thie01.4,pest control,1995,flowerstrip,10,7.67,2.5,NA,NA,-0.620384980488498
+tsch01,tsch01.10,pest control,2012,flowerstrip,5.3,7,3,21.546,NA,0.636056698533102
+tsch01,tsch01.10,pest control,2012,flowerstrip,15.3,7,3,21.546,NA,0.636056698533102
+tsch01,tsch01.11,pest control,2012,flowerstrip,12.6,7,3,12.359,NA,0.636056698533102
+tsch01,tsch01.11,pest control,2012,flowerstrip,22.6,7,3,12.359,NA,0.636056698533102
+tsch01,tsch01.13,pest control,2012,flowerstrip,7.4,7,3,39.583,NA,0.636056698533102
+tsch01,tsch01.13,pest control,2012,flowerstrip,17.4,7,3,39.583,NA,0.636056698533102
+tsch01,tsch01.14,pest control,2012,flowerstrip,10,6,3,11.354,NA,-0.772394803975982
+tsch01,tsch01.14,pest control,2012,flowerstrip,20,6,3,11.354,NA,-0.209014202972348
+tsch01,tsch01.15,pest control,2012,control,11.1,NA,NA,43.418,NA,0.467042518232012
+tsch01,tsch01.15,pest control,2012,control,21.1,NA,NA,43.418,NA,0.636056698533102
+tsch01,tsch01.16,pest control,2012,control,6.1,NA,NA,26.579,NA,0.298028337930922
+tsch01,tsch01.16,pest control,2012,control,16.1,NA,NA,26.579,NA,0.0445070674792866
+tsch01,tsch01.17,pest control,2012,control,5.5,NA,NA,62.871,NA,0.467042518232012
+tsch01,tsch01.17,pest control,2012,control,15.5,NA,NA,62.871,NA,0.467042518232012
+tsch01,tsch01.18,pest control,2012,control,9.7,NA,NA,24.94,NA,-0.209014202972348
+tsch01,tsch01.18,pest control,2012,control,19.7,NA,NA,24.94,NA,0.636056698533102
+tsch01,tsch01.19,pest control,2012,control,4.6,NA,NA,45.196,NA,0.298028337930922
+tsch01,tsch01.19,pest control,2012,control,14.6,NA,NA,45.196,NA,0.298028337930922
+tsch01,tsch01.2,pest control,2012,flowerstrip,9.3,7,3,5.229,NA,0.636056698533102
+tsch01,tsch01.2,pest control,2012,flowerstrip,19.3,7,3,5.229,NA,0.298028337930922
+tsch01,tsch01.20,pest control,2012,control,8.3,NA,NA,30.392,NA,0.467042518232012
+tsch01,tsch01.20,pest control,2012,control,18.3,NA,NA,30.392,NA,-0.772394803975982
+tsch01,tsch01.21,pest control,2012,control,4.8,NA,NA,9.304,NA,0.636056698533102
+tsch01,tsch01.21,pest control,2012,control,14.8,NA,NA,9.304,NA,0.636056698533102
+tsch01,tsch01.22,pest control,2012,control,11.6,NA,NA,25.415,NA,0.0445070674792866
+tsch01,tsch01.22,pest control,2012,control,21.6,NA,NA,25.415,NA,-1.33577540497962
+tsch01,tsch01.23,pest control,2012,control,4.2,NA,NA,44.971,NA,-1.33577540497962
+tsch01,tsch01.23,pest control,2012,control,14.2,NA,NA,44.971,NA,0.636056698533102
+tsch01,tsch01.24,pest control,2012,control,5.1,NA,NA,21.627,NA,-0.772394803975982
+tsch01,tsch01.24,pest control,2012,control,15.1,NA,NA,21.627,NA,-2.46253660698688
+tsch01,tsch01.25,pest control,2012,control,6.2,NA,NA,6.978,NA,0.467042518232012
+tsch01,tsch01.25,pest control,2012,control,16.2,NA,NA,6.978,NA,0.0445070674792866
+tsch01,tsch01.26,pest control,2012,control,11,NA,NA,18.35,NA,0.636056698533102
+tsch01,tsch01.26,pest control,2012,control,21,NA,NA,18.35,NA,0.298028337930922
+tsch01,tsch01.27,pest control,2012,control,7.1,NA,NA,34.858,NA,0.636056698533102
+tsch01,tsch01.27,pest control,2012,control,17.1,NA,NA,34.858,NA,0.636056698533102
+tsch01,tsch01.28,pest control,2012,control,9.5,NA,NA,46.613,NA,0.0445070674792866
+tsch01,tsch01.28,pest control,2012,control,19.5,NA,NA,46.613,NA,-3.58929780899415
+tsch01,tsch01.29,pest control,2012,control,12,NA,NA,23.754,NA,0.298028337930922
+tsch01,tsch01.29,pest control,2012,control,22,NA,NA,23.754,NA,-0.772394803975982
+tsch01,tsch01.30,pest control,2012,control,5,NA,NA,54.713,NA,0.0445070674792866
+tsch01,tsch01.30,pest control,2012,control,15,NA,NA,54.713,NA,-3.58929780899415
+tsch01,tsch01.4,pest control,2012,flowerstrip,3.6,7,3,16.402,NA,0.636056698533102
+tsch01,tsch01.4,pest control,2012,flowerstrip,13.6,7,3,16.402,NA,0.467042518232012
+tsch01,tsch01.5,pest control,2012,flowerstrip,13.3,7,3,53.826,NA,0.298028337930922
+tsch01,tsch01.5,pest control,2012,flowerstrip,23.3,7,3,53.826,NA,0.467042518232012
+tsch01,tsch01.6,pest control,2012,flowerstrip,3.8,7,3,40.914,NA,0.467042518232012
+tsch01,tsch01.6,pest control,2012,flowerstrip,13.8,7,3,40.914,NA,0.298028337930922
+tsch01,tsch01.9,pest control,2012,flowerstrip,6.6,6,3,17.87,NA,-1.33577540497962
+tsch01,tsch01.9,pest control,2012,flowerstrip,16.6,6,3,17.87,NA,0.636056698533102
+tsch02,tsch02.1,pest control,2013,flowerstrip,1,10,3.5,NA,NA,0.414204219828055
+tsch02,tsch02.1,pest control,2013,flowerstrip,10,10,3.5,NA,NA,0.44748066877830106
+tsch02,tsch02.10,pest control,2013,flowerstrip,1,11,3.5,NA,NA,0.401360678127961
+tsch02,tsch02.10,pest control,2013,flowerstrip,10,11,3.5,NA,NA,0.363413850377681
+tsch02,tsch02.11,pest control,2013,flowerstrip,1,11,3.5,NA,NA,0.333640185527461
+tsch02,tsch02.11,pest control,2013,flowerstrip,10,11,3.5,NA,NA,0.404863462227986
+tsch02,tsch02.12,pest control,2013,flowerstrip,1,10,3.5,NA,NA,-0.268254882326979
+tsch02,tsch02.12,pest control,2013,flowerstrip,10,10,3.5,NA,NA,0.148576425576096
+tsch02,tsch02.21,pest control,2013,control,1,NA,NA,NA,NA,0.159668575226178
+tsch02,tsch02.21,pest control,2013,control,10,NA,NA,NA,NA,-0.24256779892679
+tsch02,tsch02.22,pest control,2013,control,1,NA,NA,NA,NA,0.0160544271251181
+tsch02,tsch02.22,pest control,2013,control,10,NA,NA,NA,NA,0.135732883876001
+tsch02,tsch02.23,pest control,2013,control,1,NA,NA,NA,NA,0.0452442946253338
+tsch02,tsch02.23,pest control,2013,control,10,NA,NA,NA,NA,-1.22976911778407
+tsch02,tsch02.24,pest control,2013,control,1,NA,NA,NA,NA,0.112964787225833
+tsch02,tsch02.24,pest control,2013,control,10,NA,NA,NA,NA,-0.548477610329046
+tsch02,tsch02.26,pest control,2013,control,1,NA,NA,NA,NA,0.0621744177754587
+tsch02,tsch02.26,pest control,2013,control,10,NA,NA,NA,NA,0.253659948576871
+tsch02,tsch02.27,pest control,2013,control,1,NA,NA,NA,NA,-5.42960725371506
+tsch02,tsch02.27,pest control,2013,control,10,NA,NA,NA,NA,-0.741714533180472
+tsch02,tsch02.28,pest control,2013,control,1,NA,NA,NA,NA,0.169593130176251
+tsch02,tsch02.28,pest control,2013,control,10,NA,NA,NA,NA,-0.0464118893253423
+tsch02,tsch02.29,pest control,2013,control,1,NA,NA,NA,NA,0.280514626677069
+tsch02,tsch02.29,pest control,2013,control,10,NA,NA,NA,NA,0.291022978977147
+tsch02,tsch02.30,pest control,2013,control,1,NA,NA,NA,NA,0.342397145777526
+tsch02,tsch02.30,pest control,2013,control,10,NA,NA,NA,NA,0.45915661577838707
+tsch02,tsch02.31,pest control,2013,control,1,NA,NA,NA,NA,0.466162183978439
+tsch02,tsch02.31,pest control,2013,control,10,NA,NA,NA,NA,0.45857281842838293
+tsch02,tsch02.4,pest control,2013,flowerstrip,1,11,3.5,NA,NA,0.401944475477965
+tsch02,tsch02.4,pest control,2013,flowerstrip,10,11,3.5,NA,NA,0.356408282177629
+tsch02,tsch02.5,pest control,2013,flowerstrip,1,10,3.5,NA,NA,0.300363736577216
+tsch02,tsch02.5,pest control,2013,flowerstrip,10,10,3.5,NA,NA,0.177766293076311
+tsch02,tsch02.6,pest control,2013,flowerstrip,1,10,3.5,NA,NA,0.401360678127961
+tsch02,tsch02.6,pest control,2013,flowerstrip,10,10,3.5,NA,NA,0.420042193328099
+tsch02,tsch02.9,pest control,2013,flowerstrip,1,11,3.5,NA,NA,0.291022978977147
+tsch02,tsch02.9,pest control,2013,flowerstrip,10,11,3.5,NA,NA,0.391436123177888
+tsch03,tsch03.1,pest control,2014,flowerstrip,5,NA,38,NA,NA,0.9116470137400299
+tsch03,tsch03.1,pest control,2014,flowerstrip,10,NA,38,NA,NA,0.5623873828345
+tsch03,tsch03.10,pest control,2014,flowerstrip,5,NA,26,NA,NA,0.403633005228102
+tsch03,tsch03.10,pest control,2014,flowerstrip,10,NA,26,NA,NA,-0.167882754097779
+tsch03,tsch03.11,pest control,2014,control,5,NA,NA,NA,NA,-2.48569666871333
+tsch03,tsch03.11,pest control,2014,control,10,NA,NA,NA,NA,-1.78717740633076
+tsch03,tsch03.12,pest control,2014,control,5,NA,NA,NA,NA,0.0226224991061004
+tsch03,tsch03.12,pest control,2014,control,10,NA,NA,NA,NA,0.403633005228102
+tsch03,tsch03.13,pest control,2014,control,5,NA,NA,NA,NA,0.689390885033921
+tsch03,tsch03.13,pest control,2014,control,10,NA,NA,NA,NA,0.657640009436439
+tsch03,tsch03.14,pest control,2014,control,5,NA,NA,NA,NA,0.7211417605361499
+tsch03,tsch03.14,pest control,2014,control,10,NA,NA,NA,NA,0.9116470137400299
+tsch03,tsch03.15,pest control,2014,control,5,NA,NA,NA,NA,-0.739398513709418
+tsch03,tsch03.15,pest control,2014,control,10,NA,NA,NA,NA,-0.167882754097779
+tsch03,tsch03.16,pest control,2014,control,5,NA,NA,NA,NA,0.9116470137400299
+tsch03,tsch03.16,pest control,2014,control,10,NA,NA,NA,NA,0.9116470137400299
+tsch03,tsch03.17,pest control,2014,control,5,NA,NA,NA,NA,-0.8029002650948859
+tsch03,tsch03.17,pest control,2014,control,10,NA,NA,NA,NA,-0.517142385289067
+tsch03,tsch03.18,pest control,2014,control,5,NA,NA,NA,NA,-1.75542653111428
+tsch03,tsch03.18,pest control,2014,control,10,NA,NA,NA,NA,-1.69192477972882
+tsch03,tsch03.19,pest control,2014,control,5,NA,NA,NA,NA,0.895771575941289
+tsch03,tsch03.19,pest control,2014,control,10,NA,NA,NA,NA,0.7211417605361499
+tsch03,tsch03.2,pest control,2014,flowerstrip,5,NA,51,NA,NA,0.27662950302868
+tsch03,tsch03.2,pest control,2014,flowerstrip,10,NA,51,NA,NA,-0.580644136674535
+tsch03,tsch03.20,pest control,2014,control,5,NA,NA,NA,NA,0.244878627526451
+tsch03,tsch03.20,pest control,2014,control,10,NA,NA,NA,NA,0.37188212963062
+tsch03,tsch03.3,pest control,2014,flowerstrip,5,NA,62,NA,NA,0.5623873828345
+tsch03,tsch03.3,pest control,2014,flowerstrip,10,NA,62,NA,NA,0.403633005228102
+tsch03,tsch03.4,pest control,2014,flowerstrip,5,NA,122,NA,NA,0.8163943871380899
+tsch03,tsch03.4,pest control,2014,flowerstrip,10,NA,122,NA,NA,0.213127752024222
+tsch03,tsch03.5,pest control,2014,flowerstrip,5,NA,37,NA,NA,0.8163943871380899
+tsch03,tsch03.5,pest control,2014,flowerstrip,10,NA,37,NA,NA,0.9116470137400299
+tsch03,tsch03.6,pest control,2014,flowerstrip,5,NA,26,NA,NA,-0.8981528916968259
+tsch03,tsch03.6,pest control,2014,flowerstrip,10,NA,26,NA,NA,-1.21566164671912
+tsch03,tsch03.7,pest control,2014,flowerstrip,5,NA,38,NA,NA,0.5623873828345
+tsch03,tsch03.7,pest control,2014,flowerstrip,10,NA,38,NA,NA,0.657640009436439
+tsch03,tsch03.8,pest control,2014,flowerstrip,5,NA,38,NA,NA,-1.85067915771622
+tsch03,tsch03.8,pest control,2014,flowerstrip,10,NA,38,NA,NA,-1.91418090910169
+tsch03,tsch03.9,pest control,2014,flowerstrip,5,NA,50,NA,NA,1.00689964034197
+tsch03,tsch03.9,pest control,2014,flowerstrip,10,NA,50,NA,NA,1.00689964034197
+vent01,vent01.ALLE,pollination,2012,flowerstrip,NA,NA,2,71.42,21.99,-1.03798150438946
+vent01,vent01.ALLE,pollination,2013,flowerstrip,NA,NA,14,71.42,21.99,NA
+vent01,vent01.BBHF,pollination,2012,flowerstrip,NA,NA,2,76.93,18.13,0.35956749540364
+vent01,vent01.BOYI,pollination,2013,flowerstrip,NA,NA,14,NA,NA,0.343221893066878
+vent01,vent01.CURT,pollination,2012,flowerstrip,NA,NA,2,75.46,19.96,-1.47113996631364
+vent01,vent01.CURTC,pollination,2013,flowerstrip,NA,NA,14,90.89,6.77,2.06768293959521
+vent01,vent01.EMER,pollination,2012,flowerstrip,NA,NA,2,89.93,7.08,-0.612995843633666
+vent01,vent01.FOUR,pollination,2012,flowerstrip,NA,NA,2,81,15.05,-0.220701387551391
+vent01,vent01.FOUR,pollination,2013,flowerstrip,NA,NA,14,81,15.05,0.7436891503175341
+vent01,vent01.SIMM,pollination,2012,flowerstrip,NA,NA,2,87.77,8.09,0.35956749540364
+vent01,vent01.SIMM,pollination,2013,flowerstrip,NA,NA,14,87.77,8.09,-1.61007758617611
+vero01,vero01.EE.2014.LS10,pest control,2014,hedgerow,2,NA,NA,36,60,-0.395341518724018
+vero01,vero01.EE.2014.LS10,pest control,2014,hedgerow,25,NA,NA,36,60,-0.332231811960495
+vero01,vero01.EE.2014.LS10,pest control,2014,hedgerow,50,NA,NA,36,60,-1.08924548830833
+vero01,vero01.EE.2014.LS10,pest control,2014,hedgerow,75,NA,NA,36,60,-0.8033214227203461
+vero01,vero01.EE.2014.LS10,pollination,2014,hedgerow,2,NA,NA,36,60,-0.250276385097193
+vero01,vero01.EE.2014.LS10,pollination,2014,hedgerow,25,NA,NA,36,60,-0.366692683494994
+vero01,vero01.EE.2014.LS10,pollination,2014,hedgerow,50,NA,NA,36,60,-1.07862312369692
+vero01,vero01.EE.2014.LS10,pollination,2014,hedgerow,75,NA,NA,36,60,-1.93383516192692
+vero01,vero01.EE.2014.LS14,pest control,2014,hedgerow,2,NA,NA,39,53,0.508835616270791
+vero01,vero01.EE.2014.LS14,pest control,2014,hedgerow,25,NA,NA,39,53,0.256674360620437
+vero01,vero01.EE.2014.LS14,pest control,2014,hedgerow,50,NA,NA,39,53,0.9523974569559369
+vero01,vero01.EE.2014.LS14,pest control,2014,hedgerow,75,NA,NA,39,53,0.8453450178942868
+vero01,vero01.EE.2014.LS14,pollination,2014,hedgerow,2,NA,NA,39,53,0.730307051407354
+vero01,vero01.EE.2014.LS14,pollination,2014,hedgerow,25,NA,NA,39,53,0.0810623103426984
+vero01,vero01.EE.2014.LS14,pollination,2014,hedgerow,50,NA,NA,39,53,-0.232366185343686
+vero01,vero01.EE.2014.LS14,pollination,2014,hedgerow,75,NA,NA,39,53,-0.321917184111224
+vero01,vero01.EE.2014.LS15,pest control,2014,control,2,NA,NA,48,44,0.7612323870515901
+vero01,vero01.EE.2014.LS15,pest control,2014,control,50,NA,NA,48,44,0.47735225846531
+vero01,vero01.EE.2014.LS15,pest control,2014,control,75,NA,NA,48,44,0.197677761447662
+vero01,vero01.EE.2014.LS15,pollination,2014,control,2,NA,NA,48,44,-0.438333482509025
+vero01,vero01.EE.2014.LS15,pollination,2014,control,25,NA,NA,48,44,-0.335349833926356
+vero01,vero01.EE.2014.LS15,pollination,2014,control,50,NA,NA,48,44,-2.6547207020056
+vero01,vero01.EE.2014.LS15,pollination,2014,control,75,NA,NA,48,44,-1.05623537400504
+vero01,vero01.EE.2014.LS16,pest control,2014,hedgerow,2,NA,NA,40,49,-1.06041123571876
+vero01,vero01.EE.2014.LS16,pest control,2014,hedgerow,25,NA,NA,40,49,-2.09859705665435
+vero01,vero01.EE.2014.LS16,pest control,2014,hedgerow,50,NA,NA,40,49,-1.41922580872235
+vero01,vero01.EE.2014.LS16,pest control,2014,hedgerow,75,NA,NA,40,49,0.992542121559898
+vero01,vero01.EE.2014.LS16,pollination,2014,hedgerow,2,NA,NA,40,49,1.76014353723405
+vero01,vero01.EE.2014.LS16,pollination,2014,hedgerow,25,NA,NA,40,49,0.085539860281076
+vero01,vero01.EE.2014.LS16,pollination,2014,hedgerow,50,NA,NA,40,49,-0.702508928873264
+vero01,vero01.EE.2014.LS16,pollination,2014,hedgerow,75,NA,NA,40,49,-0.393557983125255
+vero01,vero01.EE.2014.LS17,pest control,2014,hedgerow,2,NA,NA,76,19,0.266053190240333
+vero01,vero01.EE.2014.LS17,pest control,2014,hedgerow,25,NA,NA,76,19,-0.332231811960495
+vero01,vero01.EE.2014.LS17,pest control,2014,hedgerow,50,NA,NA,76,19,0.235587324171309
+vero01,vero01.EE.2014.LS17,pest control,2014,hedgerow,75,NA,NA,76,19,1.11297611554841
+vero01,vero01.EE.2014.LS17,pollination,2014,hedgerow,2,NA,NA,76,19,1.06164574684725
+vero01,vero01.EE.2014.LS17,pollination,2014,hedgerow,25,NA,NA,76,19,0.80194785042138494
+vero01,vero01.EE.2014.LS17,pollination,2014,hedgerow,50,NA,NA,76,19,0.439266305412853
+vero01,vero01.EE.2014.LS17,pollination,2014,hedgerow,75,NA,NA,76,19,-0.115949886945885
+vero01,vero01.EE.2014.LS18,pest control,2014,control,2,NA,NA,21,57,-0.8600522016847492
+vero01,vero01.EE.2014.LS18,pest control,2014,control,25,NA,NA,21,57,0.109359499212969
+vero01,vero01.EE.2014.LS18,pest control,2014,control,50,NA,NA,21,57,0.00745381200550549
+vero01,vero01.EE.2014.LS18,pest control,2014,control,75,NA,NA,21,57,0.418473417034394
+vero01,vero01.EE.2014.LS18,pollination,2014,control,2,NA,NA,21,57,1.27656814388934
+vero01,vero01.EE.2014.LS18,pollination,2014,control,25,NA,NA,21,57,0.958662098264576
+vero01,vero01.EE.2014.LS18,pollination,2014,control,50,NA,NA,21,57,1.33925384302662
+vero01,vero01.EE.2014.LS18,pollination,2014,control,75,NA,NA,21,57,-1.19056187215635
+vero01,vero01.EE.2014.LS2,pest control,2014,control,2,NA,NA,43,47,-0.15259246657513
+vero01,vero01.EE.2014.LS2,pest control,2014,control,25,NA,NA,43,47,1.43413343273336
+vero01,vero01.EE.2014.LS2,pest control,2014,control,50,NA,NA,43,47,-0.0868836794725182
+vero01,vero01.EE.2014.LS2,pest control,2014,control,75,NA,NA,43,47,-0.27341184931219
+vero01,vero01.EE.2014.LS2,pollination,2014,control,2,NA,NA,43,47,1.10642124623102
+vero01,vero01.EE.2014.LS2,pollination,2014,control,25,NA,NA,43,47,2.29744952983928
+vero01,vero01.EE.2014.LS2,pollination,2014,control,50,NA,NA,43,47,-0.00848868842483982
+vero01,vero01.EE.2014.LS2,pollination,2014,control,75,NA,NA,43,47,0.981049847956461
+vero01,vero01.EE.2014.LS3,pest control,2014,control,2,NA,NA,69,26,1.43413343273336
+vero01,vero01.EE.2014.LS3,pest control,2014,control,25,NA,NA,69,26,-0.332231811960495
+vero01,vero01.EE.2014.LS3,pest control,2014,control,50,NA,NA,69,26,-0.332231811960495
+vero01,vero01.EE.2014.LS3,pest control,2014,control,75,NA,NA,69,26,0.256556603055215
+vero01,vero01.EE.2014.LS3,pollination,2014,control,2,NA,NA,69,26,1.01687024746348
+vero01,vero01.EE.2014.LS3,pollination,2014,control,25,NA,NA,69,26,0.0900174102194536
+vero01,vero01.EE.2014.LS3,pollination,2014,control,50,NA,NA,69,26,-0.796537477579178
+vero01,vero01.EE.2014.LS3,pollination,2014,control,75,NA,NA,69,26,0.143748009479976
+vero01,vero01.EE.2014.LS4,pest control,2014,control,2,NA,NA,26,60,-0.185034708294884
+vero01,vero01.EE.2014.LS4,pest control,2014,control,25,NA,NA,26,60,1.43413343273336
+vero01,vero01.EE.2014.LS4,pest control,2014,control,75,NA,NA,26,60,0.256497724095966
+vero01,vero01.EE.2014.LS4,pollination,2014,control,2,NA,NA,26,60,1.59895173945248
+vero01,vero01.EE.2014.LS4,pollination,2014,control,25,NA,NA,26,60,-0.18311313602154
+vero01,vero01.EE.2014.LS4,pollination,2014,control,50,NA,NA,26,60,0.37658060627557494
+vero01,vero01.EE.2014.LS4,pollination,2014,control,75,NA,NA,26,60,-1.06519047388179
+vero01,vero01.EE.2014.LS6,pest control,2014,hedgerow,2,NA,NA,24,54,1.43413343273336
+vero01,vero01.EE.2014.LS6,pest control,2014,hedgerow,25,NA,NA,24,54,1.43413343273336
+vero01,vero01.EE.2014.LS6,pest control,2014,hedgerow,50,NA,NA,24,54,-1.25747074964045
+vero01,vero01.EE.2014.LS6,pest control,2014,hedgerow,75,NA,NA,24,54,0.0112280966514725
+vero01,vero01.EE.2014.LS6,pollination,2014,hedgerow,2,NA,NA,24,54,0.770605000852746
+vero01,vero01.EE.2014.LS6,pollination,2014,hedgerow,25,NA,NA,24,54,-1.16369657252609
+vero01,vero01.EE.2014.LS6,pollination,2014,hedgerow,50,NA,NA,24,54,0.613890753009553
+vero01,vero01.EE.2014.LS6,pollination,2014,hedgerow,75,NA,NA,24,54,-0.469676332077662
+vero01,vero01.EE.2014.LS8,pest control,2014,control,2,NA,NA,23,71,0.967546386958507
+vero01,vero01.EE.2014.LS8,pest control,2014,control,25,NA,NA,23,71,-0.332231811960495
+vero01,vero01.EE.2014.LS8,pest control,2014,control,50,NA,NA,23,71,0.226516377665933
+vero01,vero01.EE.2014.LS8,pest control,2014,control,75,NA,NA,23,71,-0.52849461690685
+vero01,vero01.EE.2014.LS8,pollination,2014,control,2,NA,NA,23,71,0.649711152516569
+vero01,vero01.EE.2014.LS8,pollination,2014,control,25,NA,NA,23,71,-1.12339862308069
+vero01,vero01.EE.2014.LS8,pollination,2014,control,50,NA,NA,23,71,0.148225559418353
+vero01,vero01.EE.2014.LS8,pollination,2014,control,75,NA,NA,23,71,-1.11892107314232
+vero01,vero01.EE.2014.LS9,pest control,2014,hedgerow,2,NA,NA,31,24,-0.40588924266422893
+vero01,vero01.EE.2014.LS9,pest control,2014,hedgerow,25,NA,NA,31,24,-1.50969088407342
+vero01,vero01.EE.2014.LS9,pest control,2014,hedgerow,50,NA,NA,31,24,-0.225238251681456
+vero01,vero01.EE.2014.LS9,pest control,2014,hedgerow,75,NA,NA,31,24,0.285996023682355
+vero01,vero01.EE.2014.LS9,pollination,2014,hedgerow,2,NA,NA,31,24,0.367625506398822
+vero01,vero01.EE.2014.LS9,pollination,2014,hedgerow,25,NA,NA,31,24,0.470609154981491
+vero01,vero01.EE.2014.LS9,pollination,2014,hedgerow,50,NA,NA,31,24,-1.15026392271096
+vero01,vero01.EE.2014.LS9,pollination,2014,hedgerow,75,NA,NA,31,24,-1.01593742455965
+will01,will01.DUR.CONT,pollination,2012,control,0.5,NA,NA,NA,NA,-0.9635453567551231
+will01,will01.DUR.CONT,pollination,2012,control,10,NA,NA,NA,NA,-0.381135601576126
+will01,will01.DUR.CONT,pollination,2012,control,20,NA,NA,NA,NA,0.608163161369872
+will01,will01.DUR.CONT,pollination,2012,control,40,NA,NA,NA,NA,0.496468140289509
+will01,will01.DUR.CONT,pollination,2012,control,80,NA,NA,NA,NA,-0.234868311799147
+will01,will01.DUR.REST,pollination,2012,flowerstrip,0.5,NA,6,NA,NA,0.496468140289509
+will01,will01.DUR.REST,pollination,2012,flowerstrip,10,NA,6,NA,NA,0.858147257236699
+will01,will01.DUR.REST,pollination,2012,flowerstrip,20,NA,6,NA,NA,-0.458258353959872
+will01,will01.DUR.REST,pollination,2012,flowerstrip,40,NA,6,NA,NA,-0.00881886250574219
+will01,will01.DUR.REST,pollination,2012,flowerstrip,80,NA,6,NA,NA,0.56561267608086
+will01,will01.HER.CONT,pollination,2012,control,0.5,NA,NA,NA,NA,1.13539720074756
+will01,will01.HER.CONT,pollination,2012,control,10,NA,NA,NA,NA,-0.0586822740888673
+will01,will01.HER.CONT,pollination,2012,control,20,NA,NA,NA,NA,-0.898347034072169
+will01,will01.HER.CONT,pollination,2012,control,30,NA,NA,NA,NA,-0.144801735460114
+will01,will01.HER.REST,pollination,2012,flowerstrip,0.5,NA,6,NA,NA,0.267577998912961
+will01,will01.HER.REST,pollination,2012,flowerstrip,10,NA,6,NA,NA,0.340448312873826
+will01,will01.HER.REST,pollination,2012,flowerstrip,20,NA,6,NA,NA,-0.0951174302683589
+will01,will01.HER.REST,pollination,2012,flowerstrip,30,NA,6,NA,NA,0.236111272611892
+will01,will01.MEE.CONT,pollination,2012,control,0.5,NA,NA,NA,NA,1.43307041171101
+will01,will01.MEE.CONT,pollination,2012,control,10,NA,NA,NA,NA,0.217851098085279
+will01,will01.MEE.CONT,pollination,2012,control,20,NA,NA,NA,NA,-0.120816579955234
+will01,will01.MEE.CONT,pollination,2012,control,40,NA,NA,NA,NA,0.344353436115081
+will01,will01.MEE.REST,pollination,2012,flowerstrip,0.5,NA,6,NA,NA,-0.193530521429625
+will01,will01.MEE.REST,pollination,2012,flowerstrip,10,NA,6,NA,NA,-0.7563165163151772
+will01,will01.MEE.REST,pollination,2012,flowerstrip,20,NA,6,NA,NA,-0.488370617210313
+will01,will01.MEE.REST,pollination,2012,flowerstrip,40,NA,6,NA,NA,0.346345598653822
+will01,will01.RRM.CONT,pollination,2011,control,0.5,NA,NA,NA,NA,-1.11761725439108
+will01,will01.RRM.CONT,pollination,2011,control,10,NA,NA,NA,NA,-0.719771235575382
+will01,will01.RRM.CONT,pollination,2011,control,40,NA,NA,NA,NA,-1.64975922377965
+will01,will01.RRM.CONT,pollination,2011,control,80,NA,NA,NA,NA,-0.625351556966406
+will01,will01.RRM.REST,pollination,2011,flowerstrip,0.5,NA,5.25,NA,NA,1.2254574608671
+will01,will01.RRM.REST,pollination,2011,flowerstrip,10,NA,5.25,NA,NA,0.709357670186235
+will01,will01.RRM.REST,pollination,2011,flowerstrip,40,NA,5.25,NA,NA,0.484308826677024
+will01,will01.RRM.REST,pollination,2011,flowerstrip,80,NA,5.25,NA,NA,1.76584969281301
+will01,will01.VLZ.CONT,pollination,2011,control,0.5,NA,NA,NA,NA,-1.35451662238665
+will01,will01.VLZ.CONT,pollination,2011,control,10,NA,NA,NA,NA,-0.0418775452344005
+will01,will01.VLZ.CONT,pollination,2011,control,40,NA,NA,NA,NA,-0.565845000244948
+will01,will01.VLZ.CONT,pollination,2011,control,80,NA,NA,NA,NA,-0.871372614360542
+will01,will01.VLZ.REST,pollination,2011,flowerstrip,0.5,NA,5.75,NA,NA,2.43499468870237
+will01,will01.VLZ.REST,pollination,2011,flowerstrip,10,NA,5.75,NA,NA,1.08291823834857
+will01,will01.VLZ.REST,pollination,2011,flowerstrip,40,NA,5.75,NA,NA,1.39832800075294
+will01,will01.VLZ.REST,pollination,2011,flowerstrip,80,NA,5.75,NA,NA,2.30081259987977
+will01,will01.YNG.CONT,pollination,2011,control,0.5,NA,NA,NA,NA,-0.391271338148116
+will01,will01.YNG.CONT,pollination,2011,control,10,NA,NA,NA,NA,0.212117928287831
+will01,will01.YNG.CONT,pollination,2011,control,40,NA,NA,NA,NA,0.323936709145412
+will01,will01.YNG.CONT,pollination,2011,control,80,NA,NA,NA,NA,1.46913388648654
+will01,will01.YNG.REST,pollination,2011,flowerstrip,0.5,NA,6,NA,NA,-1.64666673351608
+will01,will01.YNG.REST,pollination,2011,flowerstrip,10,NA,6,NA,NA,-1.48785165459506
+will01,will01.YNG.REST,pollination,2011,flowerstrip,40,NA,6,NA,NA,-1.83789305463512
+will01,will01.YNG.REST,pollination,2011,flowerstrip,45,NA,6,NA,NA,-0.807215595668851
+wolt09,wolt09.BreckControl,pest control,2008,control,15,NA,NA,3,95,-0.132104877046568
+wolt09,wolt09.BreckControl,pest control,2009,control,15,NA,NA,5,94,-0.567379127420413
+wolt09,wolt09.BreckEnhancement,pest control,2008,flowerstrip,15,NA,2,6,92,-0.749682041064448
+wolt09,wolt09.BreckEnhancement,pest control,2009,flowerstrip,15,NA,1.5,3,95,0.9816286865622381
+wolt09,wolt09.CassControl,pest control,2008,control,15,NA,NA,25,70,0.543345062544085
+wolt09,wolt09.CassControl,pest control,2009,control,15,NA,NA,25,70,1.25732680571359
+wolt09,wolt09.CassEnhancement,pest control,2008,flowerstrip,15,NA,2,28,66,0.119634192741223
+wolt09,wolt09.CassEnhancement,pest control,2009,flowerstrip,15,NA,1.5,30,64,-0.692336001192727
+wolt09,wolt09.CharControl,pest control,2009,control,15,NA,NA,60,34,0.29829947661677497
+wolt09,wolt09.FowlControl,pest control,2008,control,15,NA,NA,45,44,-0.7774028855948649
+wolt09,wolt09.FowlEnhancement,pest control,2008,flowerstrip,15,NA,2,40,53,0.51204502937878
+wolt09,wolt09.GBControl,pest control,2009,control,15,NA,NA,52,16,3.01289799373113
+wolt09,wolt09.GBEnhancement,pest control,2009,flowerstrip,15,NA,1.5,47,28,2.0554156512928694
+wolt09,wolt09.IthControl,pest control,2008,control,15,NA,NA,37,60,-0.8949659852901252
+wolt09,wolt09.IthEnhancement,pest control,2008,flowerstrip,15,NA,2,48,48,3.62961927704936
+wolt09,wolt09.IthEnhancement,pest control,2009,flowerstrip,15,NA,1.5,24,57,-0.34963478231981
+wolt09,wolt09.LapControl,pest control,2008,control,15,NA,NA,77,10,0.320508139640195
+wolt09,wolt09.LapEnhancement,pest control,2008,flowerstrip,15,NA,2,72,15,-0.677452027205554
+wolt09,wolt09.LerControl,pest control,2008,control,15,NA,NA,26,43,-0.568330186040034
+wolt09,wolt09.LerEnhancement,pest control,2008,flowerstrip,15,NA,2,54,32,-0.316574337722369
+wolt09,wolt09.MasControl,pest control,2008,control,15,NA,NA,37,50,-0.213396987013285
+wolt09,wolt09.MasControl,pest control,2009,control,15,NA,NA,32,57,-0.21310000705761
+wolt09,wolt09.MasEnhancement,pest control,2008,flowerstrip,15,NA,2,32,55,0.38828550720136507
+wolt09,wolt09.MasEnhancement,pest control,2009,flowerstrip,15,NA,1.5,39,49,-0.595610189968535
+wolt09,wolt09.Ox09-1Control,pest control,2009,control,15,NA,NA,48,42,-0.858145222465568
+wolt09,wolt09.Ox09-1Enhancement,pest control,2009,flowerstrip,15,NA,1.5,38,49,-0.737072491188259
+wolt09,wolt09.RichControl,pest control,2008,control,15,NA,NA,45,34,-0.653992406595391
+wolt09,wolt09.RichEnhancement,pest control,2008,flowerstrip,15,NA,2,41,45,-0.746495167449177
+wolt09,wolt09.SagControl,pest control,2008,control,15,NA,NA,30,64,-0.538570327419702
+wolt09,wolt09.SagEnhancement,pest control,2008,flowerstrip,15,NA,2,39,47,-0.512054558246076
+wolt09,wolt09.SilvControl,pest control,2009,control,15,NA,NA,18,73,-0.812923287374446
+wolt09,wolt09.SilvEnhancement,pest control,2009,flowerstrip,15,NA,1.5,19,69,-0.663808852602486
+wolt09,wolt09.SpringControl,pest control,2009,control,15,NA,NA,32,57,-0.714354002828274
+wolt09,wolt09.SpringEnhancement,pest control,2009,flowerstrip,15,NA,1.5,31,58,-0.766521463809115
+wolt09,wolt09.StockControl,pest control,2008,control,15,NA,NA,36,56,-0.330615056439644
+wolt09,wolt09.StockEnhancement,pest control,2008,flowerstrip,15,NA,2,40,54,1.04979261459839
+wolt09,wolt09.VermControl,pest control,2008,control,15,NA,NA,73,25,1.12464860381657
+wolt09,wolt09.VermControl,pest control,2009,control,15,NA,NA,38,54,-0.464625369019159
+wolt09,wolt09.VermEnhancement,pest control,2009,flowerstrip,15,NA,1.5,41,49,-0.737957371881323
+wolt09,wolt09.VicksControl,pest control,2008,control,15,NA,NA,49,28,0.686078219962748
+wolt09,wolt09.VicksControl,pest control,2009,control,15,NA,NA,30,62,-0.61658320183834
+wolt09,wolt09.VicksEnhancement,pest control,2008,flowerstrip,15,NA,2,40,25,0.909973368854765
+wolt09,wolt09.VicksEnhancement,pest control,2009,flowerstrip,15,NA,1.5,45,39,0.262742048304035
+wolt09,wolt09.WestControl,pest control,2009,control,15,NA,NA,22,67,-0.442925370256518
+wolt09,wolt09.WestEnhancement,pest control,2009,flowerstrip,15,NA,1.5,31,64,-0.794691576726519

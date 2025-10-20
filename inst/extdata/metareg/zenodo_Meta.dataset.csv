@@ -1,0 +1,68 @@
+Study,Host species,Host,Host reproduction,Parasite,Parasite type,General Or Specific,Ability to cause death,Environment,Parasite measure,PGSN,Micro or macro,nTotal,n1i,n2i,m1i,m2i,sd1i,sd2i,tval,dval
+1a,Daphnia magna,Daphnia,Both,Octosporea bayeri,Fungus,Specific,Yes,Lab,Parasite load,1 Genotype,Microparasites,6,3,3,1,0.9532164,0,0.050712317,NA,NA
+1b,Daphnia magna,Daphnia,Both,Octosporea bayeri,Fungus,Specific,Yes,Lab,Parasite load,>1 Genotype,Microparasites,6,3,3,1,0.9595376,0,0.025468629,NA,NA
+2a,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite load,>Species,Microparasites,19,12,7,239.3042,129.6086,136.04705,80.52968,NA,NA
+2b,Bumblebee (Bombus terrestris),Insect,Sexual,Nosema bombi,Fungus,General,No,Field,Parasite load,>Species,Microparasites,19,12,7,1.42583,2.17714,1.1486,5.68101,NA,NA
+2c,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite load,>Species,Microparasites,19,12,7,0.68292,0.56157,0.27458,0.25405,NA,NA
+2d,Bumblebee (Bombus terrestris),Insect,Sexual,Nosema bombi,Fungus,General,No,Field,Parasite load,>Species,Microparasites,19,12,7,0.13383,0.03457,0.13109,0.05264,NA,NA
+3a,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite load,>Species,Microparasites,28,18,10,76.27333,60.806,21.79612,32.59231,NA,NA
+3b,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite load,>Species,Microparasites,35,18,17,76.27333,48.00941,21.79612,23.68432,NA,NA
+3c,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite prevalence,>Species,Microparasites,28,18,10,0.67685,0.62599,0.15639,0.28026,NA,NA
+3d,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,18,17,0.67685,0.5444,0.15639,0.20223,NA,NA
+4a,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite load,>Species,Microparasites,20,16,4,77.21965,69.4125,21.79095,45.92959,NA,NA
+4b,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite load,>Species,Microparasites,28,16,12,77.21965,53.14282,21.79095,21.6865,NA,NA
+4c,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite prevalence,>Species,Microparasites,20,16,4,0.669278,0.6252976,0.1560824,0.2078336,NA,NA
+4d,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Field,Parasite prevalence,>Species,Microparasites,28,16,12,0.669278,0.5920975,0.1560824,0.142305,NA,NA
+5a,Termite (Zootermopsis angusticollis),Insect,Sexual,Metarhizium anisopliae,Fungus,General,Yes,Lab,Parasite load,>1 Genotype,Microparasites,10,5,5,44,25,53,43,NA,NA
+6a,Honeybee (A. mellifera L.),Insect,Sexual,Varroa destructor,Mite,General,Yes,Lab,Parasite load,>Species,Macroparasites,35,11,24,81,322,162.5146147,195.9591794,NA,NA
+6b,Honeybee (A. mellifera L.),Insect,Sexual,Varroa destructor,Mite,General,Yes,Lab,Parasite load,>Species,Macroparasites,35,11,24,100,50,129.3483668,308.6357076,NA,NA
+6c,Honeybee (A. mellifera L.),Insect,Sexual,Varroa destructor,Mite,General,Yes,Lab,Host mortality,>Species,Macroparasites,35,11,24,1.6,3.2,0.928654941,1.959591794,NA,NA
+6d,Honeybee (A. mellifera L.),Insect,Sexual,Varroa destructor,Mite,General,Yes,Field,Host mortality,>Species,Macroparasites,35,11,24,0.002493,0.003845,0.002510685,0.002620954,NA,NA
+6e,Honeybee (A. mellifera L.),Insect,Sexual,Varroa destructor,Mite,General,Yes,Field,Parasite prevalence,>Species,Macroparasites,36,12,24,0.0458,0.0547,0.030830504,0.036252448,NA,NA
+6f,Honeybee (A. mellifera L.),Insect,Sexual,Deformed Wing Virus,Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,11,24,0.998,0.4898,0.802623199,0.940604061,NA,NA
+6g,Honeybee (A. mellifera L.),Insect,Sexual,Black Queen Cell Virus,Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,11,24,0.53,0.32,0.596992462,0.783836718,NA,NA
+6h,Honeybee (A. mellifera L.),Insect,Sexual,Israeli Acute Paralysis Virus,Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,11,24,0.12,0.051,0.298496231,0.489897949,NA,NA
+6i,Honeybee (A. mellifera L.),Insect,Sexual,Deformed Wing Virus,Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,11,24,0.92,0.795,0.961821189,0.999391815,NA,NA
+6j,Honeybee (A. mellifera L.),Insect,Sexual,Black Queen Cell Virus,Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,11,24,0.5,0.899,0.653375084,0.886715287,NA,NA
+6k,Honeybee (A. mellifera L.),Insect,Sexual,Israeli Acute Paralysis Virus,Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,35,11,24,0.181,0.13,0.464327471,0.440908154,NA,NA
+7a,Daphnia magna,Daphnia,Sexual,Glugoides intestinalis,Fungus,Specific,No,Lab,Parasite prevalence,>Species,Microparasites,30,15,15,0.67,0.68,0.749999999,1.049999999,NA,NA
+7b,Daphnia magna,Daphnia,Sexual,Ordospora colligata,Fungus,Specific,No,Lab,Parasite prevalence,>Species,Microparasites,30,15,15,0.64,0.71,0.675000002,0.600000001,NA,NA
+7c,Daphnia magna,Daphnia,Sexual,Microsporidium sp. (undescribed species),Fungus,General,No,Lab,Parasite prevalence,>Species,Microparasites,30,15,15,0.28,0.4,1.200000001,0.900000001,NA,NA
+8a,New Zealand Robin (Petroica australis),Bird,Sexual,Hippoboscid flies (Ornithomya spp. And Prnithoica spp.),Fly,General,No,Field,Parasite load,>Species,Macroparasites,4,2,2,1.525,2.015254,2.4,2.51442,NA,NA
+8b,New Zealand Robin (Petroica australis),Bird,Sexual,Feather mite,Mite,General,No,Field,Parasite load,>Species,Macroparasites,4,2,2,1.9,1.131371,0.9,0,NA,NA
+9a,Ant (Acromyrmex echinatior),Insect,Sexual,Metarhizium anisopliae (strain KVL 02-73),Fungus,General,Yes,Lab,Host mortality,1 Genotype,Microparasites,108,54,54,2.1,2.13,1.102270384,0.881816307,NA,NA
+9b,Ant (Acromyrmex echinatior),Insect,Sexual,Metarhizium anisopliae (strain KVL 02-73),Fungus,General,Yes,Lab,Host mortality,1 Genotype,Microparasites,108,54,54,1.5,1.06,1.102270384,3.747719306,NA,NA
+10a,Bumblebee (Bombus terrestris),Insect,Sexual,Multiple,Many,General,Yes,Field,Parasite prevalence,>Species,Microparasites,17,7,10,0.524,0.27,0.153571429,0.067346939,NA,NA
+10b,Bumblebee (Bombus terrestris),Insect,Sexual,Multiple,Many,General,Yes,Field,Parasite load,>Species,Microparasites,17,7,10,0.575,0.312,0.793221281,0.626099034,NA,NA
+11a,Bumblebee (Bombus terrestris),Insect,Sexual,Nosema bombi,Fungus,General,No,Field,Parasite prevalence,>1 Genotype,Microparasites,22,11,11,12.2,16.4,4.76,7.09,NA,NA
+12a,Italian agile frog (Rana latastei),Amphibian,Sexual,Ranavirus (frog virus 3),Virus,General,Yes,Field,Host mortality,>1 Genotype,Microparasites,20,10,10,9.9,5.8,0.3162278,2.8596814,NA,NA
+12b,Italian agile frog (Rana latastei),Amphibian,Sexual,Ranavirus (frog virus 3),Virus,General,Yes,Field,Host mortality,>1 Genotype,Microparasites,20,10,10,9.6,5.7,0.6992059,3.3015148,NA,NA
+12c,Italian agile frog (Rana latastei),Amphibian,Sexual,Ranavirus (frog virus 3),Virus,General,Yes,Field,Host mortality,>1 Genotype,Microparasites,20,10,10,9.4,6.5,1.0749677,2.8771128,NA,NA
+13a,Ant (Formica selysi),Insect,Sexual,Metarhizium anisopliae,Fungus,General,Yes,Lab,Host mortality,1 Genotype,Microparasites,55,27,28,30,39,20.78460969,26.45751311,NA,NA
+13b,Ant (Formica selysi),Insect,Sexual,Metarhizium anisopliae,Fungus,General,Yes,Lab,Host mortality,1 Genotype,Microparasites,96,64,32,49,44,40,28.28427125,NA,NA
+13c,Ant (Formica selysi),Insect,Sexual,Metarhizium anisopliae,Fungus,General,Yes,Lab,Host mortality,>Species,Microparasites,80,64,16,49,38,40,20,NA,NA
+14a,Ant (Monomorium pharaonis),Insect,Sexual,Beauveria bassiana,Fungus,General,Yes,Lab,Host mortality,>1 Genotype,Microparasites,28,11,17,0.218,0.17,0.34744898,0.387755102,NA,NA
+14b,Ant (Monomorium pharaonis),Insect,Sexual,Beauveria bassiana,Fungus,General,Yes,Lab,Host mortality,>1 Genotype,Microparasites,35,18,17,0.104,0.17,0.434693878,0.387755102,NA,NA
+14c,Ant (Monomorium pharaonis),Insect,Sexual,Beauveria bassiana,Fungus,General,Yes,Lab,Host mortality,>1 Genotype,Microparasites,26,9,17,0.095,0.17,0.428571429,0.387755102,NA,NA
+15a,Honeybee (A. mellifera L.),Insect,Sexual,Paenibacillus larvae - American foulbrood,Bacteria,General,Yes,Field,Parasite prevalence,>1 Genotype,Microparasites,49,24,25,23.0143,2.7357,25.3902,4.3978,NA,NA
+15b,Honeybee (A. mellifera L.),Insect,Sexual,Paenibacillus larvae - American foulbrood,Bacteria,General,Yes,Field,Parasite prevalence,>1 Genotype,Microparasites,49,24,25,51.3071,5.9429,54.0782,8.7938,NA,NA
+16a,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Lab,Parasite prevalence,>1 Genotype,Microparasites,55,12,43,NA,NA,NA,NA,3.01,NA
+16b,Bumblebee (Bombus terrestris),Insect,Sexual,Crithidia bombi,Protozoa,General,Yes,Lab,Parasite prevalence,>1 Genotype,Microparasites,31,12,19,NA,NA,NA,NA,2.05,NA
+17a,Guppy (Poecilia reticulata),Fish,Sexual,Gyrodactylus turnbulii (strain Gt3),Worm,General,Yes,Lab,Parasite load,>1 Genotype,Macroparasites,72,36,36,123,60,192,132,NA,NA
+18a,Daphnia dentifera,Daphnia,Sexual,Metschnikowia bicuspidata,Fungus,General,Yes,Lab,Parasite prevalence,>1 Genotype,Microparasites,20,10,10,0.09107143,0.19558613,0.140846465,0.060373478,NA,NA
+19a,Honeybee (A. mellifera L.),Insect,Sexual,Sacbrood (a viral disease),Virus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,20,10,10,NA,NA,NA,NA,0.18,NA
+19b,Honeybee (A. mellifera L.),Insect,Sexual,Acosphaera apis (chalkbrood disease),Fungus,General,Yes,Field,Parasite prevalence,>Species,Microparasites,20,10,10,NA,NA,NA,NA,2.36,NA
+19c,Honeybee (A. mellifera L.),Insect,Sexual,European foulbrood (Melissoccus plutonius),Bacteria,General,Yes,Field,Parasite prevalence,>Species,Microparasites,20,10,10,NA,NA,NA,NA,1.29,NA
+19d,Honeybee (A. mellifera L.),Insect,Sexual,Paenibacillus larvae - American foulbrood,Bacteria,General,Yes,Field,Parasite prevalence,>Species,Microparasites,20,10,10,NA,NA,NA,NA,1.5,NA
+20a,Honeybee (A. mellifera L.),Insect,Sexual,Acosphaera apis (chalkbrood disease),Fungus,General,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,48,24,24,1.51535,1.74315,1.15359,0.20817,NA,NA
+21a,Pseudomonas aeruginosa,Bacteria,Asexual,Bacteriophage,Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,56,48,8,139250004.2,14870150,243258244,34150392.16,NA,NA
+21b,Pseudomonas aeruginosa,Bacteria,Asexual,Bacteriophage,Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,56,48,8,139250004.2,880200,243258244,2031311.506,NA,NA
+21c,Pseudomonas aeruginosa,Bacteria,Asexual,Bacteriophage,Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,54,48,6,139250004.2,1,243258244,0,NA,NA
+21d,Pseudomonas aeruginosa,Bacteria,Asexual,Bacteriophage,Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,54,48,6,139250004.2,1,243258244,0,NA,NA
+21e,Streptococcus thermophilus,Bacteria,Asexual,Bacteriophage,Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,72,44,28,211501381.8,33.05900026,341040842,312.724345,NA,NA
+22a,Rainbow trout (Oncorhynchus mykiss),Fish,Sexual,Infectious hematopoietic necrosis virus (IHNV),Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,5,2,3,8.001,7.877,0.907625473,1.195723212,NA,NA
+22b,Rainbow trout (Oncorhynchus mykiss),Fish,Sexual,Infectious hematopoietic necrosis virus (IHNV),Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,5,2,3,6.649,6.768,1.019803903,1.175215299,NA,NA
+22c,Rainbow trout (Oncorhynchus mykiss),Fish,Sexual,Infectious hematopoietic necrosis virus (IHNV),Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,4,2,2,7.558,7.492,1.060877467,1.267850543,NA,NA
+22d,Rainbow trout (Oncorhynchus mykiss),Fish,Sexual,Infectious hematopoietic necrosis virus (IHNV),Virus,Specific,Yes,Lab,Parasite prevalence,1 Genotype,Microparasites,4,2,2,8.234,7.894,1.035376446,1.445423322,NA,NA
+23a,Galapagos Hawk (Buteo galapagoensis),Bird,Sexual,Colpocephalum turbinatum,Louse,General,No,Field,Parasite load,>Species,Macroparasites,8,4,4,145.08702,55.19696,48.69301,26.90481,NA,NA
+23b,Galapagos Hawk (Buteo galapagoensis),Bird,Sexual,Degeerialla regalis,Louse,General,No,Field,Parasite load,>Species,Macroparasites,8,4,4,29.56202,12.15676,18.979819,7.104464,NA,NA

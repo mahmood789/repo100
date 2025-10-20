@@ -1,0 +1,127 @@
+Species,PaperID,Experimental treatment,Type of manipulation,Sex,Control,...7,Treatment,...9,OR,log(OR),SE log(OR),95% CI log(OR),Source
+NA,NA,NA,NA,NA,Dead,Alive,Dead,Alive,NA,NA,NA,NA,NA
+Aegolius funereus,Paper027,Enlarged,Brood size,Male,18,7,15,5,0.857,-0.154,0.682,-1.490 to 1.182,"Korpim_ki, E. 1988. Costs of reproduction and success of manipulated broods under varying food conditions in Tengmalm's owl. J. Anim. Ecol. 57: 1027_1039."
+Aegolius funereus,Paper027,Reduced,Brood size,Male,18,7,16,4,0.643,-0.442,0.715,-1.842 to 0.959,NA
+Catharacta skua,Paper023,Enlarged,Egg removal,Female,8,146,2,44,1.205,0.187,0.809,-1.398 to 1.772,"Kalmbach, E., Griffiths, R., Crane, J.E. & Furness, R.W. 2004. Effects of experimentally increased egg production on female body condition and laying dates in the great skua Stercorarius skua. J. Avian Biol. 35: 501_514."
+Catharacta skua,Paper023,Enlarged,Egg removal,Female,31,123,7,35,1.26,0.231,0.46,-0.670 to 1.133,NA
+Colaptes auratus,Paper050,Enlarged,Mate removal,Female,4,3,7,0,0.095,-2.351,1.651,-5.587 to 0.884,"Wiebe, K.L. 2005. Asymmetric costs favor female desertion in the facultatively polyandrous northern flicker (Colaptes auratus): a removal experiment. Behav. Ecol. Sociobiol. 57: 429_437."
+Colaptes auratus,Paper050,Enlarged,Mate removal,Male,6,10,10,6,0.36,-1.022,0.73,-2.453 to 0.409,NA
+Cyanistes caeruleus,Paper038,Reduced,Brood size,Female,16,11,51,30,0.856,-0.156,0.454,-1.046 to 0.734,"Pettifor, R.A. 1993. Brood-manipulation experiments. II. A cost of reproduction in blue tits (Parus caeruleus)? J. Anim. Ecol. 62: 145_159."
+Cyanistes caeruleus,Paper038,Enlarged,Brood size,Female,16,11,10,2,0.291,-1.235,0.868,-2.936 to 0.466,NA
+Cyanistes caeruleus,Paper038,Reduced,Brood size,Female,21,11,66,28,0.81,-0.211,0.435,-1.063 to 0.642,NA
+Cyanistes caeruleus,Paper038,Enlarged,Brood size,Female,21,11,18,8,0.848,-0.164,0.565,-1.271 to 0.942,NA
+Cyanistes caeruleus,Paper038,Reduced,Brood size,Female,43,4,122,18,1.586,0.461,0.581,-0.676 to 1.599,NA
+Cyanistes caeruleus,Paper038,Enlarged,Brood size,Female,43,4,17,6,3.794,1.333,0.706,-0.050 to 2.717,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Female,16,5,13,9,2.215,0.795,0.671,-0.520 to 2.111,"Nur, N. 1984. The consequences of brood size for breeding blue tits I. Adult survival, weight change and the cost of reproduction. J. Anim. Ecol. 53: 479_496."
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Female,16,5,15,5,1.067,0.065,0.727,-1.361 to 1.490,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Female,16,5,17,4,0.753,-0.284,0.756,-1.765 to 1.197,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Female,16,5,17,4,0.753,-0.284,0.756,-1.765 to 1.197,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Female,10,2,11,1,0.455,-0.788,1.3,-3.337 to 1.760,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Female,10,2,9,3,1.667,0.511,1.022,-1.492 to 2.513,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Female,10,2,9,3,1.667,0.511,1.022,-1.492 to 2.513,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Female,10,2,9,2,1.111,0.105,1.101,-2.051 to 2.262,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Female,9,1,7,3,3.857,1.35,1.26,-1.119 to 3.819,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Female,9,1,8,2,2.25,0.811,1.318,-1.771 to 3.393,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Female,9,1,9,1,1,0,1.491,-2.921 to 2.921,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Female,9,1,11,0,0.409,-0.894,1.789,-4.401 to 2.613,NA
+Cyanistes caeruleus,Paper038,Reduced,Brood size,Male,9,3,44,12,0.818,-0.201,0.742,-1.654 to 1.253,"Pettifor, R.A. 1993. Brood-manipulation experiments. II. A cost of reproduction in blue tits (Parus caeruleus)? J. Anim. Ecol. 62: 145_159."
+Cyanistes caeruleus,Paper038,Enlarged,Brood size,Male,9,3,11,0,0.136,-1.992,1.592,-5.113 to 1.128,NA
+Cyanistes caeruleus,Paper038,Reduced,Brood size,Male,18,4,39,13,1.5,0.405,0.639,-0.846 to 1.657,NA
+Cyanistes caeruleus,Paper038,Enlarged,Brood size,Male,18,4,17,1,0.265,-1.329,1.168,-3.618 to 0.960,NA
+Cyanistes caeruleus,Paper038,Reduced,Brood size,Male,16,0,32,4,4,1.386,1.531,-1.614 to 4.386,NA
+Cyanistes caeruleus,Paper038,Enlarged,Brood size,Male,16,0,23,3,4.174,1.429,1.562,-1.632 to 4.490,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Male,13,6,10,3,0.65,-0.431,0.823,-2.043 to 1.181,"Nur, N. 1984. The consequences of brood size for breeding blue tits I. Adult survival, weight change and the cost of reproduction. J. Anim. Ecol. 53: 479_496."
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Male,13,6,15,2,0.289,-1.242,0.9,-3.005 to 0.522,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Male,13,6,10,6,1.3,0.262,0.714,-1.137 to 1.662,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Male,13,6,7,8,2.476,0.907,0.715,-0.494 to 2.308,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Male,5,5,8,0,0.063,-2.773,1.589,-5.887 to 0.341,NA
+Cyanistes caeruleus,Paper032,Reduced,Brood size,Male,5,5,10,0,0.05,-2.996,1.581,-6.094 to 0.103,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Male,5,5,8,0,0.063,-2.773,1.589,-5.887 to 0.341,NA
+Cyanistes caeruleus,Paper032,Enlarged,Brood size,Male,5,5,5,2,0.4,-0.916,1.049,-2.971 to 1.139,NA
+Falco sparverius,Paper008,Reduced,Brood size,Female,34,4,28,7,2.125,0.754,0.677,-0.572 to 2.080,"Dawson, R. & Bortolotti, G. 2003. Parental effort of American kestrels: The role of variation in brood size. Can. J. Zool. 81: 852_860."
+Falco sparverius,Paper008,Reduced,Brood size,Male,12,10,20,9,0.54,-0.616,0.587,-1.766 to 0.534,NA
+Falco tinnunculus,Paper007,Enlarged,Brood size,Female,55,44,29,22,0.948,-0.053,0.348,-0.734 to 0.628,"Daan, S., Deerenberg, C. & Dijkstra, C. 1996. Increased daily work precipitates natural death in the kestrel. J. Anim. Ecol. 65: 539_544."
+Falco tinnunculus,Paper007,Reduced,Brood size,Female,55,44,17,27,1.985,0.686,0.37,-0.039 to 1.410,NA
+Falco tinnunculus,Paper009,Enlarged,Brood size,Female,19,15,15,7,0.591,-0.526,0.573,-1.649 to 0.598,"Dijkstra, C., Bult, A., Bijlsma, S., Daan, S., Meijer, T. & Zijlstra, M. 1990. Brood size manipulations in the kestrel (Falco tinnunculus): effects on offspring and parent survival. J. Anim. Ecol. 59: 269_285."
+Falco tinnunculus,Paper009,Reduced,Brood size,Female,19,15,14,16,1.448,0.37,0.503,-0.616 to 1.356,NA
+Falco tinnunculus,Paper026,Enlarged,Brood size,Female,34,6,35,3,0.486,-0.722,0.747,-2.186 to 0.741,"Korpim_ki, E. & Rita, H. 1996. Effects of brood size manipulations on offspring and parental survival in the European kestrel under fluctuating food conditions. Ecoscience 3: 264_273."
+Falco tinnunculus,Paper026,Reduced,Brood size,Female,34,6,26,8,1.744,0.556,0.6,-0.619 to 1.731,NA
+Falco tinnunculus,Paper007,Enlarged,Brood size,Male,40,52,24,24,0.769,-0.262,0.357,-0.962 to 0.437,"Daan, S., Deerenberg, C. & Dijkstra, C. 1996. Increased daily work precipitates natural death in the kestrel. J. Anim. Ecol. 65: 539_544."
+Falco tinnunculus,Paper007,Reduced,Brood size,Male,40,52,15,24,1.231,0.208,0.391,-0.557 to 0.973,NA
+Falco tinnunculus,Paper009,Enlarged,Brood size,Male,11,17,10,8,0.518,-0.658,0.612,-1.858 to 0.541,"Dijkstra, C., Bult, A., Bijlsma, S., Daan, S., Meijer, T. & Zijlstra, M. 1990. Brood size manipulations in the kestrel (Falco tinnunculus): effects on offspring and parent survival. J. Anim. Ecol. 59: 269_285."
+Falco tinnunculus,Paper009,Reduced,Brood size,Male,11,17,7,16,1.479,0.391,0.596,-0.776 to 1.559,NA
+Falco tinnunculus,Paper026,Enlarged,Brood size,Male,31,9,29,7,0.831,-0.185,0.566,-1.294 to 0.925,"Korpim_ki, E. & Rita, H. 1996. Effects of brood size manipulations on offspring and parental survival in the European kestrel under fluctuating food conditions. Ecoscience 3: 264_273."
+Falco tinnunculus,Paper026,Reduced,Brood size,Male,31,9,28,4,0.492,-0.709,0.655,-1.993 to 0.574,NA
+Ficedula albicollis,Paper015,Enlarged,Brood size,Female,24,41,21,35,0.976,-0.025,0.377,-0.763 to 0.714,"Gustafsson, L. & Sutherland, W.J. 1988. The costs of reproduction in the collared flycatcher Ficedula albicollis. Nature 335: 813_815."
+Ficedula albicollis,Paper015,Reduced,Brood size,Female,24,41,23,38,0.967,-0.033,0.369,-0.755 to 0.688,NA
+Ficedula albicollis,Paper015,Enlarged,Brood size,Female,24,41,25,36,0.843,-0.171,0.366,-0.887 to 0.546,NA
+Ficedula albicollis,Paper015,Reduced,Brood size,Female,24,41,23,37,0.942,-0.06,0.37,-0.784 to 0.664,NA
+Ficedula albicollis,Paper015,Enlarged,Brood size,Male,31,31,26,25,0.962,-0.039,0.378,-0.780 to 0.701,NA
+Ficedula albicollis,Paper015,Reduced,Brood size,Male,31,31,23,31,1.348,0.298,0.375,-0.435 to 1.032,NA
+Ficedula albicollis,Paper015,Enlarged,Brood size,Male,31,31,26,33,1.269,0.238,0.365,-0.477 to 0.953,NA
+Ficedula albicollis,Paper015,Reduced,Brood size,Male,31,31,24,28,1.167,0.154,0.377,-0.584 to 0.892,NA
+Ficedula hypoleuca,Paper042,Enlarged,Clutch size,Female,20,13,10,12,1.846,0.613,0.557,-0.478 to 1.704,"Sanz, J. 1997. Clutch size manipulation in the Pied Flycatcher: Effects on nestling growth, parental care and moult. J. Avian Biol. 28: 157_162."
+Ficedula hypoleuca,Paper042,Reduced,Clutch size,Female,20,13,8,14,2.692,0.99,0.569,-0.124 to 2.104,NA
+Ficedula hypoleuca,Paper053,Enlarged,Clutch size,Female,88,4,72,6,1.833,0.606,0.665,-0.696 to 1.909,"Siikam_ki, P. & Hovi, M. 1997. Low male return rate due to clutch enlargements in the pied flycatcher (Ficedula hypoleuca). Ecoscience 4: 24_28."
+Ficedula hypoleuca,Paper053,Reduced,Clutch size,Female,88,4,77,2,0.571,-0.56,0.88,-2.284 to 1.165,NA
+Ficedula hypoleuca,Paper002,Enlarged,Brood size,Male,45,28,31,7,0.363,-1.014,0.483,-1.959 to -0.06,"Askenmo, C. 1979. Reproductive effort and return rate of male pied flycatchers. Am. Nat. 114: 748_753."
+Ficedula hypoleuca,Paper053,Enlarged,Clutch size,Male,42,19,39,3,0.17,-1.772,0.66,-3.065 to -0.47,"Siikam_ki, P. & Hovi, M. 1997. Low male return rate due to clutch enlargements in the pied flycatcher (Ficedula hypoleuca). Ecoscience 4: 24_28."
+Ficedula hypoleuca,Paper053,Reduced,Clutch size,Male,42,19,23,8,0.769,-0.263,0.495,-1.232 to 0.707,NA
+Hirundo rustica,Paper041,Enlarged,Brood size,Female,26,10,17,19,2.906,1.067,0.5,0.0869 to 2.046,"Saino, N., Calza, S., Ninni, P. & MÀller, A.P. 1999. Barn swallows trade survival against offspring condition and immunocompetence. J. Anim. Ecol. 68: 999_1009."
+Hirundo rustica,Paper041,Enlarged,Brood size,Male,19,17,24,12,0.559,-0.582,0.486,-1.535 to 0.371,NA
+Motacilla cinerea,Paper024,Enlarged,Brood size,Male,10,7,12,3,0.357,-1.03,0.812,-2.621 to 0.562,"Klemp, S. 2000. Effects of parental effort on second brood, moult and survival in the Grey Wagtail Motacilla cinerea. Ardea 88: 91_98."
+Parus major,Paper021,Reduced,Brood size,Female,50,12,44,7,0.663,-0.411,0.519,-1.427 to 0.605,"HÝrak, P. 2003. When to pay the cost of reproduction? A brood size manipulation experiment in great tits (Parus major). Behav. Ecol. Sociobiol. 54: 105_112."
+Parus major,Paper021,Enlarged,Brood size,Female,50,12,21,11,2.183,0.78,0.492,-0.183 to 1.744,NA
+Parus major,Paper046,Enlarged,Brood size,Female,21,20,33,25,0.795,-0.229,0.41,-1.032 to 0.574,"Tinbergen, J.M. & Both, C. 1999. Is clutch size individually optimized? Behav. Ecol. 10: 504_509."
+Parus major,Paper046,Reduced,Brood size,Female,21,20,31,26,0.881,-0.127,0.41,-0.931 to 0.677,NA
+Parus major,Paper047,Enlarged,Clutch size,Female,12,7,11,8,1.247,0.221,0.665,-1.082 to 1.523,"Visser, M.E. & Lessells, C.M. 2001. The costs of egg production and incubation in great tits (Parus major). Proc. R. Soc. Lond. B Biol. Sci. 268: 1271_1277."
+Parus major,Paper047,Enlarged,Clutch size,Female,12,7,4,7,3,1.099,0.787,-0.443 to 2.640,NA
+Parus major,Paper047,Enlarged,Clutch size,Female,12,7,3,6,3.429,1.232,0.852,-0.438 to 2.902,NA
+Parus major,Paper047,Enlarged,Clutch size,Female,14,8,15,4,0.467,-0.762,0.716,-2.166 to 0.641,NA
+Parus major,Paper047,Enlarged,Clutch size,Female,14,8,11,4,0.636,-0.452,0.733,-1.888 to 0.984,NA
+Parus major,Paper047,Enlarged,Clutch size,Female,14,8,7,6,1.5,0.405,0.711,-0.988 to 1.799,NA
+Parus major,Paper046,Enlarged,Brood size,Male,23,16,33,20,0.871,-0.138,0.432,-0.983 to 0.708,"Tinbergen, J.M. & Both, C. 1999. Is clutch size individually optimized? Behav. Ecol. 10: 504_509."
+Parus major,Paper046,Reduced,Brood size,Male,23,16,41,12,0.421,-0.866,0.462,-1.771 to 0.040,NA
+Passer domesticus,Paper018,Reduced,Brood size,Female,5,3,3,3,1.667,0.511,1.095,-1.636 to 2.657,"Hegner, R.E. & Wingfield, J.C. 1987. Effects of brood-size manipulations on parental investment, breeding success, and reproductive endocrinology of house sparrows. Auk 104: 470_480."
+Passer domesticus,Paper018,Enlarged,Brood size,Female,5,3,3,2,1.111,0.105,1.169,-2.185 to 2.396,NA
+Passer domesticus,Paper018,Reduced,Brood size,Male,4,4,2,4,2,0.693,1.118,-1.498 to 2.884,NA
+Passer domesticus,Paper018,Enlarged,Brood size,Male,4,4,4,1,0.25,-1.386,1.323,-3.979 to 1.206,NA
+Poecile montanus,Paper034,Enlarged,Brood size,Female,62,124,35,62,0.886,-0.121,0.262,-0.635 to 0.393,"Orell, M., Rytk_nen, S., Koivula, K., Ronkainen, M. & Rahiala, M. 1996. Brood size manipulations within the natural range did not reveal intragenerational cost of reproduction in the Willow Tit Parus montanus. Ibis 138: 630_637."
+Poecile montanus,Paper034,Reduced,Brood size,Female,62,124,35,58,0.829,-0.188,0.265,-0.706 to 0.330,NA
+Poecile montanus,Paper034,Enlarged,Brood size,Male,68,125,39,59,0.823,-0.195,0.256,-0.695 to 0.306,NA
+Poecile montanus,Paper034,Reduced,Brood size,Male,68,125,31,63,1.106,0.1,0.266,-0.421 to 0.621,NA
+Rissa tridactyla,Paper022,Enlarged,Brood size,Female,4,10,4,5,0.5,-0.693,0.894,-2.446 to 1.059,"Jacobsen, K.-O., Erikstad, K.E. & S_ther, B.-E. 1995. An experimental study of the costs of reproduction in the kittiwake Rissa tridactyla. Ecology 76: 1636_1642."
+Rissa tridactyla,Paper022,Reduced,Brood size,Female,4,10,2,23,4.6,1.526,0.945,-0.326 to 3.378,NA
+Rissa tridactyla,Paper022,Enlarged,Brood size,Male,3,16,1,6,1.125,0.118,1.25,-2.332 to 2.567,NA
+Rissa tridactyla,Paper022,Reduced,Brood size,Male,3,16,1,7,1.313,0.272,1.24,-2.159 to 2.703,NA
+Sayornis phoebe,Paper006,Enlarged,Clutch size,Female,12,4,18,6,1,0,0.745,-1.460 to 1.460,"Conrad, K.F. & Robertson, R.J. 1992. Intraseasonal effects of clutch manipulation on parental provisioning and residual reproductive value of eastern phoebes (Sayornis phoebe). Oecologia 89: 356_364."
+Sayornis phoebe,Paper006,Reduced,Clutch size,Female,12,4,19,3,0.474,-0.747,0.848,-2.409 to 0.915,NA
+Sialia sialis,Paper044,Enlarged,Brood size,Female,20,22,28,9,0.292,-1.23,0.492,-2.195 to -0.26,"Siefferman, L. & Hill, G.E. 2008. Sex-specific costs of reproduction in Eastern Bluebirds Sialia sialis. Ibis 150: 32_39."
+Sialia sialis,Paper044,Reduced,Brood size,Female,20,22,29,15,0.47,-0.755,0.443,-1.623 to 0.114,NA
+Sialia sialis,Paper044,Enlarged,Brood size,Male,19,17,18,19,1.18,0.165,0.469,-0.753 to 1.083,NA
+Sialia sialis,Paper044,Reduced,Brood size,Male,19,17,28,15,0.599,-0.513,0.462,-1.419 to 0.393,NA
+Somateria mollissima,Paper016,Enlarged,Clutch size,Female,13,11,15,15,1.182,0.167,0.549,-0.908 to 1.242,"Hanssen, S.A., Hasselquist, D., Folstad, I. & Erikstad, K.E. 2005. Cost of reproduction in a long-lived bird: incubation effort reduces immune function and future reproduction. Proc. R. Soc. Lond. B Biol. Sci. 272: 1039_1046."
+Somateria mollissima,Paper017,Enlarged,Clutch size,Female,21,21,18,6,0.333,-1.099,0.563,-2.202 to 0.005,"Hanssen, S.A., Einar Erikstad, K., Johnsen, V. & Jan, O.B. 2003. Differential investment and costs during avian incubation determined by individual quality: an experimental study of the common eider (Somateria mollissima). Proc. R. Soc. Lond. B Biol. Sci. 270: 531_537."
+Somateria mollissima,Paper017,Reduced,Clutch size,Female,21,21,11,10,0.909,-0.095,0.535,-1.143 to 0.953,NA
+Somateria mollissima,Paper017,Enlarged,Clutch size,Female,19,20,14,11,0.746,-0.292,0.515,-1.301 to 0.716,NA
+Somateria mollissima,Paper017,Reduced,Clutch size,Female,19,20,17,11,0.615,-0.487,0.502,-1.471 to 0.498,NA
+Tachycineta bicolor,Paper045,Enlarged,Brood size,Female,8,11,7,14,1.455,0.375,0.656,-0.910 to 1.660,"de Steven, D. 1980. Clutch size, breeding success, and parental survival in the tree swallow (Iridoprocne bicolor). Evolution 34: 278_291."
+Tachycineta bicolor,Paper045,Reduced,Brood size,Female,8,11,5,18,2.618,0.962,0.687,-0.383 to 2.308,NA
+Tachycineta bicolor,Paper049,Enlarged,Brood size,Female,31,23,7,7,1.348,0.298,0.601,-0.879 to 1.476,"Wheelwright, N., Leary, J. & Fitzgerald, C. 1991. The costs of reproduction in tree swallows (Tachycineta bicolor). Can. J. Zool. 69: 2540_2547."
+Tachycineta bicolor,Paper049,Reduced,Brood size,Female,31,23,9,6,0.899,-0.107,0.595,-1.272 to 1.058,NA
+Tachycineta bicolor,Paper049,Enlarged,Brood size,Female,53,38,3,5,2.325,0.844,0.761,-0.647 to 2.334,NA
+Tachycineta bicolor,Paper049,Reduced,Brood size,Female,53,38,5,3,0.837,-0.178,0.761,-1.668 to 1.312,NA
+Tachycineta bicolor,Paper051,Enlarged,Brood size,Female,8,5,3,5,2.667,0.981,0.926,-0.835 to 2.796,"Wiggins, D.A. 1990. Clutch size, offspring quality, and female survival in tree swallows: an experiment. Condor 92: 534_537."
+Tachycineta bicolor,Paper051,Reduced,Brood size,Female,8,5,5,3,0.96,-0.041,0.926,-1.856 to 1.775,NA
+Tachycineta bicolor,Paper049,Enlarged,Brood size,Male,13,7,1,3,5.571,1.718,1.246,-0.724 to 4.160,"Wheelwright, N., Leary, J. & Fitzgerald, C. 1991. The costs of reproduction in tree swallows (Tachycineta bicolor). Can. J. Zool. 69: 2540_2547."
+Tachycineta bicolor,Paper049,Reduced,Brood size,Male,13,7,2,1,0.929,-0.074,1.311,-2.644 to 2.496,NA
+Tachycineta bicolor,Paper049,Enlarged,Brood size,Male,38,25,3,1,0.507,-0.68,1.183,-2.998 to 1.638,NA
+Tachycineta bicolor,Paper049,Reduced,Brood size,Male,38,25,6,0,0.127,-2.066,1.494,-4.995 to 0.862,NA
+Tyrannus tyrannus,Paper029,Reduced,Brood size,Female,4,6,2,0,0.167,-1.792,1.708,-5.139 to 1.555,"Maigret, J. & Murphy, M. 1997. Costs and benefits of parental care in eastern kingbirds. Behav. Ecol. 8: 250_259."
+Tyrannus tyrannus,Paper029,Reduced,Brood size,Female,4,6,5,7,0.933,-0.069,0.872,-1.777 to 1.639,NA
+Tyrannus tyrannus,Paper029,Enlarged,Brood size,Female,4,6,3,5,1.111,0.105,0.975,-1.805 to 2.015,NA
+Tyrannus tyrannus,Paper029,Enlarged,Brood size,Female,4,6,3,0,0.111,-2.197,1.658,-5.447 to 1.053,NA
+Tyrannus tyrannus,Paper029,Reduced,Brood size,Male,6,10,0,2,2.4,0.875,1.663,-2.384 to 4.135,NA
+Tyrannus tyrannus,Paper029,Reduced,Brood size,Male,6,10,6,6,0.6,-0.511,0.775,-2.029 to 1.007,NA
+Tyrannus tyrannus,Paper029,Enlarged,Brood size,Male,6,10,0,6,7.2,1.974,1.56,-1.083 to 5.031,NA
+Tyrannus tyrannus,Paper029,Enlarged,Brood size,Male,6,10,1,2,1.2,0.182,1.329,-2.422 to 2.787,NA

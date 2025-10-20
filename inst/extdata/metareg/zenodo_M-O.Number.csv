@@ -1,0 +1,518 @@
+Author,year,animal,Amniotes,Environment,Reproductive Unit,N,Zr
+"Abell, A.J.",1999,Sceloporus_virgatus,Y,Wild,Single,21,1.098612289
+"Abell, A.J.",1999,Sceloporus_virgatus,Y,Wild,Single,14,0.950479381
+"Allen, R.M., Krug, P.J. & Marshall, D.J.",2009,Elysia_stylifera,N,Wild,Single,24,0.797702538
+"Gunn, J.S. & Thresher, R.E.",1991,Heteroclinus_perspicillatus,N,Wild,Single,19,1.576159504
+"Gunn, J.S. & Thresher, R.E.",1991,Heteroclinus_puellarum,N,Wild,Single,27,0.963874235
+"Bernal, J.S., Gillogly, P.O. & Griset, J.",2001,Parallorhogas_pyralophagus,N,Captive,Single,38,1.384896882
+"Blouin-Demers, G. & Weatherhead, P.J.",2007,Pantherophis_obsoletus,Y,Wild,Single,52,0.270024765
+"Bonnet, X., Naulleau, G., Shine, R. & Lourdais, O.",2001,Vipera_aspis,Y,Wild,Single,146,0.171666664
+"Bonnet, X., Shine, R., Lourdais, O. & Naulleau, G.",2003,Vipera_aspis,Y,Wild,Single,57,0.618381314
+"Bonnet, X., Shine, R., Lourdais, O. & Naulleau, G.",2003,Vipera_aspis,Y,Wild,Single,173,0.213171347
+"Dziminski, M.A. & Alford, R.A.",2005,Cyclorana_alboguttata,N,Wild,Single,21,-0.029008134
+"Dziminski, M.A. & Alford, R.A.",2005,Cyclorana_brevipes,N,Wild,Single,8,1.022788817
+"Dziminski, M.A. & Alford, R.A.",2005,Cyclorana_novaehollandiae,N,Wild,Single,8,-0.487210954
+"Dziminski, M.A. & Alford, R.A.",2005,Limnodynastes_ornatus,N,Wild,Single,24,0.164467041
+"Dziminski, M.A. & Alford, R.A.",2005,Litoria_caerulea,N,Wild,Single,15,0.751427825
+"Dziminski, M.A. & Alford, R.A.",2005,Litoria_fallax,N,Wild,Single,28,0.628473201
+"Dziminski, M.A. & Alford, R.A.",2005,Litoria_gracilenta,N,Wild,Single,9,0.290940262
+"Dziminski, M.A. & Alford, R.A.",2005,Litoria_nasuta,N,Wild,Single,10,0.267181208
+"Dziminski, M.A. & Alford, R.A.",2005,Litoria_rothii,N,Wild,Single,11,0.86144223
+"Dziminski, M.A. & Alford, R.A.",2005,Litoria_rubella,N,Wild,Single,8,0.036015564
+"Ford, N.B. & Seigel, R.A.",1989,Ovophis_okinavensis,Y,Captive,Single,23,0.445666079
+"Ford, N.B. & Seigel, R.A.",1989,Pantherophis_guttatus,Y,Captive,Single,21,0.996492011
+"Ford, N.B. & Seigel, R.A.",1989,Trimeresurus_flavoviridis,Y,Captive,Single,15,0.179866196
+"Barbosa, M. & Magurran, A.E.",2010,Poecilia_reticulata,N,Captive,Single,140,0.550940517
+"Campbell, M.T. & Slade, N.A.",1995,Sigmodon_hispidus,Y,Wild,Single,29,0.572768942
+"Castro, L.R., Claramunt, G., Krautz, M.C., Llanos-Rivera, A. & Morena, P.",2009,Engraulis_ringens,N,Wild,Single,168,1.040265163
+"Castro, L.R., Claramunt, G., Krautz, M.C., Llanos-Rivera, A. & Morena, P.",2009,Engraulis_ringens,N,Wild,Single,195,0.552359393
+"Greene, B.D., Dixon, J.R., Whiting, M.J. & Mueller, J.M.",1999,Nerodia_harteri,Y,Wild,Single,268,0.793046642
+"Dobson, F.S. & Michener, G.R.",1995,Urocitellus_richardsonii,Y,Wild,Single,38,0.213171347
+"Dobson, F.S. & Michener, G.R.",1995,Urocitellus_richardsonii,Y,Wild,Single,51,0.234189467
+"Dobson, F.S., Risch, T.S. & Murie, J.O.",1999,Urocitellus_columbianus,Y,Wild,Single,44,-0.266108407
+"Dobson, F.S., Risch, T.S. & Murie, J.O.",1999,Urocitellus_columbianus,Y,Wild,Single,129,0.298566264
+"Fox, C.W., Thakar, M.S. & Mousseau, T.A.",1997,Stator_limbatus,N,Captive,Life,46,0.503671887
+"Fox, C.W., Thakar, M.S. & Mousseau, T.A.",1997,Stator_limbatus,N,Captive,Life,53,0.700996635
+"Dunlap, K.D. & Lang, J.W.",1990,Thamnophis_sirtalis,Y,Wild,Single,35,0.376885901
+"Fernandez-Llario, P., Carranza, J. & Mateos-Quesada, P.",1999,Sus_scrofa,Y,Wild,Single,46,0.316126175
+"Ferreiro, R. & Galin, P.",2004,Anguis_fragilis,Y,Captive,Single,68,0.578812251
+"Ford, N.B. & Seigel, R.A.",2006,Lamprophis_fuliginosus,Y,Captive,Single,14,0.296317904
+"Genoud, M. & Perrin, N.",1994,Crocidura_russula,Y,Wild,Single,29,0.662462707
+"Gignac, A. & Gregory, P.T.",2005,Thamnophis_ordinoides,Y,Wild,Single,22,0.407017098
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,41,0.51779966
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,45,0.594326311
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,40,0.502396767
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,35,0.105388448
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,40,0.597124127
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,44,0.44647846
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,36,0.386107852
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,45,0.334992946
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,43,0.877172517
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,38,0.798147774
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,38,0.439222781
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,44,0.61694875
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,37,0.432010329
+"Glazier, D.S.",2000,Gammarus_minus,N,Wild,Single,44,0.293115727
+"Green, B.S & Chambers, R.C.",2007,Microgadus_tomcod,N,Wild,Single,9,1.65839002
+"Green, B.S & Chambers, R.C.",2007,Microgadus_tomcod,N,Wild,Single,14,0.810743125
+"Gregerson, F, Haugen, T.O. & Larsen, À.N.",2006,Salmo_trutta,N,Wild,Single,149,1.045370548
+"Kudo, S.",2001,Elasmucha_putoni,N,Wild,Single,28,1.025259251
+"Kudo, S.",2001,Elasmucha_putoni,N,Captive,Single,28,0.877172517
+"Kudo, S.",2001,Sastragala_scutellata,N,Wild,Single,28,0.803519915
+"Ito, K.",1997,Haminoea_callidegenita,N,Wild,Single,19,0.135829211
+"Ilano, A.S., Fujinaga, K. & Nakao, S.",2004,Buccinum_isaotakii,N,Wild,Single,15,1.57538427
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,28,0.584236213
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,16,0.936910121
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,55,1.228550601
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,41,1.611494105
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,30,1.432348183
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,35,0.682574476
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Gadus_morhua,N,Wild,Single,30,1.146896532
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,50,0.462615482
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,40,0.997428129
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,48,1.183823764
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,51,1.146215835
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,56,1.167878406
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,58,0.744061081
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,66,0.474536656
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,52,0.896755019
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,50,0.72565179
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,52,0.522166427
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,24,1.887863939
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,32,1.732654343
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,31,1.899362954
+"Koops, M.A., Hutchings, J.A. & McIntyre, T.M.",2004,Salvelinus_fontinalis,N,Wild,Single,25,1.394719159
+"Macip-Rios, R., Robleda, P.B., Casas-Andreu, Arias-Cisneros, M.L & Sustauta-Rodrigues, V.H.",2012,Kinosternon_integrum,Y,Wild,Single,57,0.677666068
+"Molumby, A.",1996,Trypoxylon_politum,N,Wild,Single,22,0.497311288
+"Molumby, A.",1996,Trypoxylon_politum,N,Wild,Single,29,0.411800034
+"Nasution, S., Roberts, D., Farnsworth, K., Parker, G.A. & Elwood, R.W.",2010,Buccinum_undatum,N,Captive,Single,39,1.177430887
+"Parker, T.H.",2002,Gallus_gallus,Y,Captive,Single,66,0.100335348
+"Hartmann, M.T., Marques, O.A.V. & Almeida-Santos, S.M.",2004,Bothrops_neuwiedi,Y,Wild,Single,13,1.03624762
+"Heyer, C.J., Miller, T.J., Binkowski, F.P., Caldarone, E.M. & Rice, J.A.",2001,Perca_flavescens,N,Captive,Single,10,0.488468431
+"Higashitani, T., Takatsu, T., Nakaya, M., Joh, M. & Takahashi, T.",2007,Pseudopleuronectes_yokohamae,N,Wild,Single,20,1.221173518
+"Ji, X. & Du, W.G., Qu, Y.F. & Lin, L.H.",2009,Naja_atra,Y,Wild,Single,50,0.8955881
+Kudo S,2006,Elasmucha_signoreti,N,Wild,Single,24,0.33610983
+"Lardies, M.A., Carter, M.J, Bozinovic, F",2004,Porcellio_laevis,N,Wild,Single,80,1.100192007
+"Madsen, T. & Shine, R.",1996,Liasis_fuscus,Y,Wild,Single,55,0.950479381
+"Madsen, T. & Shine, R.",1996,Liasis_fuscus,Y,Wild,Single,55,0.847955755
+"Marsh-Matthews, E., Brooks, M., Deaton, R. & Tan, H.",2005,Gambusia_affinis,N,Wild,Single,23,0.81223326
+"Marsh-Matthews, E., Brooks, M., Deaton, R. & Tan, H.",2005,Gambusia_geiseri,N,Wild,Single,26,0.475118739
+"Outeda-Jorge, S., Mello, T. & Pinto-da-Rocha, R.",2009,Tityus_sp,N,Wild,Single,35,0.398866749
+"Outeda-Jorge, S., Mello, T. & Pinto-da-Rocha, R.",2009,Tityus_sp,N,Wild,Single,10,0.32745015
+"Outeda-Jorge, S., Mello, T. & Pinto-da-Rocha, R.",2009,Tityus_sp,N,Wild,Single,9,1.105584704
+"Radder, R.S. & Shanbhag, B.A.",2004,Calotes_versicolor,Y,Wild,Single,25,0.887183863
+"Rowe, J.W.",1994,Chrysemys_picta,Y,Wild,Single,88,0.510070337
+"Rowe, J.W.",1994,Chrysemys_picta,Y,Wild,Single,69,0.309519604
+"Rowe, J.W.",1994,Chrysemys_picta,Y,Wild,Single,35,0.576339755
+"Rowe, J.W.",1994,Chrysemys_picta,Y,Wild,Single,40,0.223656109
+"Stuart-Smith, J., Swain, R., Stuart-Smith, R.D. & Wapstra, E.",2007,Rankinia_diemensis,Y,Wild,Single,90,0.534443574
+"Sugiura, N.",1994,Anthidium_septemspinosum,N,Captive,Life,14,0.018001944
+"Weatherhead, P.J., Brown, G.P., Prosser, M.R. & Kissner, K.J.",1999,Nerodia_sipedon,Y,Wild,Single,49,0.928727364
+"Weatherhead, P.J., Brown, G.P., Prosser, M.R. & Kissner, K.J.",1999,Nerodia_sipedon,Y,Captive,Single,28,0.693147181
+"Wilkinson, L.R. & Gibbons, J.W.",2005,Kinosternon_subrubrum,Y,Wild,Single,635,0.264986458
+"Wilkinson, L.R. & Gibbons, J.W.",2005,Pseudemys_floridana,Y,Wild,Single,79,0.671242804
+"Wilkinson, L.R. & Gibbons, J.W.",2005,Sternotherus_odoratus,Y,Wild,Single,46,0.599934392
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_kisutch,N,Captive,Life,330,1.167389642
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_masou,N,Wild,Life,149,0.668563486
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_nerka,N,Captive,Life,4731,0.627769252
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_nerka,N,Captive,Life,160,1.039873052
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_nerka,N,Wild,Life,488,0.650559394
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_nerka,N,Captive,Life,863,0.665145527
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_nerka,N,Captive,Life,1581,0.811288808
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_nerka,N,Captive,Life,1512,1.080586298
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Oncorhynchus_tshawytscha,N,Captive,Life,1902,0.744665647
+"Hendry, A.P., Day, T. & Cooper, A.B.",2001,Salmo_trutta,N,Captive,Life,135,1.927541737
+"Valentinsson, D.",2002,Buccinum_undatum,N,Wild,Single,27,0.609685433
+"Walker, S.E., Rypstra, A.L. & Marshall, S.D.",2003,Hogna_helluo,N,Captive,Single,17,0.705742305
+"Brown, G.P. & Shine, R.",2005,Tropidonophis_mairii,Y,Wild,Single,318,0.829114038
+"Ji, X. & Wang, Z.W.",2005,Naja_atra,Y,Wild,Single,125,0.86926401
+"Luiselli, L., Capula, M. & Shine, R.",1996,Coronella_austriaca,Y,Wild,Single,28,1.020327758
+"Helle, S. Laaksonen, T., Adamsson, A., PAranko, J. & Huitus, O.",2008,Microtus_agrestis,Y,Captive,Single,28,0.285934031
+"Herbinnger, C.M., Doyle, R.W., Pitman, E.R., Paquet, D., Mesa, K.A., Morris, D.B., Wright, J.M. & Cook, D.",1995,Oncorhynchus_mykiss,N,Captive,Single,10,-0.181982689
+"Rollison, N.",2012,Chelydra_serpentina,Y,Wild,Single,23,0.768275718
+"Rollison, N.",2012,Glyptemys_inscupta,Y,Wild,Single,25,0.563368107
+"Shibata, F. & Kawamichi, T.",2009,Apodemus_argenteus,Y,Wild,Single,44,0.973475626
+"Rowe, J.W., Coval, K.A. & Campbell, K.C.",2003,Chrysemys_picta,Y,Wild,Single,144,0.647522845
+"Rowe, J.W., Coval, K.A. & Campbell, K.C.",2003,Chrysemys_picta,Y,Wild,Single,144,0.632833187
+"Uller, T. & Olsson, M.",2010,Ctenophorus_fordi,Y,Wild,Life,89,0.562729769
+"Rollison, N., Brooks, R.J.",2008,Chrysemys_picta,Y,Wild,Single,87,0.338240109
+"Kasparian, K., Gei_ler, E. & Trillmich, F.",2005,Cavia_aperea,Y,Captive,Single,243,0.244774113
+"Dziminski, M.A., Vercoe, P.E. & Roberts, J.D.",2006,Crinia_georgiana,N,Wild,Single,33,1.095840663
+"Lampert, W.",1993,Daphnia_magna,N,Captive,Single,345,1.202469572
+"Zuniga-Vega, J.J., Suarez-Rodriguez, M., Espinosa-Perez, H. & Johnson, J.B.",2011,Poecilia_butleri,N,Wild,Single,220,0.315979577
+"Cox, R.M., Duryea, M.C., Najarro, M. & Calsbeek, R.",2010,Anolis_sagrei,Y,Captive,Single,96,0.071119666
+"Wehrtmann, I.S., Magalhes, C., Hernandez, P & Mantelatto, F.L.",2010,Kingsleyini_ytupora,N,Wild,Single,20,0.763271668
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Bosmina_longirostris,N,Wild,Single,41,1.945910149
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Bosmina_obtusirostris,N,Wild,Single,42,1.188136404
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Caprella_sp,N,Wild,Single,37,2.646652412
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Caprella_sp,N,Wild,Single,102,1.738049345
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Caprella_sp,N,Wild,Single,28,0.632833187
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Caprella_sp,N,Wild,Single,14,0.244774113
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Caprella_sp,N,Wild,Single,6,0.276863823
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Caprella_sp,N,Wild,Single,9,0.693147181
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Ceriodaphnia_pulchella,N,Wild,Single,20,0.887183863
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Crangon_allmani,N,Wild,Single,38,0.972955075
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Daphnia_cristata,N,Wild,Single,25,1.738049345
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Heptacarpus_pusiola,N,Wild,Single,22,0.810743125
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Hetairus_polaris,N,Wild,Single,344,1.221173518
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Holopedium_gibberum,N,Wild,Single,20,1.127029026
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Hyas_coarctatus,N,Wild,Single,25,1.527524425
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Oregonia_gracilis,N,Wild,Single,14,1.831780823
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Pagurus_pubescens,N,Wild,Single,112,2.09229572
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Pandalus_montagui,N,Wild,Single,294,0.907644983
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Sabinea_sarsi,N,Wild,Single,64,1.098612289
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Sabinea_septemcarinata,N,Wild,Single,50,1.221173518
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Spirontocaris_spinus,N,Wild,Single,478,1.256152812
+"Ivanova, M.B. & Vassilenko, S.V.",1987,Spirontocaris_turgida,N,Wild,Single,57,1.188136404
+"Frynta, D., Frankov, M. B., Skarlandtov, H., Galetokov, K., Prov, K. milauer, P. & umbera, R.",2011,Acomys_cahirinus,Y,Captive,Single,968,0.101786035
+"Halstead, B.J., Wylie, G.D., Casazza, M.L. & Coates, P.S.",2011,Thamnophis_gigas,Y,Wild,Single,11,0.158577516
+"Lim, J.N.",NA,Gambusia_affinis,N,Captive,Single,66,0.989150822
+"Arcos-Garcia, J. L., Martinez, G. D. M., Gama, R. B., Barros, O. V. E. & Morales, G. E. L.",2010,Iguana_iguana,Y,Captive,Single,137,0.928727364
+"Bager, A., De Freitas, T. R. O. & Krause, L.",2007,Trachemys_dorbignyi,Y,Wild,Single,40,0.479699943
+"Bai, B. R., Luck, R. F., Forster, L., Stephens, B. & Janssen, J. A. M.",1992,Trichogramma_pretiosum,N,Captive,Life,208,0.522984278
+"Bai, B. R., Luck, R. F., Forster, L., Stephens, B. & Janssen, J. A. M.",1992,Trichogramma_pretiosum,N,Captive,Life,67,0.928727364
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,69,0.612664516
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,63,0.863389675
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,40,1.228006092
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,33,1.316856291
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,57,0.592930527
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,69,0.787516785
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,65,0.95714348
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,57,1.147727958
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,39,1.127029026
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,59,0.679201436
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,64,0.705742305
+"Baker, J. A., Foster, S. A., Heins, D. C., Bell, M. A. & King, R. W.",1998,Gasterosteus_aculeatus,N,Wild,Single,44,0.643090257
+"Baker, J. A. & Foster, S. A.",2002,Gasterosteus_aculeatus,N,Wild,Single,59,0.679702245
+"Baker, J. A. & Foster, S. A.",2002,Gasterosteus_aculeatus,N,Wild,Single,41,1.17483646
+"Baker, J. A. & Foster, S. A.",2002,Gasterosteus_aculeatus,N,Wild,Single,40,1.214962638
+"Baker, J. A. & Foster, S. A.",2002,Gasterosteus_aculeatus,N,Wild,Single,30,0.508801206
+"Baker, J. A. & Foster, S. A.",2002,Gasterosteus_aculeatus,N,Wild,Single,29,0.766136451
+"Baker, J. A. & Foster, S. A.",2002,Gasterosteus_aculeatus,N,Wild,Single,45,1.135904928
+"Bauerfeind, S. S. & Fischer, K.",2008,Araschnia_levana,N,Captive,Life,55,1.47221949
+"Bauerfeind, S. S. & Fischer, K.",2008,Pararge_aegeria,N,Captive,Life,39,-0.287682072
+"Bauerfeind, S. S. & Fischer, K.",2008,Pieris_napi,N,Captive,Life,77,0.411800034
+"Bidwell, M. T. & Dawson, R. D.",2005,Tachycineta_bicolor,Y,Wild,Single,38,0.500528772
+"Bishop, C. A.,Brown, G. P., Brooks, R. J., Lean, D. R. S. & Carey, J. H.",1994,Chelydra_serpentina,Y,Wild,Single,15,1.020327758
+"Bradshaw, W. E., Holzapfel, C. M. & Oneill, T.",1993,Wyeomyia_smithii,N,Captive,Life,41,1.010575633
+"Brana, F., Bea, A. & Arrayago, M. J.",1991,Podarcis_muralis,Y,Captive,Single,9,1.375767657
+"Brana, F., Bea, A. & Arrayago, M. J.",1991,Zootoca_vivipara,Y,Captive,Single,14,0.792813632
+"Brooks, R. J., Shilton, C. M., Brown, G. P. & Quinn, N. W. S.",1992,Clemmys_insculpta,Y,Wild,Single,15,0.604155603
+"Broussard, D. R., Dobson, F. S. & Murie, J. O.",2005,Urocitellus_columbianus,Y,Wild,Single,115,0.309519604
+"Brown, C. A., Sanford, B. M. & Swerdon, R. R.",2003,Pirata_sedentarius,N,Captive,Single,17,0.100335348
+"Brown, C. A., Sanford, B. M. & Swerdon, R. R.",2003,Pirata_sedentarius,N,Captive,Single,16,0.564635003
+"Brown, C. A., Sanford, B. M. & Swerdon, R. R.",2003,Pirata_sedentarius,N,Captive,Single,20,0.667903898
+"Brown, C. A.",2004,Centruroides_exilicauda,N,Captive,Single,18,0.506104805
+"Brown, C. A.",2004,Centruroides_exilicauda,N,Captive,Single,14,0.476118126
+"Brown, C. A.",2004,Diplocentrus_peloncillensis,N,Captive,Single,6,0.355863186
+"Brown, C. A.",2004,Pseudouroctonus_apacheanus,N,Captive,Single,4,-0.706180685
+"Brown, C. A.",2004,Vaejovis_sp,N,Captive,Single,18,0.193878675
+"Castellano, S., Cucco, M. & Giacoma, C.",2004,Bufo_viridis,N,Captive,Single,26,0.968399234
+"Casten, L. R. & Johnston, C. E.",2008,Cyprinella_venusta,N,Wild,Single,119,0.900969426
+"Casten, L. R. & Johnston, C. E.",2008,Cyprinella_venusta,N,Wild,Single,93,0.874351265
+"Casten, L. R. & Johnston, C. E.",2008,Cyprinella_venusta,N,Wild,Single,114,0.647723014
+"Casten, L. R. & Johnston, C. E.",2008,Cyprinella_venusta,N,Wild,Single,82,0.832378875
+"Castilla, A. M., Barbadillo, L. J. & Bauwens, D.",1992,Acanthodactylus_erythrurus,Y,Captive,Single,40,0.395392825
+"Castilla, A. M. & Bauwens, D.",2000a,Podarcis_atrata,Y,Captive,Single,82,0.42364893
+"Castilla, A. M. & Bauwens, D.",2000b,Podarcis_lilfordi,Y,Captive,Single,11,0.244774113
+"Castro-Franco, R., Bustos-Zagal, M. G. & Mendez-De la Cruz, F. R.",2011,Ctenosaura_pectinata,Y,Captive,Single,28,0.390742321
+"Christians, J. K., Evanson, M. & Aiken, J. J.",2001,Sturnus_vulgaris,Y,Captive,Single,95,0.192337169
+"Christians, J. K., Evanson, M. & Aiken, J. J.",2001,Sturnus_vulgaris,Y,Captive,Single,28,0.276863823
+"Christians, J. K., Evanson, M. & Aiken, J. J.",2001,Sturnus_vulgaris,Y,Captive,Single,121,0.110446916
+"Christians, J. K., Evanson, M. & Aiken, J. J.",2001,Sturnus_vulgaris,Y,Captive,Single,57,0.331647109
+"Christians, J. K., Evanson, M. & Aiken, J. J.",2001,Sturnus_vulgaris,Y,Captive,Single,114,0.298566264
+"Christians, J. K., Evanson, M. & Aiken, J. J.",2001,Sturnus_vulgaris,Y,Captive,Single,58,0.060072156
+"Clark, D. R., Bunck, C. M. & Hall, R. J.",1997,Diadophis_punctatus,Y,Captive,Single,47,0.887183863
+"Clark, P. J., Ewert, M. A. & Nelson, C. E.",2001,Sternotherus_odoratus,Y,Wild,Single,70,1.106813303
+"Colli, G. R., Mesquita, D. O., Rodrigues, P. V. V. & Kitayama, K.",2003,Gymnodactylus_geckoides,Y,Wild,Single,54,0.113377507
+"Congdon, J. D. & Sels, R. C. V.",1991,Emydoidea_blandingii,Y,Wild,Single,275,0.555375552
+"Congdon, J. D., Nagle, R. D., Kinney, O. M. & Sels, R. C. V.",2001,Emydoidea_blandingii,Y,Wild,Single,46,0.595724174
+"Congdon, J. D., Nagle, R. D., Kinney, O. M. & Sels, R. C. V.",2001,Emydoidea_blandingii,Y,Wild,Single,35,0.598526181
+"Congdon, J. D., Nagle, R. D., Kinney, O. M. & Sels, R. C. V.",2001,Emydoidea_blandingii,Y,Wild,Single,11,0.566792795
+"Daza, J. M. & Paez, V. P.",2007,Trachemys_callirostris,Y,Wild,Single,54,1.006725275
+"Diaz, J. A., Perez-Tris, J., Telleria, J. L., Carbonell, R. & Santos, T.",2005,Psammodromus_algirus,Y,Captive,Single,54,0.770121337
+"Doody, J. S., Georges, A. & Young, J. E.",2003,Carettochelys_insculpta,Y,Wild,Single,65,0.174006548
+"Doody, J. S., Georges, A. & Young, J. E.",2003,Carettochelys_insculpta,Y,Wild,Single,51,0.402260309
+"Doody, J. S., Georges, A. & Young, J. E.",2003,Carettochelys_insculpta,Y,Wild,Single,75,0.562597262
+"Doums, C., Perdieu, M. A. & Jarne, P.",1998,Bulinus_truncatus,N,Captive,Single,76,0.618381314
+"Doums, C., Perdieu, M. A. & Jarne, P.",1998,Bulinus_truncatus,N,Captive,Single,81,0.549306144
+"Doums, C., Perdieu, M. A. & Jarne, P.",1998,Bulinus_truncatus,N,Captive,Single,77,0.887183863
+"Du, Y., Lin, C. X., Lin, L. H., Qiu, Q. B. & Ji, X.",2011,Leiolepis_reevesii,Y,Captive,Single,200,0.390673837
+"Fearn, S. & Trembath, D. F.",2009,Demansia_vestigiata,Y,Wild,Single,8,0.856137383
+"Fitzgerald, L. A., Cruz, F. B. & Perotti, G.",1993,Tupinambis_rufescens,Y,Wild,Single,7,0.972955075
+"Formanowicz, D. R. & Shaffer, L. R.",1993,Centruroides_vittatus,N,Captive,Single,34,0.457445576
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,23,0.331647109
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,21,0.484700279
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,22,0.632833187
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,44,0.829114038
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,14,1.156817465
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,19,1.188136404
+"Forsman, A. & Shine, R.",1995,Lampropholis_delicata,Y,Captive,Single,8,0.725005088
+"Fox, S. F. & McCoy, J. K.",2000,Uta_stansburiana,Y,Captive,Single,22,0.198582737
+"Fuller, R. C.",1998,Etheostoma_caeruleum,N,Captive,Single,9,0.375737479
+"Galan, P.",1997,Podarcis_bocagei,Y,Wild,Single,89,0.909954167
+"Galan, P.",2007,Podarcis_hispanica,Y,Captive,Single,34,0.758173745
+"Galdino, C. A. B. & Van Sluys, M.",2011,Eurolophosaurus_nanuzae,Y,Wild,Single,34,0.510070337
+"Gillis, R. & Ballinger, R. E.",1992,Sceloporus_undulatus,Y,Wild,Single,20,0.899388521
+"Guill, J. M. & Heins, D. C.",1996,Etheostoma_zonale,N,Captive,Single,20,1.488237944
+"Guill, J. M. & Heins, D. C.",1996,Etheostoma_zonale,N,Captive,Single,19,1.109823521
+"Guill, J. M. & Heins, D. C.",1996,Etheostoma_zonale,N,Captive,Single,7,1.65839002
+"Guill, J. M. & Heins, D. C.",2000,Etheostoma_zonale,N,Captive,Single,72,1.100148469
+"Heins, D. C.",1991,Etheostoma_simoterum,N,Wild,Single,19,1.407677863
+"Heins, D. C.",1991,Etheostoma_simoterum,N,Wild,Single,19,0.851783379
+"Heins, D. C.",1991,Etheostoma_simoterum,N,Wild,Single,16,1.320869508
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,33,1.050842874
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,41,0.741339958
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,23,1.204971208
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,41,1.199522014
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,20,1.222101771
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,24,0.783017769
+"Heins, D. C.",1991,Notropis_longirostris,N,Wild,Single,15,1.39778934
+"Heins, D. C., Baker, J. A., De Silva, G. & Birden, E. L.",2005,Pungitius_pungitius,N,Wild,Single,123,1.132872262
+"Heins, D. C., Baker, J. A., De Silva, G. & Birden, E. L.",2005,Pungitius_pungitius,N,Wild,Single,132,1.042821993
+"Heins, D. C., Baker, J. A., De Silva, G. & Birden, E. L.",2005,Pungitius_pungitius,N,Wild,Single,47,1.21778643
+"Heins, D. C., Baker, J. A., De Silva, G. & Birden, E. L.",2005,Pungitius_pungitius,N,Wild,Single,51,1.398375486
+"Heins, D. C., Baker, J. A., Toups, M. A. & Birden, E. L.",2010,Gasterosteus_aculeatus,N,Wild,Single,48,1.403007507
+"Heins, D. C., Baker, J. A., Toups, M. A. & Birden, E. L.",2010,Gasterosteus_aculeatus,N,Wild,Single,86,1.380217668
+"Heins, D. C., Baker, J. A., Toups, M. A. & Birden, E. L.",2010,Gasterosteus_aculeatus,N,Wild,Single,351,1.053077632
+"Heins, D. C., Baker, J. A., Toups, M. A. & Birden, E. L.",2010,Gasterosteus_aculeatus,N,Wild,Single,208,1.181741638
+"Hendrickx, F. & Maelfait, J. P.",2003,Pirata_piraticus,N,Captive,Single,28,0.42364893
+"Herreras, M. V., Montero, F. E., Marcogliese, D. J., Raga, J. A. & Balbuena, J. A.",2007,Anisakis_simplex,N,Wild,Single,50,0.812559889
+"Herreras, M. V., Montero, F. E., Marcogliese, D. J., Raga, J. A. & Balbuena, J. A.",2007,Contracaecum_osculatum,N,Wild,Single,50,0.604155603
+"Herreras, M. V., Montero, F. E., Marcogliese, D. J., Raga, J. A. & Balbuena, J. A.",2007,Pseudoterranova_decipiens,N,Wild,Single,50,0.791043906
+"Herrmann, P. A. & Herrmann, H. W.",2005,Chamaeleo_montium,Y,Captive,Single,49,1.071431684
+"Huang, W. S.",2010,Sphenomorphus_incognitus,Y,Wild,Single,10,0.775298706
+"Huang, W. S.",2011,Emoia_atrocostata,Y,Wild,Single,20,0.240533924
+"Huang, W. S.",1998,Takydromus_hsuehshanensis,Y,Wild,Single,39,0.484700279
+"Huang, W. S.",2006a,Mabuya_longicaudata,Y,Wild,Single,22,0.829114038
+"Huang, W. S.",2006b,Takydromus_sauteri,Y,Wild,Single,31,0.157284277
+"Huang, W. S.",2007,Japalura_swinhonis,Y,Wild,Single,22,0.211079993
+"Iverson, J. B., Higgins, H., Sirulnik, A. & Griffiths, C.",1997,Chelydra_serpentina,Y,Wild,Single,23,0.576339755
+"Iverson, J. B., Barthelmess, E. L., Smith, G. R. & Derivera, C. E.",1991,Kinosternon_hirtipes,Y,Wild,Single,34,0.536060337
+"Iverson, J. B. & Smith, G. R.",1993,Chrysemys_picta,Y,Wild,Single,221,0.234189467
+"Iverson, J. B. & Moler, P. E.",1997,Apalone_ferox,Y,Wild,Single,54,0.792813632
+"Iverson, J. B.",2002,Sternotherus_carinatus,Y,Wild,Single,55,1.156817465
+"Iverson, J. B., Hines, K. N. & Valiulis, J. M.",2004,Cyclura_cychlura,Y,Wild,Single,74,0.928727364
+"Iverson, J. B.",2010,Kinosternon_scorpioides,Y,Wild,Single,9,1.65839002
+"Iverson, J. B., Young, C. A., Akre, T. S. B. & Griffiths, C. M.",2012,Pituophis_catenifer,Y,Wild,Single,49,0.522984278
+"Ji, X., Qiu, Q. B. & Diong, C. H.",2002,Calotes_versicolor,Y,Captive,Single,65,0.830243886
+"Jones, R. L.",2006,Graptemys_oculifera,Y,Wild,Single,134,0.874900202
+"Jonsson, N. & Jonsson, B.",1999,Salmo_trutta,N,Captive,Single,50,1.03791871
+"Jonsson, N. & Jonsson, B.",1999,Salmo_trutta,N,Captive,Single,50,0.671286459
+"Jonsson, N. & Jonsson, B.",1999,Salmo_trutta,N,Captive,Single,50,0.462615482
+"Jonsson, N. & Jonsson, B.",1999,Salmo_trutta,N,Captive,Single,99,1.460750349
+"Jonsson, N. & Jonsson, B.",1999,Salmo_trutta,N,Captive,Single,21,0.804718956
+"Jordan, M. A. & Snell, H. L.",2002,Microlophus_delanonis,Y,Wild,Single,325,0.583089843
+"Kamosawa, M. & Ota, H.",1996,Ramphotyphlops_braminus,Y,Captive,Single,19,0.665481858
+"Kennett, R.",1999,Chelodina_rugosa,Y,Wild,Single,140,0.479067541
+"Kennett, R.",1999,Elseya_dentata,Y,Wild,Single,41,0.704120926
+"Khudamrongsawat, J., Arrington, D. A. Kuhajda, B. R. & Rypel, A. L.",2005,Etheostoma_chermocki,N,Wild,Single,38,0.93160061
+"Kiefer, M. C., Van Sluys, M. & Rocha, C. F. D.",2008,Tropidurus_torquatus,Y,Wild,Single,175,0.516507503
+"King, R. B.",1993,Storeria_dekayi,Y,Captive,Single,25,0.810743125
+"Knapp, C. R., Iverson, J. B. & Owens, A. K.",2006,Cyclura_cychlura,Y,Wild,Single,32,1.14981353
+"Knapp, C. R., Iverson, J. B. & Owens, A. K.",2006,Cyclura_cychlura,Y,Wild,Single,70,0.949383156
+"Krug, P. J.",2001,Alderia_modesta,N,Captive,Single,29,0.278748602
+"Lardies, M. A. & Wehrtmann, I. S.",1997,Betaeus_emarginatus,N,Captive,Single,38,1.441244167
+"Lardies, M. A. & Wehrtmann, I. S.",2001,Betaeus_truncatus,N,Captive,Single,22,0.949347993
+"Lardies, M. A. & Wehrtmann, I. S.",2001,Betaeus_truncatus,N,Captive,Single,24,0.891511795
+"Lardies, M. A. & Wehrtmann, I. S.",2001,Betaeus_truncatus,N,Captive,Single,26,0.993861162
+"Lichtenbelt, W. D. V. & Albers, K. B.",1993,Iguana_iguana,Y,Captive,Single,68,1.375767657
+"Lichtenbelt, W. D. V. & Albers, K. B.",1993,Iguana_iguana,Y,Captive,Single,28,1.421925871
+"Lin, L. H., Mao, F., Chen, C. & Ji, X.",2012,Ptyas_korros,Y,Captive,Single,25,0.603252444
+"Lin, L. H., Mao, F., Chen, C. & Ji, X.",2012,Ptyas_korros,Y,Captive,Single,21,0.55670022
+"Lin, L. H., Mao, F., Chen, C. & Ji, X.",2012,Ptyas_korros,Y,Captive,Single,31,0.817079409
+"Lin, Z. H., Ji, X., Luo, L. G. & Ma, X. M.",2005,Deinagkistrodon_acutus,Y,Captive,Single,16,0.502518451
+"Litzgus, J. D., Bolton, F. & Schulte-Hostedde, A. I.",2008,Clemmys_guttata,Y,Wild,Single,13,-0.060072156
+"Ljubisavljevic, K., Dzukic, G. & Kalezic, M. L.",2008,Darevskia_praticola,Y,Captive,Single,17,0.810743125
+"Ljubisavljevic, K., Glasnovic, P., Kalan, K. & Krystufek, B.",2012,Iberolacerta_horvathi,Y,Captive,Single,16,0.40005965
+"Lu, H. L., Gao, J. F., Ma, X. H., Lin, Z. H. & Ji, X.",2012,Plestiodon_chinensis,Y,Captive,Single,25,0.58896423
+"Lu, H. L., Gao, J. F., Ma, X. H., Lin, Z. H. & Ji, X.",2012,Plestiodon_chinensis,Y,Captive,Single,26,0.283172381
+"Lu, H. L., Gao, J. F., Ma, X. H., Lin, Z. H. & Ji, X.",2012,Plestiodon_chinensis,Y,Captive,Single,20,0.580460973
+"Lu, H. L., Gao, J. F., Ma, X. H., Lin, Z. H. & Ji, X.",2012,Plestiodon_chinensis,Y,Captive,Single,15,0.569213599
+"Luddecke, H.",2002,Hyla_labialis,N,Captive,Single,85,0.306380626
+"Luddecke, H.",2002,Hyla_labialis,N,Captive,Single,25,0.317762592
+"Luddecke, H.",2002,Hyla_labialis,N,Captive,Single,15,0.406081732
+"Luiselli, L., Capula, M. & Shine, R.",1997,Natrix_natrix,Y,Captive,Single,19,1.65839002
+"Green, W. C. H. & Rothstein, A.",1991,Bison_bison,Y,Wild,Single,37,-0.340585495
+"Green, W. C. H. & Rothstein, A.",1991,Bison_bison,Y,Wild,Single,19,0.107411176
+"Green, W. C. H. & Rothstein, A.",1991,Bison_bison,Y,Wild,Single,34,-0.052046946
+"Arnold, T., Howerter, D., Dervies, J., Joynt, B., Emery, R. & Anderseon , M.",2002,Anas_platyrhynchos,Y,Wild,Life,587,-0.041333141
+"Baexa, J.",2007,Lysmata_wurdemanni,N,Captive,Single,49,1.375767657
+"Bowden, R., Paitz, R. & Janzen, F.",2011,Chrysemys_picta,Y,Wild,Single,40,0.441636481
+"Brown, G. & Shine, R.",2002,Tropidonophis_mairii,Y,Wild,Single,157,1.184930546
+"Camargo, A., Sarroca, M. & Maneyro, R.",2008,Physalaemus_biligonigerus,N,Wild,Single,22,0.202732554
+"Camargo, A., Sarroca, M. & Maneyro, R.",2008,Physalaemus_gracilis,N,Wild,Single,37,0.854992829
+"de Buffrenil, V. & Rimblot-Baly, F.",1999,Varanus_niloticus,Y,Wild,Single,122,1.118366551
+"Diaz, J. A., Perez-Tris, Bauwens, D., Perez-Aranda, D. Carbonell, R., Santos, T &  Telleria, J.",2007,Psammodromus_algirus,Y,Wild,Single,54,-0.519696856
+"Diaz, J. A., Perez-Tris, Bauwens, D., Perez-Aranda, D. Carbonell, R., Santos, T &  Telleria, J.",2007,Psammodromus_algirus,Y,Wild,Single,22,-0.477024181
+"Diaz-Paniagua, C., Keller, C. & Andreu, D.",1996,Testudo_graeca,Y,Wild,Single,38,0.272554287
+"Ferguson, G. & Talent, L.",1993,Sceloporus_undulatus,Y,Captive,Single,42,0.650484526
+"Harvey, J., Harvey, I & Thompson, D.",2001,Venturia_canescens,N,Captive,Life,30,0.553314182
+"Heins, D., Johnson, J. & Baker, J.",2003,Pungitius_pungitius,N,Wild,Single,15,1.118285452
+"Heins, D., Johnson, J. & Baker, J.",2003,Pungitius_pungitius,N,Wild,Single,115,0.86392076
+"Hepp, G & Kennamer, R.",1993,Aix_sponsa,Y,Wild,Single,97,0.210445696
+"Ji, X. & Brana, F.",2000,Podarcis_muralis,Y,Wild,Single,53,0.910541134
+"Johnson, J & Hatch, J.",1991,Etheostoma_microperca,N,Wild,Single,20,0.789278299
+"Jones, H., Todd, C & Lambert, W.",1996,Adalaria_proxima,N,Wild,Single,61,0.075141102
+"Klingenberg, C. & Spence, J.",1997,Gerris_buenoi,N,Wild,Life,339,0.101345551
+"Macip-Ri_os, R. Cisneros, M.,  Aguilar-Miguel X., & Casas-Andreu, G.",2009,Kinosternon_integrum,Y,Wild,Single,20,0.9253422
+"Mallory, M., McNicol, D. & Weatherhead, P.",1994,Bucephala_clangula,Y,Wild,Single,23,0.060072156
+"Mappes, J., Kaitala, A. & Rinne, V.",1996,Elasmostethus_interstinctus,N,Captive,Single,17,0.829114038
+"Marta-Silva, V., Ramirez-Bautista, A & Johnson, J. D",2010,Aspidoscelis_marmorata,Y,Wild,Single,11,0.32745015
+"Marta-Silva, V., Ramirez-Bautista, A & Johnson, J. D",2010,Aspidoscelis_tesselata,Y,Wild,Single,22,0.823680235
+"Maxwell, M. & Hanlon, R.",2000,Loligo_pealeii,N,Captive,Life,18,0.537990873
+"Messina, F. J. & Fry, J. D.",2003,Callosobruchus_maculatus,N,Captive,Life,2201,0.435611223
+"Messina, F. J. & Slade, A. F.",2003,Callosobruchus_maculatus,N,Captive,Life,299,0.391903433
+"Meszaros, A., Toth, Z. & Pasztor, L.",2006,Parus_major,Y,Wild,Single,24,0.030009005
+"Miles, D. B., Sinervo, B. & Frankino, W.",2000,Uta_stansburiana,Y,Wild,Single,33,0.174968993
+"Miller, B. & Sinervo, B.",2007,Ariolimax_dolichophallus,N,Captive,Single,37,-0.090244188
+"Mojica, B. H., Rey, B. H., Serrano, V. H. & Ramirez-Pinilla, M. P.",2003,Cnemidophorus_lemniscatus,Y,Wild,Single,46,0.576339755
+"Navarrete, N., Soto, R., Quiroga, E., Vargas, M., & Wehrtmann, I. S.",1999,Eurypodius_latreillii,N,Wild,Single,14,0.847955755
+"Nieuwolt-Dacanay, P. M.",1997,Terrapene_ornata,Y,Wild,Single,203,0.356355693
+"Nkosi, W,., Heideman, J. & Van Wyk, J.",2004,Pedioplanis_burchelli,Y,Wild,Single,78,-0.010000333
+"Oritz, M., Oca, A. & Ugarte, I.",2001,Sceloporus_torquatus,Y,Wild,Single,50,0.745498154
+"Ost, M. & Steele, B.",2010,Somateria_mollissima,Y,Wild,Single,247,0.148602112
+"Peillon, J., Puzin, C., Acou, A. & Outreman, Y.",2009,Arctosa_fulvolineata,N,Wild,Single,29,1.017875992
+"Platt, S., Hastings, R. and Brantley, C.",1995,Alligator_mississippiensis,Y,Wild,Single,11,-0.342828254
+"Platt, S., Rainwater, T., Thorbjarnarson, J. & McMurry, S.",2008,Crocodylus_moreletii,Y,Wild,Single,16,0.70016189
+"Pleguezuelos, J. & Feriche, M.",1999,Coluber_hippocrepis,Y,Wild,Single,8,1.071431684
+"Poizat, G., Rosecchi, E. & Crivelli, A.",2002,Gasterosteus_aculeatus,N,Wild,Single,176,1.419573979
+"Punzo, F. & Farmer, C.",2006,Pardosa_sierra,N,Wild,Single,117,0.260656723
+"Radder, R. & Shanbhag, B.",2003,Sitana_ponticeriana,Y,Wild,Single,29,0.515134459
+"Ramirez-Bautista, A., Balderas-Valdiva, C. & Vitt, L.",2000,Cnemidophorus_lineatissimus,Y,Wild,Single,19,1.153772574
+"Ramirez-Bautista, A. & Gutierrez-Mayan, G..",2003,Sceloporus_utiformis,Y,Wild,Single,72,0.266108407
+"Ramirez-Bautista, A. & Rosa, D.",2002,Cnemidophorus_communis,Y,Wild,Single,17,0.484700279
+"Randriamahazo, H & Mori, A",2001,Oplurus_cuvieri,Y,Wild,Single,17,0.37979657
+"Robinson, T., Siefferman, L. & Risch, T.",2010,Sialia_sialis,Y,Wild,Single,51,0.104377407
+"Rocha, C.",2008,Ameiva_ameiva,Y,Wild,Single,11,0.534246587
+"Roosenburg, W. & Dunham, A.",1997,Malaclemys_terrapin,Y,Wild,Single,94,0.365443754
+"Roosenburg, W. & Dunham, A.",1997,Malaclemys_terrapin,Y,Wild,Single,95,0.226810893
+"Rodriguez-Dominguez, M. & Molina-Borja, M.",1998,Gallotia_simonyi,Y,Wild,Single,17,0.67307972
+"Romero_Schmidt, H., Ortega-Rubio, A. & Acevedo_Beltran, M.",1999,Urosaurus_nigricaudus,Y,Wild,Single,27,-0.447692024
+"Rosen, P.",1991,Coluber_constrictor,Y,Wild,Single,22,1.712880469
+"Rowe, J.",1992,Emydoidea_blandingii,Y,Wild,Single,17,-0.758703097
+"Sasvari, L. & Hegyo, Z.",2001,Ciconia_ciconia,Y,Wild,Single,62,0.420326136
+"Schwarzkopf, L.",1992,Eulamprus_tympanum,Y,Captive,Single,93,0.309926403
+"Segers, F. H. I .D. & Taborsky, B.",2012,Eretmodus_cyanostictus,N,Captive,Single,10,0.847955755
+"Senechal, E., Bety, J. & Gilchrist, H. G.",2011,Somateria_mollissima,Y,Wild,Single,47,-0.126422791
+"Shanbhag, B. A.,Radder, R. S. & Saidapur, S. K.",2000,Calotes_versicolor,Y,Wild,Single,131,0.627335665
+"Shine, R., Ambariyanto, Harlow, P. S. & Mumpuni",1999,Python_reticulatus,Y,Wild,Single,18,1.738049345
+"Simpson, M. R.",1993,Alopecosa_hirtipes,N,Wild,Single,40,0.173739595
+"Simpson, M. R.",1993,Alopecosa_hirtipes,N,Wild,Single,55,0.722984406
+"Simpson, M. R.",1993,Pardosa_glacialis,N,Wild,Single,45,0.68327061
+"Simpson, M. R.",1993,Pardosa_glacialis,N,Wild,Single,55,0.717216327
+"Smith, G. R., Ballinger, R. E. & Rose, B. R.",1995,Sceloporus_virgatus,Y,Wild,Single,297,0.876571453
+"Tanaka, K. & Mori, A.",2011,Elaphe_quadrivirgata,Y,Captive,Single,43,0.576339755
+"Tanaka, K. & Mori, A.",2011,Elaphe_quadrivirgata,Y,Captive,Single,12,0.3884231
+"Thorbjarnarson, J. B.",1996,Alligator_mississippiensis,Y,Wild,Single,5,1.071431684
+"Thorbjarnarson, J. B.",1996,Caiman_crocodilus,Y,Wild,Single,12,1.045370548
+"Thorbjarnarson, J. B.",1996,Caiman_latirostris,Y,Wild,Single,4,0.161386696
+"Thorbjarnarson, J. B.",1996,Crocodylus_acutus,Y,Wild,Single,4,2.297559925
+"Thorbjarnarson, J. B.",1996,Crocodylus_niloticus,Y,Wild,Single,7,0.972955075
+"Thorbjarnarson, J. B.",1996,Crocodylus_porosus,Y,Wild,Single,6,0.950479381
+"Thorbjarnarson, J. B. & Hernandez, G.",1993,Crocodylus_intermedius,Y,Captive,Single,53,0.686899633
+"Timi, J. T., Lanfranchi, A. L. & Poulin, R.",2005,Lernanthropus_cynoscicola,N,Wild,Single,54,1.293344672
+"Tinkle, D. W., Dunham, A. E. & Congdon, J. D.",1993,Sceloporus_graciosus,Y,Wild,Single,56,0.444161358
+"Todd, B. D., Willson, J. D., Winne, C. T., Semlitsch, R. D. & Gibbons, J. W.",2008,Tantilla_coronata,Y,Wild,Single,34,0.422207484
+"Tucker, J. K., Paukstis, G. L. & Janzen, F. J.",1998,Trachemys_scripta,Y,Wild,Single,782,0.484700279
+"Uller, T. & Olsson, M.",2005,Zootoca_vivipara,Y,Captive,Single,25,0.632833187
+"Uller, T. & Olsson, M.",2005,Zootoca_vivipara,Y,Wild,Single,45,0.708921359
+"Vitt, L. J.",1991,Plica_plica,Y,Wild,Single,46,0.758173745
+"Vitt, L. J.",1993,Tropidurus_hispidus,Y,Wild,Single,90,0.829840503
+"Vitt, L. J.",1993,Tropidurus_oreadicus,Y,Wild,Single,17,0.828176413
+"Vitt, L. J.",1993,Tropidurus_oreadicus,Y,Wild,Single,18,0.04475121
+"Vitt, L. J.",1993,Tropidurus_oreadicus,Y,Wild,Single,45,0.151383828
+"Vitt, L. J.",1993,Tropidurus_oreadicus,Y,Wild,Single,24,0.866767076
+"Vitt, L. J.",1993,Tropidurus_semitaeniatus,Y,Wild,Single,86,0.04475121
+"Vitt, L. J. & Decarvalho, C. M.",1992,Kentropyx_striatu,Y,Wild,Single,21,0.690254205
+"Wehrtmann, I. S. & Lardies, M. A.",1999,Austropandalus_grayi,N,Wild,Single,46,0.447692024
+"Witzell, W. N., Salgado-Quintero, A. & Garduno-Dionte, M.",2005,Lepidochelys_kempii,Y,Wild,Single,69,0.151481081
+"Yoshimura, M.",2003,Isoperla_aizuana,N,Captive,Single,12,0.690977349
+"Yoshimura, M.",2003,Stavsolus_japonicus,N,Captive,Single,9,0.641848165
+"Yoshimura, M.",2003,Sweltsa_sp,N,Captive,Single,24,0.633991433
+"Zicus, M. C.",1997,Lophodytes_cucullatus,Y,Wild,Single,58,0.758173745
+"Zuffi, M. A. L., Celani, A., Foschi, E. & Tripepi, S.",2007,Emys_orbicularis,Y,Wild,Single,72,0.127689479
+"Tiwari, M. & Bjorndal, K.",2000,Caretta_caretta,Y,Wild,Single,9,0.119566541
+"Tiwari, M. & Bjorndal, K.",2000,Caretta_caretta,Y,Wild,Single,47,0.744739299
+"Tiwari, M. & Bjorndal, K.",2000,Caretta_caretta,Y,Wild,Single,27,0.462352964
+"Winkler, W. & Allen, P.",1996,Tachycineta_bicolor,Y,Wild,Single,52,0.525840566
+"Murphy, M., Armbrecth, B., Vlamis, E. & Pierce, A.",2000,Tachycineta_bicolor,Y,Wild,Single,42,-0.557338446
+"Bots, J., Van Dongen, A., Adriaens, T., Dumont, H., Stocks, R. & Van Gossum, H.",2009,Enallagma_cyathigerum,N,Wild,Single,39,0.501123153
+"Bradshaw, W. & Holzapfel, C.",1992,Wyeomyia_smithii,N,Captive,Single,40,1.320869508
+"Ellers, J., Driessen, G. & Sevenster, J.",2000,Asobara_tabida,N,Captive,Single,75,0.219905218
+"Galan, P. & Vicente, L.",2003,Teira_dugesii,Y,Wild,Single,25,0.516275781
+"Longpierre, S., Grenot, C. & Hailey, A.",2003,Testudo_hermanni,Y,Wild,Single,13,-0.482195263
+"Marangoni, F., Tejedo, M. & Gomez-Mestre, I.",2008,Epidalea_calamita,N,Wild,Single,229,0.877973536
+"Marangoni, F., Tejedo, M. & Gomez-Mestre, I.",2008,Pelobates_cultripes,N,Wild,Single,73,0.496602049
+"Naimi, M., Znari, M., Lovich, J., Feddadi, Y. & Baamrane, M.",2012,Mauremys_leprosa,Y,Wild,Single,28,0.887183863
+"Prado, C. & Haddad, C.",2005,Hyla_nana,N,Wild,Single,12,0.879803109
+"Prado, C. & Haddad, C.",2005,Hyla_raniceps,N,Wild,Single,23,0.445666079
+"Prado, C. & Haddad, C.",2005,Leptodactylus_chaquensis,N,Wild,Single,26,0.5347579
+"Prado, C. & Haddad, C.",2005,Leptodactylus_podicipinus,N,Wild,Single,9,0.929362948
+"Prado, C. & Haddad, C.",2005,Lysapus_limellus,N,Wild,Single,19,0.418048004
+"Prado, C. & Haddad, C.",2005,Physalaemus_albonotatus,N,Wild,Single,12,0.603516545
+"Prado, C. & Haddad, C.",2005,Scinax_acuminatus,N,Wild,Single,9,0.675802888
+"Rua, M. & P., Galan",2002,Iberolacerta_monticola,Y,Captive,Single,54,0.708921359
+"Pignati, M. & Pezzuti, C.",2012,Podocnemis_unifilis,Y,Wild,Single,11,0.922334641
+"Rosen, P. & Goldberg, S.",2002,Crotalus_atrox,Y,Wild,Single,28,0.410621192
+"Austin, A.",1984,Clubiona_robusta,N,Wild,Single,24,1.127029026
+"Camargo, A., Naya, D., Canavero, A., Rosa, I. & Maneyro, R.",2005,Physalaemus_gracilis,N,Wild,Single,64,0.693147181
+"Giaretta, A. & Menin, M.",2004,Physalaemus_fuscomaculatus,N,Wild,Single,9,0.522984278
+"Maneyro, R., Nunez, D., Borteiro, C., Tedros, M & Kolenc, F.",2008,Physalaemus_henselii,N,Wild,Single,63,0.843673619
+"Tinkle, D. & Ballinger, R.",1972,Sceloporus_undulatus,Y,Wild,Single,194,0.459896681
+"Tinkle, D.",1972,Sceloporus_undulatus,Y,Wild,Single,43,0.40005965
+"Tinkle, D. W. & Dunham, A. E.",1983,Urosaurus_ornatus,Y,Wild,Single,104,0.349369018
+"Vinegar, M",1975,Sceloporus_virgatus,Y,Wild,Single,131,0.986812774
+"Vinegar, M",1975,Sceloporus_undulatus,Y,Wild,Single,39,0.502396767
+"Vinegar, M",1975,Sceloporus_undulatus,Y,Wild,Single,69,0.907644983
+"Baskale, E., Sayim, F., Yildirim, S., Atatur, M. & Kaya, U.",2011,Bufo_viridis,N,Wild,Single,63,0.718533343
+"Bejakovic, D., Kalezic, M. Aleksic, I., Dzukic, G. & Crnobrnja-Isalovic, J.",1995,Podarcis_melisellensis,Y,Wild,Single,6,1.127029026
+"Bejakovic, D., Kalezic, M. Aleksic, I., Dzukic, G. & Crnobrnja-Isalovic, J.",1995,Podarcis_melisellensis,Y,Captive,Single,38,0.099325348
+"Campos, Z., Magnusson, W., Sanaiotti, T. & Coutinho, M.",2008,Caiman_crocodilus,Y,Wild,Single,153,0.708442728
+"Diaz_Paniagua, C., Cuadrado, M., Blazquez, C. & Mateo, J.",2002,Chamaeleo_chamaeleon,Y,Wild,Single,41,0.840360576
+"Mouden, E., Znari, M. & Pieau, C.",2001,Agama_impalearis,Y,Captive,Single,77,0.708921359
+"Ji, X. & Sun, P.",2000,Ptyas_korros,Y,Captive,Single,19,0.780298917
+"Bustos-Zagal, M., Cruz, F., Castro-Franco, R. & Cruz, M.",2011,Sceloporus_ochoterenae,Y,Wild,Single,32,0.372297871
+"Adamopoulou, C. & Valakos, E.",2000,Podarcis_milensis,Y,Wild,Single,126,0.090244188
+"Amat, F., Llorente, G. & Carretero, M.",2000,Lacerta_agilis,Y,Wild,Single,37,0.972955075
+"Arribas, O. & Galan, P.",2005,Iberolacerta_aranica,Y,Captive,Single,40,0.758173745
+"Arribas, O. & Galan, P.",2005,Iberolacerta_aurelioi,Y,Captive,Single,23,0.576339755
+"Arribas, O. & Galan, P.",2005,Iberolacerta_bonnali,Y,Captive,Single,25,0.549306144
+"Carretero, M. & Llorente, G.",1997,Psammodromus_algirus,Y,Wild,Single,41,0.40005965
+"Chrondropoulos, B. & Lykakis, J.",1983,Podarcis_taurica,Y,Wild,Single,108,0.748076471
+"Goldberg, S. & Robinson, M.",1979,Meroles_anchietae,Y,Wild,Single,85,0.120581028
+"Maragou, P., Chrondropoulos, B. & Valakos, E.",1999,Podarcis_erhardii,Y,Wild,Single,33,0.628473201
+"Maragou, P., Chrondropoulos, B. & Valakos, E.",1999,Podarcis_peloponnesiaca,Y,Wild,Single,19,0.733168534
+"Maragou, P., Chrondropoulos, B. & Valakos, E.",1999,Podarcis_taurica,Y,Wild,Single,29,0.557338446
+"Marco, V. & Martin, J.",1994,Lacerta_schreiberi,Y,Wild,Single,25,1.071431684
+"Mateo, J. & Castanet, J.",1994,Timon_lepida,Y,Wild,Single,79,0.71531674
+"Purse, B. & Thompson, D.",2003,Coenagrion_mercuriale,N,Wild,Single,20,0.31134705
+"Sluys, M., Mendes, H., Assis, V. & Kiefer, M.",2002,Tropidurus_montanus,Y,Wild,Single,52,0.85279283
+"Ramirez-Bautista, A. & Olivera-Becerril, V.",2004,Sceloporus_pyrocephalus,Y,Wild,Single,53,0.234189467
+"Ramirez-Bautista, A., Luja, V. H., Balderas-Valdivia, C. & Ortiz-Pulido, R.",2006,Sceloporus_melanorhinus,Y,Wild,Single,12,0.411800034
+"Ramirez-Bautista, A., Stephenson, B. P., Hernandez-Ibarra, X.,  Hernandez-Salinas, U.,  Cruz-Elizalde, R., Lozano, A. & Geoffrey, R.S.",2012,Sceloporus_spinosus,Y,Wild,Single,12,0.604155603
+"Rodrigues, D. J., Uetanabaro, M. & Lopes, F. S.",2005,Trachycephalus_venulosus,N,Wild,Single,22,0.335697292
+"Rodrigues, D. J., Uetanabaro, M. & Lopes, F. S.",2007,Phyllomedusa_azurea,N,Wild,Single,8,0.596829513
+"Masunaga, G., Matsuura, R., Yoshino, T. & Ota, H.",2003,Emydocephalus_ijimae,Y,Wild,Single,23,0.371153208
+"de Oliveira, R. B., Pontes, G. M. F., Maciel, A. P., Gomes, L. R. & Di-Bernardo, M.",2011,Xenodon_dorbignyi,Y,Wild,Single,50,0.230437396
+"Brown, G. & Shine, R.",2007,Tropidonophis_mairii,Y,Wild,Single,830,0.327749756
+"Rollinson, N. & R. Brooks",2008,Chrysemys_picta,Y,Wild,Single,168,0.505206714
+"Lardner, B. & Loman, J.",2003,Rana_temporaria,N,Captive,Single,39,1.021296596
+"Milanovich, J. R., Trauth, S. E., Saugey, D. A. & Jordan, R. R.",2006,Plethodon_albagula,N,Wild,Single,48,0.076750348
+"Jones, P.",Unp,Galaxias_anomalus,N,Wild,Single,25,0.75648181
+"Jones, P.",Unp,Galaxias_D.,N,Wild,Single,8,0.799934231
+"Jones, P.",Unp,Galaxias_depressiceps,N,Wild,Single,19,1.047929277
+"Jones, P.",Unp,Galaxias_eldoni,N,Wild,Single,22,1.712880469
+"Jones, P.",Unp,Galaxias_gollumoides,N,Wild,Single,18,0.770121337
+"Jones, P.",Unp,Galaxias_pullus,N,Wild,Single,17,1.138771478
+"Jones, P.",Unp,Galaxias_southern,N,Wild,Single,20,1.301076386
+"Jones, P.",Unp,Galaxias_vulgaris,N,Wild,Single,15,0.496043635
+"Lyapkov, S. M., Kornilova, M. B. & Severtsov, A. S.",2002,Rana_temporaria,N,Captive,Single,290,0.543986945
+"Casas-Andreu, G., Barrios-Quiroz, G. & Macip-Rios, R.",2011,Crocodylus_moreletii,Y,Wild,Single,191,0.3319137
+"Garcia-Marquez, M., Lopez-Jurado, L.F & Mateo, J.A.",1999,Gallotia_caesaris,Y,Wild,Single,15,0.632833187
+"Niejalke, D. P.",2006,Ctenophorus_pictus,Y,Wild,Single,45,0.529519228
+"Niejalke, D. P.",2006,Ctenophorus_pictus,Y,Wild,Single,45,1.087114147
+"Bonach, K., Pina, C. I. & Verdade, L. M.",2006,Podocnemis_expansa,Y,Wild,Single,14,0.442367224
+"Puzin, C., Acou, A., Bonte, D. and Petillon, J.",2011,Arctosa_fulvolineata,N,Wild,Single,30,1.009362098
+"Puzin, C., Acou, A., Bonte, D. and Petillon, J.",2011,Pardosa_purbeckensis,N,Wild,Single,30,0.873240282
+"Uller, T. & Olsson, M.",2009,Ctenophorus_fordi,Y,Captive,Single,178,0.194385672

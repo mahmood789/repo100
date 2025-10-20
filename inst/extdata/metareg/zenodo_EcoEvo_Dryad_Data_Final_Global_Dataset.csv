@@ -1,0 +1,56 @@
+USN,Author,Year,Hedge_g,Hedge_g_error,N,Plant_Family,Tribe,Tribe_B,Experiment_Conditions,Continent,Drought methodology,Hedge_g_Plant_Vigour,Hedge_g_error_Plant_Vigour,N_Plant_Vigour,Hedge_g_Plant_Defence,Hedge_g_error_Plant_Defence,N_Plant_Defence,Hedge_g_Plant_Nutrition,Hedge_g_error_Plant_Nutrition,N_Plant_Nutrition
+3,Beetge and Kruger,2019,-0.223743609,0.007970536,798,Solanaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Africa,FC,-2.93,0.93,12,n/a,n/a,n/a,n/a,n/a,n/a
+5,Tamburini,2018,-0.353320402,0.02387518,225,Poaceae,Macrosiphini,Macrosiphini,Glasshouse,Europe,DI,-16.170000000000002,0.9,327,n/a,n/a,n/a,n/a,n/a,n/a
+6,Rousselin,2018,-0.41465425,0.019333354,480,Roseaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,Europe,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+10,Liu,2018,-3.085165633,0.219253174,216,Poaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Asia,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+23,Wade,2017,0.274929807,0.034100846,72,Poaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,Europe,DI,-7.76,0.83,91,n/a,n/a,n/a,2.14,0.18,140
+28,Foote,2017,-0.363799752,0.021741194,288,Poaceae,Macrosiphini,Macrosiphini,Glasshouse,North_America,GM,-35.700000000000003,7.61,24,n/a,n/a,n/a,n/a,n/a,n/a
+29,Ahmed,2017,-1.406666667,0.306959832,24,Poaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Asia,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+32,Ryalls,2016,-0.884536871,0.19302177,22,Fabaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,Australasia,DI,-9.94,0.76,176,n/a,n/a,n/a,n/a,n/a,n/a
+34,Pineda,2016,-1.857907138,0.345004694,30,Brassicaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,GM,-4.45,0.27,272,0.81,0.13,40,n/a,n/a,n/a
+36,Nachappa,2016,-0.735743546,0.126178977,36,Fabaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,North_America,CC,-1.77,0.59,10,n/a,n/a,n/a,n/a,n/a,n/a
+40,Guo,2016,-0.919701703,0.078290208,144,Brassicaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Asia,DI,n/a,n/a,n/a,2.93,0.38,64,-1.62,0.21,64
+41,Grettenberger and Tooker,2016,-0.313652495,0.032700533,96,Poaceae,Aphidini,Aphidini,Field_or_Polytunnel,North_America,RW,-2.39,0.2,160,n/a,n/a,n/a,n/a,n/a,n/a
+46,Verdugo,2015,0.324726136,0.052677535,40,Roseaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,South_America,FC,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+51,Davis,2015,-0.797784882,0.104754287,60,Poaceae,Aphidini,Aphidini,Glasshouse,North_America,GM,-8.9499999999999993,0.53,300,n/a,n/a,n/a,n/a,n/a,n/a
+52,Dardeau,2015,-1.209736343,0.158846164,60,Salicaceae,Phloeomyzinae,Other,Glasshouse,Europe,DI,-16.100000000000001,1.7,100,n/a,n/a,n/a,n/a,n/a,n/a
+53,Dai,2015,-0.356630337,0.020190217,320,Poaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Asia,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+54,Banfield-Zanin and Leather A,2015,-0.626461771,0.033875173,360,Pinaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,FC,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+55,Banfield-Zanin and Leather B,2015,-2.902081324,0.156926586,360,Pinaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,FC,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+56,Banfield-Zanin and Leather C,2015,-2.097979033,0.138942056,240,Pinaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,FC,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+67,Barton and Ives,2014,-0.168565475,0.013452989,177,Fabaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,North_America,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+70,Tariq,2013A,-0.448181348,0.041976029,120,Brassicaceae,Panaphidina,Other,Growth_Chamber_or_Room,Europe,DI,-11.72,1.1000000000000001,120,2.63,0.19,210,2.0699999999999998,0.27,60
+75,Aslam,2013,-0.443506875,0.071946316,40,Solanaceae,Macrosiphini,Macrosiphini,Glasshouse,Europe,DI,-1.8,0.22,74,n/a,n/a,n/a,-2.98,0.36,74
+76,Rivelli,2013,-0.196035384,0.015261334,180,Poaceae,Macrosiphini,Macrosiphini,Glasshouse,Europe,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+77,Tariq,2012,0.122422313,0.014042802,80,Brassicaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,Europe,DI,-25.2,5.78,20,2.21,0.28000000000000003,70,6.25,1.43,20
+78,Simpson,2012,-0.992627051,0.113862132,80,Brassicaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,DI,-7.57,0.78,96,n/a,n/a,n/a,n/a,n/a,n/a
+81,Mewis,2012,1.263437017,0.204956548,40,Brassicaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,DI,-14.38,3.3,20,n/a,n/a,n/a,n/a,n/a,n/a
+96,Johnson,2011,-0.586923943,0.041923139,200,Poaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,Europe,DI,-2.98,0.3,100,n/a,n/a,n/a,3.55,0.28999999999999998,150
+110,Rudgers and Swafford,2009,0.984293194,0.140613313,50,Poaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,North_America,DI,0.26,0.01,325.5,n/a,n/a,n/a,n/a,n/a,n/a
+111,Ramirez and Verdugo,2009,-0.887335472,0.143944821,39,Salicaceae,Aphidini,Aphidini,Field_or_Polytunnel,South_America,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+113,Mody,2009,-0.743281346,0.1175231,42,Roseaceae,Chaitophorini,Other,Glasshouse,Europe,DI,-14.42,1.4,108,n/a,n/a,n/a,-6.95,0.62,128
+122,Nguyen,2007,-2.960124911,0.515291606,36,Solanaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,North_America,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+130,King,2006,-1.081190875,0.185422705,36,Brassicaceae,Macrosiphini,Macrosiphini,Glasshouse,Australasia,RW,-2.1,0.25,72,n/a,n/a,n/a,n/a,n/a,n/a
+136,Xing,2003,-0.91744119,0.043105147,462,Poaceae,Aphidini,Aphidini,Field_or_Polytunnel,Asia,FC,n/a,n/a,n/a,6.09,1.57,18,n/a,n/a,n/a
+139,Hale,2003,-1.237431076,0.1213401,108,Poaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,Europe,DI,-5.83,0.42,200,n/a,n/a,n/a,3.2,0.11,816
+140,Bultman and Bell,2003,-0.411392142,0.041556882,100,Poaceae,Aphidini,Aphidini,Glasshouse,North_America,CC,n/a,n/a,n/a,n/a,n/a,n/a,1.08,0.25,20
+144,McVean and Dixon,2001,-0.69918293,0.088088769,66,Fabaceae,Macrosiphini,Macrosiphini,Glasshouse,Europe,RW,-0.96,0.21,22,n/a,n/a,n/a,n/a,n/a,n/a
+159,Oswald and Brewer,1997,0.357735236,0.016901401,512,Poaceae,Mixed,Combined,Glasshouse,North_America,RW,-3.19,0.6,32,n/a,n/a,n/a,n/a,n/a,n/a
+163,De Farias,1995,-0.348254606,0.037997693,96,Poaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,Europe,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+164,Cabrera,1995,-0.902716635,0.146439975,40,Poaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,South_America,RW,n/a,n/a,n/a,n/a,n/a,n/a,12.54,4.74,8
+170,Larsson and Bjorkman,1993,0.242725039,0.039375201,40,Pinaceae,Eulachnini,Other,Field_or_Polytunnel,Europe,RW,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+177,Warrington and Whittaker,1990,-0.145432014,0.017139327,80,Pinaceae,Macrosiphini,Macrosiphini,Glasshouse,Europe,RW,-6.65,1.1399999999999999,36,n/a,n/a,n/a,n/a,n/a,n/a
+182,Archer,1995,0.810763113,0.115823302,56,Poaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,North_America,RW,-6.7,0.8,80,n/a,n/a,n/a,n/a,n/a,n/a
+192,Moran and Whitham,1988,-1.393390414,0.125130153,128,Ruminaceae,Hormaphidini,Other,Field_or_Polytunnel,North_America,RW,-6.91,1.07,48,n/a,n/a,n/a,n/a,n/a,n/a
+195,Fereres,1988,-0.46003101,0.070984326,48,Poaceae,Macrosiphini,Macrosiphini,Glasshouse,Europe,RW,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+204,Quandahor,2019,-2.37633465,0.292506575,72,Solanaceae,Macrosiphini,Macrosiphini,Glasshouse,Asia,FC,n/a,n/a,n/a,14.59,1.57,108,n/a,n/a,n/a
+206,Xie,2020,-0.551939968,0.0337151,270,Poaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Asia,DI,n/a,n/a,n/a,0.61475416100000002,2.1573642000000001E-2,840,1.207478829,0.158549738,60
+Scop_1,Pons,2020,0.006355107,0.001030935,40,Poaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,FC,-4.276350828,0.56151237300000001,60,n/a,n/a,n/a,n/a,n/a,n/a
+Scop_10,Björkman,1998,4.007110327,1.514545343,8,Pinaceae,Adelgini,Other,Field_or_Polytunnel,Europe,DI,-0.38781981799999998,9.4060121999999996E-2,18,n/a,n/a,n/a,n/a,n/a,n/a
+Scop_11,Neuvonen,1992,-1.194412702,0.243808472,25,Pinaceae,Eulachnini,Other,Field_or_Polytunnel,Europe,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Scop_3,Prill,2014,1.384020726,0.266354913,30,Brassicaceae,Macrosiphini,Macrosiphini,Field_or_Polytunnel,Europe,DI,-0.91757851000000001,0.100116023,90,0.49474338099999998,7.4585370999999998E-2,45,n/a,n/a,n/a
+Scop_4,Tariq,2013B,-2.084461206,0.185698564,144,Brassicaceae,Macrosiphini,Macrosiphini,Growth_Chamber_or_Room,Europe,DI,-3.4889304299999999,0.26449513299999999,180,1.0162793510000001,5.9270614999999999E-2,315,1.065393362,0.164393765,45
+Scop_5,Miranda,2011,-1.039386365,0.15669339,48,Poaceae,Mixed,Combined,Glasshouse,South_America,GM,-0.49541807900000001,2.9501717E-2,288,n/a,n/a,n/a,n/a,n/a,n/a
+Scop_6,Yule,2011,0.71158612,0.049578554,217,Poaceae,Aphidini,Aphidini,Glasshouse,North_America,DI,0.34540343800000001,4.5353693E-2,60,n/a,n/a,n/a,n/a,n/a,n/a
+Scop_8,Björkman,2000,-0.717808136,0.052632246,192,Pinaceae,Adelgini,Other,Field_or_Polytunnel,Europe,DI,-0.435382979,2.5926679000000001E-2,288,4.4955916999999998E-2,4.6368490000000002E-3,96,n/a,n/a,n/a
+Scop_9,Smyrnioudis,2000,-0.513054965,0.089311406,36,Poaceae,Aphidini,Aphidini,Growth_Chamber_or_Room,Europe,DI,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

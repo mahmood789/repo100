@@ -1,0 +1,25 @@
+VAR,TL,PAIR,NEWEFFECT,Significant
+1.PlantDen,first,1.EA,-8.315,NA
+1.PlantDen,first,2.AL,-26.885,y
+1.PlantDen,first,3.EL,-18.852,y
+1.PlantDen,first,4.AEL,-31.256,NA
+2.PlantGrow,first,1.EA,-34.854,NA
+2.PlantGrow,first,2.AL,-25.072,NA
+2.PlantGrow,first,3.EL,-19.917,NA
+2.PlantGrow,first,4.AEL,-39.363,NA
+3.Cat Den,second,1.EA,1.006,NA
+3.Cat Den,second,2.AL,12.746,y
+3.Cat Den,second,3.EL,11.502,y
+3.Cat Den,second,4.AEL,4.306,y
+4.Herb,second,1.EA,6.981,y
+4.Herb,second,2.AL,2.266,y
+4.Herb,second,3.EL,-4.371,y
+4.Herb,second,4.AEL,-23.494,y
+5.ParaDen,third,1.EA,0.381,NA
+5.ParaDen,third,2.AL,12.603,y
+5.ParaDen,third,3.EL,10.571,y
+5.ParaDen,third,4.AEL,2.542,y
+6.Attack,third,1.EA,-19.908,NA
+6.Attack,third,2.AL,-22.963,NA
+6.Attack,third,3.EL,-9.813,NA
+6.Attack,third,4.AEL,-21.713,y
