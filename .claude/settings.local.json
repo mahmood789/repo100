@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Rscript:*)",
+      "Bash(awk:*)",
+      "Bash(R.exe:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

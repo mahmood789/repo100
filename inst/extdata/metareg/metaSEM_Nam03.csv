@@ -1,0 +1,60 @@
+ID,Size,Age,Year,Country,Smoke,Adj,Asthma_logOR,LRD_logOR,Asthma_v,AsthmaLRD_cov_05,LRD_v
+3,1285,1.1,1987,English or Scotland,Parental exposure,0,0.385262400790645,NA,0.0729,NA,NA
+4,470,9,1994,Scandanavia or Netherlands,Parental exposure,1,NA,0.0392207131532813,NA,NA,0.04
+6,1077,6.7,1995,English or Scotland,Parental exposure,0,0.350656871613169,NA,0.0225,NA,NA
+8,550,1.7,1995,Scandanavia or Netherlands,Parental exposure,0,NA,0.609765571620894,NA,NA,0.0324
+10,850,9.4,1996,"Other (Israel, Turkey, South Africa, Mexico or U. Arab Emirates",Parental exposure,0,0.246860077931526,NA,0.0529,NA,NA
+11,892,10.9,1996,USA or Canada,Parental exposure,1,-0.0202027073175195,NA,0.0484,NA,NA
+14,1232,9.5,1996,"Japan, Hong Kong or Malaysia",Parental exposure,1,-0.0943106794712413,NA,0.0729,NA,NA
+16,3048,1,1997,Scandanavia or Netherlands,Parental exposure,1,NA,0.418710334858185,NA,NA,0.0144
+17,2216,8.6,1997,English or Scotland,Household exposure,0,-0.27443684570176,NA,0.0225,NA,NA
+19,535,6.5,1995,"Japan, Hong Kong or Malaysia",Parental exposure,0,0.300104592450338,NA,0.36,NA,NA
+20,5953,0.5,1987,Scandanavia or Netherlands,Parental exposure,1,NA,0.993251773010283,NA,NA,0.04
+22,159,1,1986,USA or Canada,Parental exposure,0,NA,0.693147180559945,NA,NA,0.0576
+24,9678,5,1989,English or Scotland,Parental exposure,0,-0.0408219945202552,0.048790164169432,0.0144,0.0054,0.0081
+25,318,8.2,1995,"Other (Israel, Turkey, South Africa, Mexico or U. Arab Emirates",Parental exposure,0,0.336472236621213,NA,0.1296,NA,NA
+26,343,9.5,1995,USA or Canada,Parental exposure,1,NA,0.85015092936961,NA,NA,0.0784
+28,11534,9.5,1996,USA or Canada,Household exposure,1,-0.0202027073175195,0.122217632724249,0.0121,0.0033,0.0036
+29,10106,7.5,1984,USA or Canada,Parental exposure,0,NA,-0.0202027073175195,NA,NA,0.0036
+32,443,3.8,1992,New Zealand or Australia,Parental exposure,0,NA,1.93296963777958,NA,NA,0.2116
+36,12727,2.5,1987,English or Scotland,Parental exposure,0,NA,0.378436435720245,NA,NA,0.01
+37,257,7.5,1989,English or Scotland,Household exposure,1,NA,0.993251773010283,NA,NA,0.1369
+38,511,2.5,1995,Scandanavia or Netherlands,Parental exposure,0,0.524728528934982,NA,0.0289,NA,NA
+40,253,1,1995,New Zealand or Australia,Parental exposure,0,NA,-0.328504066972036,NA,NA,0.2601
+43,1503,13,1997,English or Scotland,Parental exposure,0,NA,0.122217632724249,NA,NA,0.0196
+44,7677,14,1995,"Other (Israel, Turkey, South Africa, Mexico or U. Arab Emirates",Parental exposure,0,0.157003748809665,0.139761942375159,0.0036,6e-4,4e-4
+49,1001,7,1988,English or Scotland,Household exposure,0,NA,0.0392207131532813,NA,NA,0.0361
+50,961,13.5,1995,English or Scotland,Parental exposure,1,NA,0.0198026272961797,NA,NA,0.0169
+51,1138,9,1983,USA or Canada,Parental exposure,1,NA,0.00995033085316809,NA,NA,0.0121
+52,5412,9.2,1997,"Other (Israel, Turkey, South Africa, Mexico or U. Arab Emirates",Household exposure,1,0.300104592450338,0.22314355131421,0.0081,0.00405,0.0081
+54,925,7,1997,USA or Canada,Household exposure,1,0.470003629245736,0.53062825106217,0.0784,0.0448,0.1024
+56,2554,9.5,1995,Scandanavia or Netherlands,Household exposure,0,-0.562118918153541,NA,0.1089,NA,NA
+57,4665,13.5,1997,"Japan, Hong Kong or Malaysia",Household exposure,0,NA,0.0392207131532813,NA,NA,0.0049
+59,1501,9.5,1991,"Japan, Hong Kong or Malaysia",Household exposure,1,0.0953101798043249,0.182321556793955,0.0121,0.00825,0.0225
+61,1143,1,1981,New Zealand or Australia,Parental exposure,1,NA,0.0392207131532813,NA,NA,1e-4
+63,483,1,1989,English or Scotland,Parental exposure,1,NA,0.476234178996372,NA,NA,0.0529
+65,8154,4.6,1995,New Zealand or Australia,Parental exposure,1,NA,0.198850858745165,NA,NA,0.0016
+69,2077,0.5,1974,English or Scotland,Parental exposure,0,NA,0.500775287912489,NA,NA,0.0441
+71,8585,7,1993,New Zealand or Australia,Parental exposure,0,0.19062035960865,NA,0.0016,NA,NA
+75,301,1,1988,USA or Canada,Household exposure,0,NA,0.688134638736401,NA,NA,0.1225
+76,153,10.9,1989,USA or Canada,Parental exposure,0,NA,0.924258901523332,NA,NA,0.1521
+78,3072,8.5,1982,USA or Canada,Parental exposure,1,0.398776119957368,NA,0.0256,NA,NA
+79,4331,2.5,1990,USA or Canada,Parental exposure,1,0.741937344729377,NA,0.0529,NA,NA
+80,1215,2,1993,English or Scotland,Household exposure,1,0.78845736036427,NA,0.0441,NA,NA
+81,708,10.5,1994,New Zealand or Australia,Household exposure,1,0.336472236621213,NA,0.0361,NA,NA
+82,620,10,1995,Scandanavia or Netherlands,Parental exposure,1,1.02961941718116,NA,0.1521,NA,NA
+83,126,9,1991,Scandanavia or Netherlands,Parental exposure,0,0.940007258491471,NA,0.1369,NA,NA
+84,228,8.5,1992,USA or Canada,Household exposure,1,0.693147180559945,NA,0.0841,NA,NA
+85,914,3.5,1993,USA or Canada,Parental exposure,1,0.357674444271816,NA,0.0324,NA,NA
+88,16562,8,1991,English or Scotland,Parental exposure,1,NA,0.300104592450338,NA,NA,0.09
+89,15712,5,1995,English or Scotland,Parental exposure,0,NA,0.285178942233662,NA,NA,0.0361
+93,3482,8.4,1986,USA or Canada,Parental exposure,0,0.139761942375159,0.215111379616945,0.0169,0.0052,0.0064
+105,192,0.8,1992,Scandanavia or Netherlands,Parental exposure,0,NA,1.18784342239605,NA,NA,0.25
+109,726,16.3,1996,"Other (Israel, Turkey, South Africa, Mexico or U. Arab Emirates",Parental exposure,1,NA,1.47247205736094,NA,NA,0.2209
+111,372,7,1980,USA or Canada,Parental exposure,0,NA,1.7732559976635,NA,NA,1.0609
+113,684,9,1988,Scandanavia or Netherlands,Household exposure,1,-0.0725706928348354,0.22314355131421,0.0016,0.0022,0.0121
+114,207,9.3,1992,USA or Canada,Household exposure,0,0.357674444271816,NA,0.1089,NA,NA
+122,700,7.9,1992,USA or Canada,Parental exposure,0,0.350656871613169,NA,0.0361,NA,NA
+601,9653,9,1997,Scandanavia or Netherlands,Household exposure,1,0.444685821261446,NA,0.0196,NA,NA
+603,3769,9,1997,Scandanavia or Netherlands,Household exposure,1,0.0953101798043249,NA,0.0529,NA,NA
+603,2540,9,1997,Scandanavia or Netherlands,Household exposure,1,-0.356674943938732,NA,0.1849,NA,NA

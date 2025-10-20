@@ -1,0 +1,19 @@
+###############################################################################
+# COPY-PASTE THIS INTO YOUR R CONSOLE TO INSTALL PACKAGES AND EXPAND TO 300
+###############################################################################
+
+# This will:
+# 1. Install all 16 meta-analysis packages (MAd, metaplus, rmeta, etc.)
+# 2. Automatically run the expansion to 300 datasets
+# 3. Show you a summary at the end
+
+source("C:/Users/user/OneDrive - NHS/Documents/repo100/INSTALL_AND_EXPAND.R")
+
+###############################################################################
+# WAIT 10-30 MINUTES FOR THIS TO COMPLETE
+# You'll see:
+# - Package installation progress
+# - "[Enter] to continue" prompt (press Enter)
+# - Expansion progress with dataset names
+# - Final summary showing how many datasets you have
+###############################################################################

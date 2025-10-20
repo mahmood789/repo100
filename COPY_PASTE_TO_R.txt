@@ -1,0 +1,24 @@
+###############################################################################
+# COPY-PASTE THIS ENTIRE BLOCK INTO YOUR R CONSOLE OR RSTUDIO
+###############################################################################
+
+# Set working directory
+setwd("C:/Users/user/OneDrive - NHS/Documents/repo100")
+
+# Step 1: Cleanup (remove toy datasets and incomplete entries)
+cat("\n=== STEP 1: CLEANUP ===\n")
+source("scripts/cleanup_manifest.R")
+
+# Step 2: Expansion (add datasets to reach 300)
+cat("\n=== STEP 2: EXPANSION ===\n")
+cat("This will take 10-30 minutes...\n")
+source("scripts/expand_to_300_real.R")
+
+# Step 3: Check results
+cat("\n=== STEP 3: RESULTS ===\n")
+manifest <- readr::read_csv("inst/extdata/metareg/_manifest.csv", show_col_types = FALSE)
+cat("Final count:", nrow(manifest), "/ 300 datasets\n")
+
+###############################################################################
+# END - WAIT FOR THIS TO COMPLETE BEFORE DOING ANYTHING ELSE
+###############################################################################

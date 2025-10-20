@@ -1,0 +1,67 @@
+Id,Study,Cluster,logOR,v,Year,Type,Discipline,Country
+1,Ackers (2000a; Marie Curie),1,-0.40108,0.0139169209,1996,Fellowship,Physical sciences,Europe
+2,Ackers (2000b; Marie Curie),1,-0.05727,0.0342879289,1996,Fellowship,Physical sciences,Europe
+3,Ackers (2000c; Marie Curie),1,-0.29852,0.0339112225,1996,Fellowship,Physical sciences,Europe
+4,Ackers (2000d; Marie Curie),1,0.36094,0.03404025,1996,Fellowship,Physical sciences,Europe
+5,Ackers (2000e; Marie Curie),1,-0.33336,0.0128210329,1996,Fellowship,Social sciences/humanities,Europe
+6,Ackers (2000f; Marie Curie),1,-0.07173,0.0136118889,1996,Fellowship,Physical sciences,Europe
+7,Ackers (2000g; Marie Curie),1,-0.16793,0.00583696,1996,Fellowship,Life sciences/biology,Europe
+8,Allmendinger (2002a; DFG),2,-0.55585,0.3964969024,1993,Grant,Social sciences/humanities,Europe
+9,Allmendinger (2002b; DFG),2,-0.09217,0.5866794025,1994,Grant,Social sciences/humanities,Europe
+10,Allmendinger (2002c; DFG),2,0.48184,0.7119478129,1995,Grant,Social sciences/humanities,Europe
+11,Allmendinger (2002d; DFG),2,-0.25672,0.2932547409,1996,Grant,Social sciences/humanities,Europe
+12,Allmendinger (2002e; DFG),2,-0.429,0.43652449,1997,Grant,Social sciences/humanities,Europe
+13,Allmendinger (2002f; DFG),2,-0.55207,0.136161,1998,Grant,Social sciences/humanities,Europe
+14,Allmendinger (2002g; DFG),2,-1.113,0.3360289024,1999,Grant,Social sciences/humanities,Europe
+15,Bazeley (1998; ARC),3,-0.24714,0.1291467969,1995,Grant,Multidisciplinary,Australia
+16,Bornmann (2005; BIF),4,-0.45176,0.0092083216,1992,Fellowship,Life sciences/biology,Europe
+17,Brouns (2000a; NWO/ KNAW),5,-0.44629,0.5400045225,1994,Fellowship,Social sciences/humanities,Europe
+18,Brouns (2000b; NWO/ KNAW),5,-0.87855,0.3606843249,1994,Fellowship,Social sciences/humanities,Europe
+19,Brouns (2000c; NWO/ KNAW),5,1.50539,0.3146649025,1994,Fellowship,Physical sciences,Europe
+20,Brouns (2000d; NWO/ KNAW),5,-0.8546,0.1750836649,1994,Fellowship,Life sciences/biology,Europe
+21,Brouns (2000e; NWO/ KNAW),5,-0.09465,0.0834227689,1994,Fellowship,Life sciences/biology,Europe
+22,Dexter (2002a; Wellcome Trust),6,0.04879,0.0438567364,2000,Fellowship,Life sciences/biology,United Kingdom
+23,Dexter (2002b; Wellcome Trust),6,-0.14259,0.0225690529,2000,Grant,Life sciences/biology,United Kingdom
+24,Dexter (2002c; Wellcome Trust),6,-0.89097,0.3852560761,2000,Grant,Life sciences/biology,United Kingdom
+25,Emery (1992; NIH),7,0.35229,0.0899220169,1990,Fellowship,Life sciences/biology,United States
+26,Friesen (1998a; MRC),8,-0.05753,0.0056896849,1998,Grant,Life sciences/biology,Canada
+27,Friesen (1998b; MRC),8,-0.20078,0.0768620176,1998,Fellowship,Life sciences/biology,Canada
+28,Friesen (1998c; MRC),8,-0.27131,0.0157301764,1998,Fellowship,Life sciences/biology,Canada
+29,Goldsmith (2002a; NSF),9,-0.31304,0.0106688241,1979,Fellowship,Multidisciplinary,United States
+30,Goldsmith (2002b; NSF),9,-0.05053,0.0051955264,1993,Fellowship,Multidisciplinary,United States
+31,Grant (1997a; Wellcome Trust),10,-0.03353,0.0235591801,1996,Grant,Life sciences/biology,United Kingdom
+32,Grant (1997b; Wellcome Trust),10,0.48551,0.20967241,1996,Fellowship,Life sciences/biology,United Kingdom
+33,Grant (1997c; MRC),10,0.14548,0.0372219849,1996,Grant,Life sciences/biology,United Kingdom
+34,Grant (1997d; MRC),10,-0.54990000000000006,0.1441341225,1995,Fellowship,Life sciences/biology,United Kingdom
+35,Jayasinghe (2001; ARC),11,-0.00307,0.01532644,1996,Grant,Multidisciplinary,Australia
+36,National Science Foundation (2005a),12,0.18275,9.903609e-4,1997,Grant,Multidisciplinary,United States
+37,National Science Foundation (2005b),12,0.08592,9.897316e-4,1998,Grant,Multidisciplinary,United States
+38,National Science Foundation (2005c),12,-0.02845,0.0010686361,1999,Grant,Multidisciplinary,United States
+39,National Science Foundation (2005d),12,0.11214,9.853321e-4,2000,Grant,Multidisciplinary,United States
+40,National Science Foundation (2005e),12,0.0739,9.653449e-4,2001,Grant,Multidisciplinary,United States
+41,National Science Foundation (2005f),12,0.00872,8.838729e-4,2002,Grant,Multidisciplinary,United States
+42,National Science Foundation (2005g),12,0.06467,8.305924e-4,2003,Grant,Multidisciplinary,United States
+43,National Science Foundation (2005h),12,0.07257,7.963684e-4,2004,Grant,Multidisciplinary,United States
+44,Over (1996; ARC),13,0.10536,0.1429520481,1993,Grant,Multidisciplinary,Australia
+45,Sigelman (1987; NSF),14,-0.86392,0.6091334209,1986,Grant,Social sciences/humanities,United States
+48,Taplick (2005a; EMBO),16,-0.1039,0.0151831684,2002,Fellowship,Life sciences/biology,Europe
+49,Taplick (2005b; EMBO),16,-0.31322,0.0035414401,2000,Fellowship,Life sciences/biology,Europe
+50,Taplick (2005c; EMBO),16,-0.16188,0.0460274116,2002,Fellowship,Life sciences/biology,Europe
+46,Viner (2004a; EPSRC),15,0.35424,0.0258984649,1994,Grant,Physical sciences,United Kingdom
+47,Viner (2004b; EPSRC),15,0.05373,0.0228644641,1998,Grant,Physical sciences,United Kingdom
+51,Ward (1998; NHMRC),17,0.08573,0.0510714801,1996,Fellowship,Life sciences/biology,Australia
+52,Wellcome Trust (1997),18,0.71562,0.2265188836,1995,Grant,Life sciences/biology,United Kingdom
+53,Wenneras (1997; MRC),19,-1.42885,0.3550729744,2001,Fellowship,Physical sciences,Europe
+57,Willems (2001a; DFG),20,-0.07833,0.0065788321,2000,Grant,Life sciences/biology,Europe
+56,Willems (2001b; DFG),20,-0.10434,0.0057441241,1999,Grant,Life sciences/biology,Europe
+55,Willems (2001c; DFG),20,-0.07452,0.0062805625,1998,Grant,Life sciences/biology,Europe
+54,Willems (2001d; DFG),20,-0.08312,0.0055234624,1997,Grant,Life sciences/biology,Europe
+58,Wood (1997a; ARC),21,-0.26194,0.1470952609,1995,Grant,Life sciences/biology,Australia
+59,Wood (1997b; ARC),21,-0.43191,0.1526230489,1995,Grant,Life sciences/biology,Australia
+60,Wood (1997c; ARC),21,-0.56531,0.6184092321,1995,Grant,Physical sciences,Australia
+61,Wood (1997d; ARC),21,-1.48881,1.1067250401,1995,Grant,Physical sciences,Australia
+62,Wood (1997e; ARC),21,-0.15985,0.2695997929,1995,Grant,Physical sciences,Australia
+63,Wood (1997f; ARC),21,0.11464,0.0751527396,1995,Grant,Social sciences/humanities,Australia
+64,Wood (1997g; ARC),21,-0.17096,0.4548558249,1995,Grant,Physical sciences,Australia
+65,Wood (1997h; ARC),21,0.02763,0.0569920129,1995,Grant,Social sciences/humanities,Australia
+66,Wood (1997i; ARC),21,0.66155,0.2744397769,1995,Grant,Physical sciences,Australia

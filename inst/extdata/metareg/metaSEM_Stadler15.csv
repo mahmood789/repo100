@@ -1,0 +1,61 @@
+ID,Authors,Year,N,CPSMeasure,IntelligenceMeasure,r,v
+1,Abele et al. (2012),2012,167,MCS,Reasoning,0.4,0.00425060240963855
+2,Beckman & Guthke (1995),1995,92,Classical,General intelligence,0.15,0.0105000686813187
+3,Buhner et al. (2008),2008,144,SCS,Reasoning,0.16,0.00663954797202797
+4,Burkolter et al. (2009),2009,41,Classical,General intelligence,0.75,0.00478515625
+5,Burkolter et al. (2010),2010,39,Classical,General intelligence,0.22,0.0238300673684211
+6,Burmeister (2009),2009,44,Classical,General intelligence,0.47,0.0141162048837209
+7,Danner (2011),2011,173,SCS,Reasoning,0.86,3.94233488372093e-4
+8,Dorner et al. (1983),1983,48,Classical,Reasoning,-0.03,0.021238315106383
+9,Dorner et al. (1983),1983,48,Classical,Reasoning,0.12,0.0206682417021277
+10,Gediga et al. (1984),1984,29,Classical,General intelligence,0.09,0.0351380575
+11,Gonzales et al. (2005),2005,15,Classical,Reasoning,0.71,0.0175654864285714
+12,Gonzales et al. (2005),2005,28,Classical,Reasoning,0.63,0.013471467037037
+13,Gonzales et al. (2005),2005,74,Classical,Reasoning,0.33,0.0108775234246575
+14,Greiff & Fischer (2013),2013,140,MCS,Reasoning,0.5,0.00404676258992806
+15,Greiff et al. (2015),2015,339,Classical,Reasoning,0.24,0.00262756733727811
+16,Greiff et al. (2015),2015,339,MCS,Reasoning,0.52,0.0015748998816568
+17,Guss & Dorner (2011),2011,511,Classical,General intelligence,0.19,0.001821771
+18,Hasselmann (1993),1993,21,Classical,General intelligence,0.26,0.043468488
+19,Hesse (1982),1982,30,Classical,Reasoning,-0.17,0.0325184555172414
+20,Hesse (1982),1982,30,Classical,Reasoning,0.06,0.0342349296551724
+21,Hesse (1982),1982,30,Classical,Reasoning,0.38,0.0252431503448276
+22,Hesse (1982),1982,30,Classical,Reasoning,0.46,0.0214336055172414
+23,Hormann & Thomas (1989),1989,19,Classical,General intelligence,0.46,0.03453192
+24,Hormann & Thomas (1989),1989,21,Classical,General intelligence,-0.03,0.0499100405
+25,Hussy (1985),1985,15,Classical,Reasoning,-0.3,0.05915
+26,Hussy (1985),1985,15,Classical,Reasoning,0.25,0.0627790178571429
+27,Hussy (1985),1985,15,Classical,Reasoning,0.35,0.0550004464285714
+28,Hussy (1985),1985,15,Classical,Reasoning,0.5,0.0401785714285714
+29,Hussy (1989),1989,154,Classical,General intelligence,0.38,0.00478464941176471
+30,Kersting (2001),2001,99,Classical,General intelligence,0.26,0.00887112
+31,Klieme et al. (2001),2001,650,Classical,Reasoning,0.58,6.7852844375963e-4
+32,Kluge et al. (2011),2011,38,Classical,General intelligence,0.13,0.0261212327027027
+33,Kretzschmar (2010),2010,118,SCS,General intelligence,0.3,0.00707777777777778
+34,Kretzschmar et al. (Unpublished),Unpublished,197,MCS,General intelligence,0.34,0.0039906293877551
+35,Kroner (2001),2001,28,SCS,Reasoning,0.51,0.0202760003703704
+36,Kroner et al. (2005),2005,101,SCS,Reasoning,0.67,0.0030371121
+37,Leutner et al. (2004),2004,535,MCS,General intelligence,0.63,6.811415917603e-4
+38,Leutner et al. (2005),2005,654,Classical,Reasoning,0.84,1.32727963246554e-4
+39,Leutner (2002),2002,200,Classical,Reasoning,0.43,0.0033386332160804
+40,Leutner (2002),2002,28,Classical,Reasoning,0.05,0.0368520833333333
+41,Neubert et al. (2014),2014,576,MCS,Reasoning,0.62,6.59066713043478e-4
+42,Putz-Osterloh (1985),1985,50,Classical,General intelligence,0.36,0.015461146122449
+43,Rigas et al. (2002),2002,62,Classical,Reasoning,0.33,0.0130173640983607
+44,Scherer & Tiemann a (2014),2014,805,SCS,Reasoning,0.55,6.05107276119403e-4
+45,Scherer & Tiemann b (2014),2014,1487,SCS,Reasoning,0.58,2.96342503364738e-4
+46,Sonnleitner et al. (2012),2012,61,MCS,Reasoning,0.3,0.0138016666666667
+47,Stadler et al. (In press),In press,78,SCS,General intelligence,0.2,0.0119688311688312
+48,Stadler et al. (Unpublished),Unpublished,161,MCS,Reasoning,0.83,6.048950625e-4
+49,Stadler et al. (Unpublished),Unpublished,254,MCS,Reasoning,0.74,8.0895557312253e-4
+50,Sub et al. (1991),1991,127,Classical,Reasoning,0.47,0.004817435
+51,Sub et al. (1993),1993,214,Classical,Reasoning,0.4,0.00331267605633803
+52,Wagener & Wittmann (2002),2002,35,SCS,Reasoning,0.63,0.0106979297058824
+53,Wagener (2001),2001,63,SCS,Reasoning,0.31,0.0131779872580645
+54,Wagener (2001),2001,71,SCS,General intelligence,0.2,0.0131657142857143
+55,Wagener (2001),2001,136,SCS,General intelligence,0.47,0.00449627266666667
+56,Wagener (2001),2001,51,SCS,General intelligence,0.24,0.0177623552
+57,Wirth & Funke (2005),2005,688,SCS,Reasoning,0.46,9.04766462882096e-4
+58,Wittmann et al. (1996),1996,92,Classical,General intelligence,0.57,0.00500835175824176
+59,Wustenberg et al. (2012),2012,222,MCS,Reasoning,0.59,0.00192295751131222
+60,Wustenberg et al. (2014),2014,3191,MCS,Reasoning,0.66,9.98581065830721e-5

@@ -71,7 +71,6 @@ metareg_datasets <- function() {
 #'   str(dat)
 #'
 #' @export
-#' Meta-regression dataset helpers
 metareg_read <- function(id) {
   stopifnot(length(id) == 1, nchar(id) > 0)
   root <- .metareg_root()
